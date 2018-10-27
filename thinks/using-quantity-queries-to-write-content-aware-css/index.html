@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8" />
+    
+    
+    
+    
+    <base href="//localhost:1313">
+    <link rel="preload" href="webfonts/34C79D_0_0.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="webfonts/34C79D_1_0.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="css/main.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+    <meta name="apple-mobile-web-app-title" content="Polis Paralela">
+    <meta name="application-name" content="Polis Paralela">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+    <meta name="msvalidate.01" content="F21C36C6208514475B51C052A74397CE" />
+
+    <title>Using Quantity Queries to write content-aware CSS | Polis Paralela | Web Design Sussex</title>
+    <meta name="description" content="Quantity Queries are an exciting new concept that can be used to create content-aware styles on your website." />
+
+    <link rel="canonical" href="//localhost:1313/thinks/using-quantity-queries-to-write-content-aware-css/" />
+    <meta property="og:site_name" content="Polis Paralela" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="article:publisher" content="https://www.facebook.com/polisparalelaUK" />
+    <meta name="twitter:site" content="@polisparalelaUK" />
+    <meta name="twitter:creator" content="@polisparalelaUK" />
+
+    <meta property="og:url" content="//localhost:1313/thinks/using-quantity-queries-to-write-content-aware-css/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Using Quantity Queries to write content-aware CSS | Polis Paralela | Web Design Sussex" />
+    <meta property="og:description" content="Quantity Queries are an exciting new concept that can be used to create content-aware styles on your website." />
+    <meta property="og:image" content="//localhost:1313/images/og.jpg" />
+    <meta property="og:image:alt" content="Polis Paralela" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Using Quantity Queries to write content-aware CSS | Polis Paralela | Web Design Sussex" />
+    <meta name="twitter:description" content="Quantity Queries are an exciting new concept that can be used to create content-aware styles on your website." />
+    <meta name="twitter:image" content="//localhost:1313/images/og.jpg" />
+    
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2015-08-25 14:29:11 &#43;0000 UTC" />
+    <meta property="article:modified_time" content="2015-08-25 14:29:11 &#43;0000 UTC" />
+    <meta property="og:updated_time" content="2015-08-25 14:29:11 &#43;0000 UTC" />
+    
+    <meta property="article:section" content="Web design" />
+    
+    <meta name="twitter:label1" value="Written by" />
+    <meta name="twitter:data1" value="Trys Mudford" />
+    
+    <meta name="twitter:label2" value="Reading time" />
+    <meta name="twitter:data2" value="6 minutes" />
+    
+  
+    
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.polisparalela.co.uk\/","name":"Polis Paralela"}</script>
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//localhost:1313/images/og.jpg"}</script>
+
+    <style>
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_0_0.woff2') format('woff2'),
+             url('webfonts/34C79D_0_0.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_1_0.woff2') format('woff2'),
+             url('webfonts/34C79D_1_0.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      body {
+        font-family: 'Helvetica', sans-serif;
+      }
+      .fonts-loaded body {
+        font-family: 'NeueHaasGrotesk', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    </style>
+    <script>
+      if(sessionStorage.foutFontsLoaded) document.documentElement.className += " fonts-loaded";
+    </script>
+    
+  </head>
+  <body>
+
+    <header role="banner" class="top bw top--blog">
+      <div class="top-contact">
+        <a href="/" class="logo"><strong>Polis Paralela</strong></a>
+        <a href="#navigation" class="navicon" aria-label="Go To Navigation"><i></i><i></i><i></i></a>
+      </div>
+
+      
+        <div class="top-content wrap">
+          
+	<h1>Using Quantity Queries to write content-aware CSS</h1>
+	
+		<h3>By Trys Mudford &nbsp; &nbsp; &nbsp; <time datetime="2015-08-25 14:29:11 &#43;0000 UTC">
+25th August 2015
+</time></h3>
+	
+
+        </div>
+      
+
+      <nav id="navigation" role="navigation" aria-label="main navigation" class="top-nav bw">
+        <div class="top-nav-wrapper">
+          <div class="wrap wrap--content">
+            <a href="/created/">Our work</a>
+            <a href="/is/">About</a>
+            <a href="/creates/">What we do</a>
+            <a href="/thinks/">Blog</a>
+            <a href="/contact/">Contact</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+
+    <main class="main" role="main">
+      
+	<div class="wrap three-col insulate">
+		<aside>
+			
+				<img src="images/team/thumbnail/trys.jpg" alt="Trys Mudford">
+			
+		</aside>
+		<aside>
+			
+				<a class="traverse" href="/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/"><img src="images/traverse.svg" alt="Next Post"></a>
+			
+			
+			
+				<a class="traverse" href="/thinks/what-are-personas/"><img src="images/traverse.svg" alt="Next Post"></a>
+			
+		</aside>
+		<div class="content content--blog">
+			
+
+<p>The dawn of <abbr title="HyperText Markup Language">HTML5</abbr> and <abbr title="Cascading Style Sheets">CSS3</abbr> provided a wave of new technologies promising to change the way we build web applications. Web developer reactions to most features were similar, an initial buzz of excitement while we pondered the possibilities brought forth by these shiny new techniques followed by a crushing sense of disappointment when we realised just how long it would be before we could start using them.</p>
+
+<p>Some crest-of-the-wave developers renounced any form of support to older browsers and pressed on with the new features. However, many developers did not have the option to blindly assume that all users ran the latest cutting edge browser, if we were to do that, we&rsquo;d segregate a significant portion of our users. For this reason, it&rsquo;s usually a game of patience when it comes to using new frontend features in the wild.</p>
+
+<p>This is why it&rsquo;s so exciting to discover a feature that is both very useful and can also be used on a live website without large spoonfuls of graceful degradation.</p>
+
+<h2 id="enter-quantity-queries">Enter Quantity Queries</h2>
+
+<p>During the brilliant <a href="http://responsiveconf.com/2015/">Responsive Day Out 2015</a>, there was a stand-out talk that brought to light a concept that opened many possibilities for modular, content-aware design. In his talk on &lsquo;<a href="http://www.fivesimplesteps.com/products/solving-problems-with-selectors">Solving problems with selectors</a>&rsquo;, <a href="http://heydonworks.com/">Heydon Pickering</a> demonstrated Quantity Queries.</p>
+
+<p>Quantity Queries are a way of reacting to differing levels of content with pure vanilla, <a href="http://caniuse.com/#search=nth-last-child">well supported</a> <abbr title="Cascading Style Sheets">CSS</abbr>. They are comprised of the following:</p>
+
+<ul>
+<li>A shift in the way you think about <abbr title="Cascading Style Sheets">CSS</abbr> selectors</li>
+<li>The <code>:nth-last-child</code> selector</li>
+<li>The <code>:first-child</code> selector</li>
+<li>The <code>~ *</code> selector</li>
+</ul>
+
+<h3 id="questioning-selectors">Questioning selectors</h3>
+
+<p>To get the most out of Quantity Queries, you have to view the <abbr title="Cascading Style Sheets">CSS</abbr> selector as an <var>IF</var> statement that will ask a question of the markup and only run if all conditions are met. This more logical view of the selector helps with your decision-making when it comes to laying out specific elements.</p>
+
+<h3 id="the-nth-last-child-selector">The :nth-last-child selector</h3>
+
+<p>The <code>:nth-last-child</code> selector was added in <abbr title="Cascading Style Sheets">CSS3</abbr> but it hasn&rsquo;t had a great deal of publicity in comparison to its cool-kid siblings <code>nth-child</code> and <code>:first-of-type</code>. Their benefits are immediately obvious, hence the amount of air-time they received. <code>:nth-last-child</code> has a more subtle set of benefits that have taken longer to discover.</p>
+
+<p>This selector will select the element(s) that meet the criteria passed into the brackets of the selector, working from the bottom of the element stack and counting up.</p>
+
+<p>In its simplest form, a single number can be passed into the brackets to ask the question, <strong>&lsquo;Is this element the nth-last element that I&rsquo;m working on?&rsquo;</strong>. The <code>:nth-last-child(2)</code> selector will select the penultimate element, the <code>:nth-last-child(4)</code> selector will select the fourth-last element. Although this is handy, it&rsquo;s not going to be useful on every project. That is, until it is teamed with a number of other selectors.</p>
+
+<h3 id="the-first-child-selector">The :first-child selector</h3>
+
+<p>We all know and love the <code>:first-child</code> selector. It&rsquo;s great for making our opening paragraphs a little larger or hiding borders for the first element in a list. However, this quaint selector becomes a pretty powerful anchor when combined with <code>:nth-last-child</code>. Remember, our selectors are <var>IF</var> statements and by using <code>:first-child</code> as the first selector (imagine this as the first parameter in an <var>IF</var> statement), we&rsquo;re able to filter out all elements that are not the first element.</p>
+
+<p>Now our humble <code>:nth-last-child(4)</code> selector can be combined to create <code>:first-child:nth-last-child(4)</code> to create a much more specific selector asking the question <strong>&lsquo;Is this element the first-child and the fourth-last element that I&rsquo;m working on?&rsquo;</strong>. This is getting pretty close to something that could be very useful but it needs one final ingredient to take it to the next level.</p>
+
+<h3 id="the-selector">The ~ * selector</h3>
+
+<p>This rather bizarre selector uses two less common elements in <abbr title="Cascading Style Sheets">CSS</abbr>: the general sibling combinator and the universal selector. It asks the question <strong>&lsquo;Does this element come after the current selected element&rsquo;</strong>, effectively selecting all elements after the current element without traversing up an element level, something not currently possible in <abbr title="Cascading Style Sheets">CSS</abbr> - very cool! Combined with the previous code, we can write the following:</p>
+<div class="highlight"><pre class="chroma"><code class="language-css" data-lang="css"><span class="p">:</span><span class="nd">first-child</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">4</span><span class="o">),</span>
+<span class="p">:</span><span class="nd">first-child</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">4</span><span class="o">)</span> <span class="o">~</span> <span class="o">*</span> <span class="p">{</span>
+	<span class="c">/* Styles here */</span>
+<span class="p">}</span></code></pre></div>
+<p>This asks the question <strong>&lsquo;Is this element the first-child and the fourth-last element that I&rsquo;m working on OR does this element come after the first-child and the fourth-last element that I&rsquo;m working on?&rsquo;.</strong></p>
+
+<p>We have a <abbr title="Cascading Style Sheets">CSS</abbr> selector that can check if a container holds exactly 4 elements!</p>
+
+<blockquote>
+<p>In essence, we have created a content-aware stylesheet rule. That&rsquo;s pretty neat for a simple declarative language like CSS.</p>
+</blockquote>
+
+<h4 id="added-bonus">Added bonus</h4>
+
+<p>As the <code>:nth-last-child</code> selector works in a similar way to the famous <code>:nth-child</code> selector, you can pass more than just a single number into the selector. For example, if you pass in n+5, you are able to test whether the container holds five or more elements and style all of the elements accordingly!</p>
+
+<h2 id="why-use-quantity-queries">Why use Quantity Queries?</h2>
+
+<p>The reason I got so excited about this concept was because I could immediately see how useful it could be on the websites we develop. Being able to count the number elements in a container used to be a privilege only extended to JavaScript and server-side languages. The former meant waiting till the page had finished loading before counting the elements and the latter only worked on page load and wouldn&rsquo;t react to client-side changes. Using <abbr title="Cascading Style Sheets">CSS</abbr> to count solves both of these issues; <em>it is both dynamic and instantaneous</em>.</p>
+
+<p>In a world of Content Management Systems, the challenge to web developers is to ensure that content looks great on every device, regardless of the type and quantity of content that&rsquo;s been provided. Quantity Queries help towards this reactive goal by helping you to tidy up the page if too much or too little content has been added to a container.</p>
+
+<h2 id="putting-quantity-queries-to-work">Putting Quantity Queries to work</h2>
+
+<h3 id="tag-list">Tag list</h3>
+
+<p>I used Quantity Queries on a recent build to change the way that tags would display depending on the total number. This subtle enhancement only kicked in if there was five or more tags and it neatened up what would&rsquo;ve been a long list. Using the following simple Quantity Query, I was able to swap from a list to a brickwork-like structure with ease:</p>
+<div class="highlight"><pre class="chroma"><code class="language-css" data-lang="css"><span class="p">.</span><span class="nc">tag</span> <span class="p">{</span>
+	<span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">tag</span><span class="p">:</span><span class="nd">first-child</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">n</span><span class="o">+</span><span class="nt">5</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">tag</span><span class="p">:</span><span class="nd">first-child</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">n</span><span class="o">+</span><span class="nt">5</span><span class="o">)</span> <span class="o">~</span> <span class="o">*</span> <span class="p">{</span>
+	<span class="k">display</span><span class="p">:</span> <span class="kc">inline</span><span class="o">-</span><span class="kc">block</span><span class="p">;</span>
+<span class="p">}</span></code></pre></div>
+<p><img src="images/blog/query.gif" alt="" title="The finished result" /></p>
+
+<h3 id="the-grid-system">The Grid System</h3>
+
+<p>I put Quantity Queries to use on a template that required a flexible grid system to display a list of projects and news items. My aim to was to ensure that no orphaned elements would be left at the end of the list, regardless of how many items were in the system. Using a more complex set of selectors, I was able to create an effective grid system.</p>
+<div class="highlight"><pre class="chroma"><code class="language-css" data-lang="css"><span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">3n</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">3n</span><span class="o">+</span><span class="nt">1</span><span class="o">)</span><span class="p">:</span><span class="nd">last-child</span><span class="o">,</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">1</span><span class="o">)</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">4</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">1</span><span class="o">)</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">4</span><span class="o">)</span> <span class="o">~</span> <span class="p">.</span><span class="nc">panel</span><span class="o">,</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">4</span><span class="o">)</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">4</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">4</span><span class="o">)</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">4</span><span class="o">)</span> <span class="o">~</span> <span class="p">.</span><span class="nc">panel</span> <span class="p">{</span>
+	<span class="k">width</span><span class="p">:</span> <span class="mi">25</span><span class="kt">%</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">1</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">6</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">2</span><span class="o">)</span><span class="p">:</span><span class="nd">last-child</span><span class="o">,</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">4</span><span class="o">)</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">2</span><span class="o">),</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">6n</span><span class="o">+</span><span class="nt">4</span><span class="o">)</span><span class="p">:</span><span class="nd">nth-last-child</span><span class="o">(</span><span class="nt">2</span><span class="o">)</span> <span class="o">~</span> <span class="p">.</span><span class="nc">panel</span> <span class="p">{</span>
+	<span class="k">width</span><span class="p">:</span> <span class="mi">50</span><span class="kt">%</span><span class="p">;</span>
+<span class="p">}</span></code></pre></div>
+<p><img src="images/blog/grid.gif" alt="" /></p>
+
+<h2 id="in-closing">In closing</h2>
+
+<p>Working with Quantity Queries is a lot of fun. They give new possibilities for modular element design and they do a brilliant job of tidying up content extremes making your projects more flexible and future-proof.</p>
+
+			
+			<aside class="signup-form">
+				<h2>Get tips and advice straight to your inbox</h2>
+				<p>Sign up to receive Polis Paralela's weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.</p>
+				<form action="https://www.getdrip.com/forms/107702195/submissions" method="post" class="drip-form" data-drip-embedded-form="107702195">
+	<div class="clear">
+		<div>
+			<label for="drip-email">Your email address *</label>
+			<input id="drip-email" name="fields[email]" type="email" value="" />
+		</div>
+		<div><input name="submit" type="submit" class="button" value="Join the list" /></div>
+	</div>
+</form>
+
+<small style="line-height: 1.4; display: block;">You can unsubscribe in one click, and we'll never share your email address.<br><u><a href="/privacy/">Our Privacy policy</a></u>.</small>
+
+			</aside>
+		</div>
+	</div>
+	
+	
+	
+	
+	<script type='application/ld+json'>
+		{
+			"@context":"http:\/\/schema.org",
+			"description": "Quantity Queries are an exciting new concept that can be used to create content-aware styles on your website.",
+			"dateModified": "2015-08-25 14:29:11 &#43;0000 UTC",
+			"alternativeHeadline": "Using Quantity Queries to write content-aware CSS",
+			"headline": "Using Quantity Queries to write content-aware CSS",
+			"datePublished": "2015-08-25 14:29:11 &#43;0000 UTC",
+			"@type": "NewsArticle",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "//localhost:1313/thinks/using-quantity-queries-to-write-content-aware-css/"
+			},
+			"articleSection": "Web design",
+			"url": "//localhost:1313/thinks/using-quantity-queries-to-write-content-aware-css/",
+			"author": {
+				"@type": "Person",
+				"name": "Trys Mudford"
+			},
+			"publisher": {
+				"name": "Polis Paralela",
+				"@type": "Organization",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "//localhost:1313/images/og.jpg"
+				}
+			},
+			"image": "//localhost:1313/images/og.jpg"
+		}
+	</script>
+
+    </main>
+
+    
+
+
+    
+
+    <aside class="cta insulate--mid">
+        <div class="wrap wrap--content">
+            <h3>Ready to get started?</h3>
+            <h2>Let's grow your business</h2>
+            <a href="/contact/" class="button">Get in touch</a>
+        </div>
+    </aside>
+
+
+      
+    <footer role="contentinfo" class="wrap">
+  <div class="low clear">
+    <a class="logo" href="/"><strong>Polis Paralela</strong></a>
+    <ul class="low-group">
+      <li class="low-address">
+        <ul>
+          <li>
+            <a href="/creates/strategy/">Strategy</a>
+          </li>
+          <li>
+            <a href="/creates/brand/">Brand</a>
+          </li>
+          <li>
+            <a href="/creates/web/">Web</a>
+          </li>
+          <li>
+            <a href="/creates/online-marketing/">Digital Marketing</a>
+          </li>
+        </ul>
+      </li>
+      <li class="low-contact">
+        <ul>
+          <li>
+            <a rel="me" href="mailto:hello@polisparalela.com">hello@polisparalela.com</a>
+          </li>
+          <li><br></li>
+          <li>
+            <a href="/contact/">Contact us</a>
+          </li>
+        </ul>
+      </li>
+      <li class="low-social">
+        <ul>
+          <li>
+            <a rel="me" href="https://twitter.com/polisparalelaUK"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path fill-rule="nonzero" d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z "></path></svg><span>Twitter</span></a>
+          </li>
+          
+          <li>
+            <a rel="me" href="https://www.instagram.com/polisparalelaUK/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path fill-rule="nonzero" d="M8 0C5.827 0 5.555.01 4.702.048 3.85.088 3.27.222 2.76.42c-.526.204-.973.478-1.417.923-.445.444-.72.89-.923 1.417-.198.51-.333 1.09-.372 1.942C.008 5.555 0 5.827 0 8s.01 2.445.048 3.298c.04.852.174 1.433.372 1.942.204.526.478.973.923 1.417.444.445.89.72 1.417.923.51.198 1.09.333 1.942.372.853.04 1.125.048 3.298.048s2.445-.01 3.298-.048c.852-.04 1.433-.174 1.942-.372.526-.204.973-.478 1.417-.923.445-.444.72-.89.923-1.417.198-.51.333-1.09.372-1.942.04-.853.048-1.125.048-3.298s-.01-2.445-.048-3.298c-.04-.852-.174-1.433-.372-1.942-.204-.526-.478-.973-.923-1.417-.444-.445-.89-.72-1.417-.923-.51-.198-1.09-.333-1.942-.372C10.445.008 10.173 0 8 0zm0 1.44c2.136 0 2.39.01 3.233.048.78.036 1.203.166 1.485.276.374.145.64.318.92.598.28.28.453.546.598.92.11.282.24.705.276 1.485.038.844.047 1.097.047 3.233s-.01 2.39-.05 3.233c-.04.78-.17 1.203-.28 1.485-.15.374-.32.64-.6.92-.28.28-.55.453-.92.598-.28.11-.71.24-1.49.276-.85.038-1.1.047-3.24.047s-2.39-.01-3.24-.05c-.78-.04-1.21-.17-1.49-.28-.38-.15-.64-.32-.92-.6-.28-.28-.46-.55-.6-.92-.11-.28-.24-.71-.28-1.49-.03-.84-.04-1.1-.04-3.23s.01-2.39.04-3.24c.04-.78.17-1.21.28-1.49.14-.38.32-.64.6-.92.28-.28.54-.46.92-.6.28-.11.7-.24 1.48-.28.85-.03 1.1-.04 3.24-.04zm0 2.452c-2.27 0-4.108 1.84-4.108 4.108 0 2.27 1.84 4.108 4.108 4.108 2.27 0 4.108-1.84 4.108-4.108 0-2.27-1.84-4.108-4.108-4.108zm0 6.775c-1.473 0-2.667-1.194-2.667-2.667 0-1.473 1.194-2.667 2.667-2.667 1.473 0 2.667 1.194 2.667 2.667 0 1.473-1.194 2.667-2.667 2.667zm5.23-6.937c0 .53-.43.96-.96.96s-.96-.43-.96-.96.43-.96.96-.96.96.43.96.96z "></path></svg><span>Instagram</span></a>
+          </li>
+
+          <li>
+            <a rel="me" href="https://www.facebook.com/polisparalelaUK/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32"><path d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"></path></svg><span>Facebook</span></a>
+          </li>
+          
+          <li>
+            <a rel="me" href="https://www.linkedin.com/company/polisparalela">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32"><path d="M12 12h5.535v2.837h0.079c0.77-1.381 2.655-2.837 5.464-2.837 5.842 0 6.922 3.637 6.922 8.367v9.633h-5.769v-8.54c0-2.037-0.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509v8.688h-5.767v-18z"></path><path d="M2 12h6v18h-6v-18z"></path><path d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><span>LinkedIn</span></svg>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <small class="copyright">
+    &copy; Polis Paralela 2018 <a href="/careers/">Careers</a> <a href="/privacy/">Privacy</a>
+  </small>
+</footer>
+
+
+    <script src="app.js" async defer></script>
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function(user) {
+          if (!user) {
+            window.netlifyIdentity.on("login", function() {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

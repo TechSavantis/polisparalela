@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8" />
+    
+    
+    
+    
+    <base href="//localhost:1313">
+    <link rel="preload" href="webfonts/34C79D_0_0.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="webfonts/34C79D_1_0.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="css/main.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+    <meta name="apple-mobile-web-app-title" content="Polis Paralela">
+    <meta name="application-name" content="Polis Paralela">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+    <meta name="msvalidate.01" content="F21C36C6208514475B51C052A74397CE" />
+
+    <title>Building a Progressive Web App | Polis Paralela | Web Design Sussex</title>
+    <meta name="description" content="How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?" />
+
+    <link rel="canonical" href="//localhost:1313/thinks/building-progressive-web-app/" />
+    <meta property="og:site_name" content="Polis Paralela" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="article:publisher" content="https://www.facebook.com/polisparalelaUK" />
+    <meta name="twitter:site" content="@polisparalelaUK" />
+    <meta name="twitter:creator" content="@polisparalelaUK" />
+
+    <meta property="og:url" content="//localhost:1313/thinks/building-progressive-web-app/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Building a Progressive Web App | Polis Paralela | Web Design Sussex" />
+    <meta property="og:description" content="How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?" />
+    <meta property="og:image" content="//localhost:1313/images/blog/mockup.jpg" />
+    <meta property="og:image:alt" content="Polis Paralela" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Building a Progressive Web App | Polis Paralela | Web Design Sussex" />
+    <meta name="twitter:description" content="How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?" />
+    <meta name="twitter:image" content="//localhost:1313/images/blog/mockup.jpg" />
+    
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2018-04-13 09:00:49 &#43;0000 UTC" />
+    <meta property="article:modified_time" content="2018-04-13 09:00:49 &#43;0000 UTC" />
+    <meta property="og:updated_time" content="2018-04-13 09:00:49 &#43;0000 UTC" />
+    
+    <meta property="article:section" content="Tips and advice" />
+    
+    <meta name="twitter:label1" value="Written by" />
+    <meta name="twitter:data1" value="Trys Mudford" />
+    
+    <meta name="twitter:label2" value="Reading time" />
+    <meta name="twitter:data2" value="8 minutes" />
+    
+  
+    
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.polisparalela.co.uk\/","name":"Polis Paralela"}</script>
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//localhost:1313/images/og.jpg"}</script>
+
+    <style>
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_0_0.woff2') format('woff2'),
+             url('webfonts/34C79D_0_0.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_1_0.woff2') format('woff2'),
+             url('webfonts/34C79D_1_0.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      body {
+        font-family: 'Helvetica', sans-serif;
+      }
+      .fonts-loaded body {
+        font-family: 'NeueHaasGrotesk', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    </style>
+    <script>
+      if(sessionStorage.foutFontsLoaded) document.documentElement.className += " fonts-loaded";
+    </script>
+    
+  </head>
+  <body>
+
+    <header role="banner" class="top bw top--blog">
+      <div class="top-contact">
+        <a href="/" class="logo"><strong>Polis Paralela</strong></a>
+        <a href="#navigation" class="navicon" aria-label="Go To Navigation"><i></i><i></i><i></i></a>
+      </div>
+
+      
+        <div class="top-content wrap">
+          
+	<h1>Building a Progressive Web App</h1>
+	
+		<h3>By Trys Mudford &nbsp; &nbsp; &nbsp; <time datetime="2018-04-13 09:00:49 &#43;0000 UTC">
+13rd April 2018
+</time></h3>
+	
+
+        </div>
+      
+
+      <nav id="navigation" role="navigation" aria-label="main navigation" class="top-nav bw">
+        <div class="top-nav-wrapper">
+          <div class="wrap wrap--content">
+            <a href="/created/">Our work</a>
+            <a href="/is/">About</a>
+            <a href="/creates/">What we do</a>
+            <a href="/thinks/">Blog</a>
+            <a href="/contact/">Contact</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+
+    <main class="main" role="main">
+      
+	<div class="wrap three-col insulate">
+		<aside>
+			
+				<img src="images/team/thumbnail/trys.jpg" alt="Trys Mudford">
+			
+		</aside>
+		<aside>
+			
+				<a class="traverse" href="/thinks/blue-notes-international-jazz-day/"><img src="images/traverse.svg" alt="Next Post"></a>
+			
+			
+			
+				<a class="traverse" href="/thinks/post-to-instagram-desktop-chrome-pc-mac/"><img src="images/traverse.svg" alt="Next Post"></a>
+			
+		</aside>
+		<div class="content content--blog">
+			
+
+<h2 id="how-do-you-provide-retail-staff-around-the-world-with-high-quality-training-for-a-product-that-s-growing-exponentially">How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?</h2>
+
+<hr />
+
+<p>We’ve been working with <a href="http://www.agon-systems.com/">Agon Systems</a> for a number of years; creating their brand identity, designing and building their website, leading their digital marketing strategy, creating exhibition stands, stationery and presentation boxes, and most recently, building a single-page website for one of their biggest distribution products: <a href="http://www.concepttag.com/">Concept Tag</a>.</p>
+
+<p><img src="images/blog/concept-tag.jpg" alt="" title="Concept Tags and a releaser unit" /></p>
+
+<p>The Concept Tag is a new type of retail security tag that is revolutionising the industry. Its unique locking mechanism makes it almost impenetrable, and recent extensive trials resulted in losses being reduced by up to 66%.</p>
+
+<p>These impressive statistics have led to a huge uptake in the product from retailers around the globe. To aid their ever-increasing customer base, Agon Systems reached out to us to help them provide a training system that could be used as a tool for retail staff.</p>
+
+<h2 id="choosing-the-right-solution">Choosing the right solution</h2>
+
+<p>We begin every project with an open mind on how to best deliver a product that serves the client&rsquo;s needs. Only by listening to their requirements and considering all available options can we offer the best solution.</p>
+
+<p>For this project, there were three target users: retail staff, retail installers and retail managers. Staff tend to have a mobile phone with them at all times so on-demand training could be achieved through an app or mobile website. Installers travel to stores around the country, fitting the releaser units to till-spaces. Mobile phone and laptop access would be their main way to watch the training. Managers organise group training sessions for the staff, carrying around a tablet or laptop and delivering the training using a projector.</p>
+
+<h2 id="native-app">Native App</h2>
+
+<p>During our initial discussions, the word ‘App’ was floated around as a possible solution. Given the high percentage of smartphone owners in the retail staff demographic, it seemed like a logical option. But upon investigation into the pros and cons, the results were less convincing:</p>
+
+<h3 id="pros-of-a-native-app">Pros of a native app</h3>
+
+<ol>
+<li>Access to information without an internet connection</li>
+<li>Native gesture controls like ‘swiping’ and access to device hardware if required</li>
+<li>A branded experience on a user&rsquo;s phone</li>
+</ol>
+
+<h3 id="cons-of-a-native-app">Cons of a native app</h3>
+
+<ol>
+<li>Time-consuming and therefore expensive to develop</li>
+<li>iPhone, iPad, Android versions need to be created, along with a web version for Windows, Blackberry, other operating systems, tablets, desktops and ‘standard’ mobile phones</li>
+<li>Slow to update if changes are required</li>
+<li>App store financial charges</li>
+<li>Large initial download size for not a lot of information</li>
+<li>In the UK alone, half of smartphone users install zero apps per month</li>
+<li>Often synonymous with shady device permissions</li>
+</ol>
+
+<h2 id="progressive-web-app">Progressive Web App</h2>
+
+<p>We therefore proposed an alternative solution, a ‘*Progressive Web App*’ (PWA). This is a new web platform feature gaining rapid support and acclaim that’s revolutionising the mobile-web landscape (sounds remarkably similar to the effect Concept Tag is having on the retail-security sector!).</p>
+
+<p>A PWA is a website that uses cutting edge (but pretty well supported) technology to allow the site to be available offline. It can also be ‘installed’ on the user&rsquo;s device without going through an app store, giving a blazingly fast and beautifully branded experience with very few downsides.</p>
+
+<p>The pros and cons list looks remarkably different for a PWA:</p>
+
+<h3 id="pros-of-a-pwa">Pros of a PWA</h3>
+
+<ol>
+<li>Access to information without an internet connection</li>
+<li>Gesture controls like ‘swiping’ and some access to device hardware if required</li>
+<li>A branded experience on a user&rsquo;s phone</li>
+<li>Quicker and therefore cheaper to develop</li>
+<li>One version of the ‘app’ for all devices and computers</li>
+<li>Immediate updates</li>
+<li>No app store charges</li>
+<li>Tiny amounts of data usage</li>
+<li>No mandatory installation</li>
+<li>No device permissions required</li>
+<li>Shareable via URLs</li>
+</ol>
+
+<h3 id="cons-of-a-pwa">Cons of a PWA</h3>
+
+<ol>
+<li>No offline/installation support on IOS (yet!)</li>
+</ol>
+
+<h2 id="designing-a-pwa">Designing a PWA</h2>
+
+<p>As a PWA is in essence a website that can be installed and used offline, we were able to approach the project in the same way we would a ‘normal’ responsive website. But we were also able to use some ‘app-like’ design standards to help those viewing the site on a smaller device feel right at home.</p>
+
+<p><img src="images/blog/app-1-home-1024x755.jpg" alt="" title="The opening screen" /></p>
+
+<p><img src="images/blog/app-2-videos-1024x755.jpg" alt="" title="Browse the training videos" /></p>
+
+<p><img src="images/blog/app-5-help-1024x755.jpg" alt="" title="Modal window for immediate contact information" /></p>
+
+<p>As most of the training content would be provided in a video format, we designed a custom media player to keep the PWA consistently on-brand.</p>
+
+<p><img src="images/blog/app-3-video-1024x755.jpg" alt="" title="Bespoke media player" /></p>
+
+<p><img src="images/blog/app-4-media-1024x755.jpg" alt="" title="Full screen media player" /></p>
+
+<p>On larger screens, we were able to shift to a more traditional ‘desktop’ experience with ease. The beauty of a PWA is that this is a single website using responsive design techniques to optimise each device. We don’t have to release separate iPhone, iPad and Android versions.</p>
+
+<p><img src="images/blog/MacBook-Pro-mockup-1024x614.jpg" alt="" title="The PWA on a laptop" /></p>
+
+<h2 id="developing-a-pwa">Developing a PWA</h2>
+
+<p>Using a Javascript framework to build a website is not uncommon these days. I <a href="/thinks/right-use-framework-name/">ranted about them</a> on this blog last year. In that piece, I wrote the following:</p>
+
+<blockquote>
+<p>The biggest issue however, is the sole reliance on Javascript to serve content. If a framework requires rendering a page with no content just so it can take control, count me out. Although the days of users without Javascript are pretty much over, there’s still no reason not to serve content in the first response from the server. If connection speeds are struggling, I’d rather not wait for 1MB of Javascript to download and parse before requesting the actual page content, thank you very much.</p>
+</blockquote>
+
+<p>I still wholeheartedly stand by that opinion and was therefore not happy to build this PWA using a client-side only framework.</p>
+
+<p>The solution I went with was a pre-rendered site using VueJS. Vue is a tremendous framework that is akin to a child of React and Angular where only the best features have been kept. It’s also pretty lean. Using a Webpack build system, I was able to prerender all static routes to simple minified .html files.</p>
+
+<p>When a page is served, if the browser has Javascript, Vue takes over and handles super-snappy page changes. If Javascript fails or takes too long to download, it doesn’t matter. <em>All the page content is available without a reliance on Javascript</em>. Then the PWA magic can start.</p>
+
+<p>The technology required to turn a website into a PWA is called the Service Worker. It’s effectively a proxy that sits between the browser and the network, catching and caching network requests. In our case, it does the following:</p>
+
+<ol>
+<li>The browser requests an asset, ie. an image, JS file or page</li>
+<li>The service worker checks to see if it has already saved that asset in the cache</li>
+<li>If it&rsquo;s in the cache, it immediately returns it to the browser, ceasing the need for a network request</li>
+
+<li><p>If it doesn’t have it in the cache:</p></li>
+
+<li><p>It requests the asset from the network</p></li>
+
+<li><p>It saves a copy of the response in the cache for next time</p></li>
+
+<li><p>It returns the response to the browser</p></li>
+</ol>
+
+<p>On the first visit to the site, the Service Worker requests a couple of additional files including the key pages for the site, the CSS and the JS. From that point onwards, <em>the network is not required to use the PWA</em>.</p>
+
+<h2 id="the-apple-shaped-elephant-in-the-room">The Apple-shaped elephant in the room</h2>
+
+<p>This is the biggest problem facing PWA adoption. Apple are being a bit stubborn in adding Service Worker support to Safari. They’ve shown some ‘positive signals’ but at the time of writing, they haven’t committed to implementing it. I can appreciate why, they make an inordinate amount of money from app sales and selling PWA’s hasn’t really been explored yet.</p>
+
+<p>But given they are the <a href="https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue">9th richest company in the world</a>, you’d hope they could be a bit more relaxed about it. Apps aren’t going anywhere fast. Games and deep-device integration will always be initially suited to native apps. It’s a great way of pushing hardware to the limit as native apps are one abstraction closer to the device.</p>
+
+<p>Fortunately, Service Workers have been designed with progressive enhancement in mind. <em>A PWA will still work like any other website in a browser that doesn’t support Service Workers</em>.</p>
+
+<p>More critically for this specific PWA, a growing proportion of Agon System’s customers are coming from emerging markets where the use of Android smartphones is almost exclusive due to the eye-watering pricing of Apple products. In these markets, mobile internet is also <a href="https://whatdoesmysitecost.com/">very expensive</a>. Reducing the number of network requests saves the user’s money. And <a href="https://twitter.com/MaxSanna/status/850045916119789570">unlike a native app</a>, minor content changes don’t mean a full app update, just a single page request.</p>
+
+<h2 id="launching-a-pwa">Launching a PWA</h2>
+
+<p>Much like any other website, launching this was as straightforward as pointing a domain to our server, adding an SSL certificate with Let’s Encrypt and uploading the static html files. There is a small Node JS server handling the URL routing for static and dynamic pages.</p>
+
+<p>Google Analytics can still be used for a PWA, even when the user is offline. The pageviews are stored and when the network becomes available again, <a href="https://www.npmjs.com/package/sw-offline-google-analytics">sw-offline-google-analytics</a> will submit the time-altered events to GA.</p>
+
+<hr />
+
+<p><em>Sean Welch, Managing Director of Agon Systems</em>, said: <strong>“We’re delighted to launch this app as part of our investment in the continued development of service we provide along with the Concept Tag itself.&rdquo;</strong></p>
+
+<p><strong>&ldquo;We’re particularly happy with the ability for the entirety of the app to be downloaded onto Android devices,”</strong> Sean added. <strong>“It’s something we think will be particularly welcome alongside our expansion into emerging markets, where Android is far more common over iPhones and Internet connections might be weaker.”</strong></p>
+
+<a href="https://training.concepttag.com/" class="button">Visit the PWA</a>
+
+
+			
+			<aside class="signup-form">
+				<h2>Get tips and advice straight to your inbox</h2>
+				<p>Sign up to receive Polis Paralela's weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.</p>
+				<form action="https://www.getdrip.com/forms/107702195/submissions" method="post" class="drip-form" data-drip-embedded-form="107702195">
+	<div class="clear">
+		<div>
+			<label for="drip-email">Your email address *</label>
+			<input id="drip-email" name="fields[email]" type="email" value="" />
+		</div>
+		<div><input name="submit" type="submit" class="button" value="Join the list" /></div>
+	</div>
+</form>
+
+<small style="line-height: 1.4; display: block;">You can unsubscribe in one click, and we'll never share your email address.<br><u><a href="/privacy/">Our Privacy policy</a></u>.</small>
+
+			</aside>
+		</div>
+	</div>
+	
+	
+	
+	
+	<script type='application/ld+json'>
+		{
+			"@context":"http:\/\/schema.org",
+			"description": "How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?",
+			"dateModified": "2018-04-13 09:00:49 &#43;0000 UTC",
+			"alternativeHeadline": "Building a Progressive Web App",
+			"headline": "Building a Progressive Web App",
+			"datePublished": "2018-04-13 09:00:49 &#43;0000 UTC",
+			"@type": "NewsArticle",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "//localhost:1313/thinks/building-progressive-web-app/"
+			},
+			"articleSection": "Tips and advice",
+			"url": "//localhost:1313/thinks/building-progressive-web-app/",
+			"author": {
+				"@type": "Person",
+				"name": "Trys Mudford"
+			},
+			"publisher": {
+				"name": "Polis Paralela",
+				"@type": "Organization",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "//localhost:1313/images/og.jpg"
+				}
+			},
+			"image": "//localhost:1313/images/blog/mockup.jpg"
+		}
+	</script>
+
+    </main>
+
+    
+	<style>
+		[role=banner] {
+			background: -webkit-linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('images/blog/mockup.jpg') center 50% /cover no-repeat;
+			background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('images/blog/mockup.jpg') center 50% /cover no-repeat;
+		}
+
+		@media screen and (min-width: 768px) {
+			[role=banner] {
+				background-image: -webkit-linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('images/blog/mockup.jpg');
+				background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('images/blog/mockup.jpg');
+			}
+		}
+
+		
+	</style>
+
+
+
+    
+
+    <aside class="cta insulate--mid">
+        <div class="wrap wrap--content">
+            <h3>Ready to get started?</h3>
+            <h2>Let's grow your business</h2>
+            <a href="/contact/" class="button">Get in touch</a>
+        </div>
+    </aside>
+
+
+      
+    <footer role="contentinfo" class="wrap">
+  <div class="low clear">
+    <a class="logo" href="/"><strong>Polis Paralela</strong></a>
+    <ul class="low-group">
+      <li class="low-address">
+        <ul>
+          <li>
+            <a href="/creates/strategy/">Strategy</a>
+          </li>
+          <li>
+            <a href="/creates/brand/">Brand</a>
+          </li>
+          <li>
+            <a href="/creates/web/">Web</a>
+          </li>
+          <li>
+            <a href="/creates/online-marketing/">Digital Marketing</a>
+          </li>
+        </ul>
+      </li>
+      <li class="low-contact">
+        <ul>
+          <li>
+            <a rel="me" href="mailto:hello@polisparalela.com">hello@polisparalela.com</a>
+          </li>
+          <li><br></li>
+          <li>
+            <a href="/contact/">Contact us</a>
+          </li>
+        </ul>
+      </li>
+      <li class="low-social">
+        <ul>
+          <li>
+            <a rel="me" href="https://twitter.com/polisparalelaUK"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path fill-rule="nonzero" d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z "></path></svg><span>Twitter</span></a>
+          </li>
+          
+          <li>
+            <a rel="me" href="https://www.instagram.com/polisparalelaUK/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path fill-rule="nonzero" d="M8 0C5.827 0 5.555.01 4.702.048 3.85.088 3.27.222 2.76.42c-.526.204-.973.478-1.417.923-.445.444-.72.89-.923 1.417-.198.51-.333 1.09-.372 1.942C.008 5.555 0 5.827 0 8s.01 2.445.048 3.298c.04.852.174 1.433.372 1.942.204.526.478.973.923 1.417.444.445.89.72 1.417.923.51.198 1.09.333 1.942.372.853.04 1.125.048 3.298.048s2.445-.01 3.298-.048c.852-.04 1.433-.174 1.942-.372.526-.204.973-.478 1.417-.923.445-.444.72-.89.923-1.417.198-.51.333-1.09.372-1.942.04-.853.048-1.125.048-3.298s-.01-2.445-.048-3.298c-.04-.852-.174-1.433-.372-1.942-.204-.526-.478-.973-.923-1.417-.444-.445-.89-.72-1.417-.923-.51-.198-1.09-.333-1.942-.372C10.445.008 10.173 0 8 0zm0 1.44c2.136 0 2.39.01 3.233.048.78.036 1.203.166 1.485.276.374.145.64.318.92.598.28.28.453.546.598.92.11.282.24.705.276 1.485.038.844.047 1.097.047 3.233s-.01 2.39-.05 3.233c-.04.78-.17 1.203-.28 1.485-.15.374-.32.64-.6.92-.28.28-.55.453-.92.598-.28.11-.71.24-1.49.276-.85.038-1.1.047-3.24.047s-2.39-.01-3.24-.05c-.78-.04-1.21-.17-1.49-.28-.38-.15-.64-.32-.92-.6-.28-.28-.46-.55-.6-.92-.11-.28-.24-.71-.28-1.49-.03-.84-.04-1.1-.04-3.23s.01-2.39.04-3.24c.04-.78.17-1.21.28-1.49.14-.38.32-.64.6-.92.28-.28.54-.46.92-.6.28-.11.7-.24 1.48-.28.85-.03 1.1-.04 3.24-.04zm0 2.452c-2.27 0-4.108 1.84-4.108 4.108 0 2.27 1.84 4.108 4.108 4.108 2.27 0 4.108-1.84 4.108-4.108 0-2.27-1.84-4.108-4.108-4.108zm0 6.775c-1.473 0-2.667-1.194-2.667-2.667 0-1.473 1.194-2.667 2.667-2.667 1.473 0 2.667 1.194 2.667 2.667 0 1.473-1.194 2.667-2.667 2.667zm5.23-6.937c0 .53-.43.96-.96.96s-.96-.43-.96-.96.43-.96.96-.96.96.43.96.96z "></path></svg><span>Instagram</span></a>
+          </li>
+
+          <li>
+            <a rel="me" href="https://www.facebook.com/polisparalelaUK/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32"><path d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"></path></svg><span>Facebook</span></a>
+          </li>
+          
+          <li>
+            <a rel="me" href="https://www.linkedin.com/company/polisparalela">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32"><path d="M12 12h5.535v2.837h0.079c0.77-1.381 2.655-2.837 5.464-2.837 5.842 0 6.922 3.637 6.922 8.367v9.633h-5.769v-8.54c0-2.037-0.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509v8.688h-5.767v-18z"></path><path d="M2 12h6v18h-6v-18z"></path><path d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><span>LinkedIn</span></svg>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <small class="copyright">
+    &copy; Polis Paralela 2018 <a href="/careers/">Careers</a> <a href="/privacy/">Privacy</a>
+  </small>
+</footer>
+
+
+    <script src="app.js" async defer></script>
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function(user) {
+          if (!user) {
+            window.netlifyIdentity.on("login", function() {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

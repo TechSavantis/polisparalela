@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8" />
+    
+    
+    
+    
+    <base href="//localhost:1313">
+    <link rel="preload" href="webfonts/34C79D_0_0.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="webfonts/34C79D_1_0.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="css/main.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+    <meta name="apple-mobile-web-app-title" content="Polis Paralela">
+    <meta name="application-name" content="Polis Paralela">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+    <meta name="msvalidate.01" content="F21C36C6208514475B51C052A74397CE" />
+
+    <title>How to speed up your website - Deferred loading | Polis Paralela | Web Design Sussex</title>
+    <meta name="description" content="No one likes a slow website. Here&#39;s how you can speed up your site by deferring the loading of scripts." />
+
+    <link rel="canonical" href="//localhost:1313/thinks/deferred-loading/" />
+    <meta property="og:site_name" content="Polis Paralela" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="article:publisher" content="https://www.facebook.com/polisparalelaUK" />
+    <meta name="twitter:site" content="@polisparalelaUK" />
+    <meta name="twitter:creator" content="@polisparalelaUK" />
+
+    <meta property="og:url" content="//localhost:1313/thinks/deferred-loading/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="How to speed up your website - Deferred loading | Polis Paralela | Web Design Sussex" />
+    <meta property="og:description" content="No one likes a slow website. Here&#39;s how you can speed up your site by deferring the loading of scripts." />
+    <meta property="og:image" content="//localhost:1313/images/og.jpg" />
+    <meta property="og:image:alt" content="Polis Paralela" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How to speed up your website - Deferred loading | Polis Paralela | Web Design Sussex" />
+    <meta name="twitter:description" content="No one likes a slow website. Here&#39;s how you can speed up your site by deferring the loading of scripts." />
+    <meta name="twitter:image" content="//localhost:1313/images/og.jpg" />
+    
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2014-01-16 13:39:25 &#43;0000 UTC" />
+    <meta property="article:modified_time" content="2014-01-16 13:39:25 &#43;0000 UTC" />
+    <meta property="og:updated_time" content="2014-01-16 13:39:25 &#43;0000 UTC" />
+    
+    <meta property="article:section" content="Tips and advice" />
+    
+    <meta name="twitter:label1" value="Written by" />
+    <meta name="twitter:data1" value="Trys Mudford" />
+    
+    <meta name="twitter:label2" value="Reading time" />
+    <meta name="twitter:data2" value="2 minutes" />
+    
+  
+    
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.polisparalela.co.uk\/","name":"Polis Paralela"}</script>
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//localhost:1313/images/og.jpg"}</script>
+
+    <style>
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_0_0.woff2') format('woff2'),
+             url('webfonts/34C79D_0_0.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_1_0.woff2') format('woff2'),
+             url('webfonts/34C79D_1_0.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      body {
+        font-family: 'Helvetica', sans-serif;
+      }
+      .fonts-loaded body {
+        font-family: 'NeueHaasGrotesk', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    </style>
+    <script>
+      if(sessionStorage.foutFontsLoaded) document.documentElement.className += " fonts-loaded";
+    </script>
+    
+  </head>
+  <body>
+
+    <header role="banner" class="top bw top--blog">
+      <div class="top-contact">
+        <a href="/" class="logo"><strong>Polis Paralela</strong></a>
+        <a href="#navigation" class="navicon" aria-label="Go To Navigation"><i></i><i></i><i></i></a>
+      </div>
+
+      
+        <div class="top-content wrap">
+          
+	<h1>How to speed up your website - Deferred loading</h1>
+	
+		<h3>By Trys Mudford &nbsp; &nbsp; &nbsp; <time datetime="2014-01-16 13:39:25 &#43;0000 UTC">
+16th January 2014
+</time></h3>
+	
+
+        </div>
+      
+
+      <nav id="navigation" role="navigation" aria-label="main navigation" class="top-nav bw">
+        <div class="top-nav-wrapper">
+          <div class="wrap wrap--content">
+            <a href="/created/">Our work</a>
+            <a href="/is/">About</a>
+            <a href="/creates/">What we do</a>
+            <a href="/thinks/">Blog</a>
+            <a href="/contact/">Contact</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+
+    <main class="main" role="main">
+      
+	<div class="wrap three-col insulate">
+		<aside>
+			
+				<img src="images/team/thumbnail/trys.jpg" alt="Trys Mudford">
+			
+		</aside>
+		<aside>
+			
+				<a class="traverse" href="/thinks/write-good-blog-post-part-3-finishing-touches/"><img src="images/traverse.svg" alt="Next Post"></a>
+			
+			
+			
+				<a class="traverse" href="/thinks/write-good-blog-post-part-2-writing-good-content/"><img src="images/traverse.svg" alt="Next Post"></a>
+			
+		</aside>
+		<div class="content content--blog">
+			<p>I think it’s fair to say that everyone hates a slow website. As internet speeds have increased over time, so has the amount of dynamic content being loaded into the browser and sadly that takes time to download. Furthermore, mobile usage is constantly increasing and catering for the slow speeds of mobile internet should be high on our agendas as developers.</p>
+
+<p>A slow website can even harm your search position; in 2010 Google started using page load time as a factor in their rankings. Anything above 3 seconds and you could see an affect in search position.</p>
+
+<p>What can be done about this you ask? As with most internet optimisations, there are a plethora of ways to speed up your website and there’s always room for improvement. To paraphrase a certain Mr da Vinci “The quest for a faster website is never finished, only abandoned!” So, let’s get stuck in:</p>
+
+<p>One very simple improvement you can make is to load all the JavaScript at the bottom of the document just before the <code>&lt;/body&gt;</code> tag. For a static website, just drag your script elements down the page. Within WordPress, this can be done using the <a href="http://codex.wordpress.org/Function_Reference/wp_enqueue_script">wp_enqueue_script</a> function and setting the <em>$in_footer</em> value. For example:</p>
+<div class="highlight"><pre class="chroma"><code class="language-php" data-lang="php"><span class="cp">&lt;?php</span>
+<span class="nx">wp_deregister_script</span><span class="p">(</span> <span class="s1">&#39;jquery&#39;</span> <span class="p">);</span>
+<span class="nx">wp_register_script</span><span class="p">(</span> <span class="s1">&#39;jquery&#39;</span><span class="p">,</span> <span class="s1">&#39;js/jquery.min.js&#39;</span><span class="p">,</span> <span class="k">false</span><span class="p">,</span> <span class="k">null</span><span class="p">,</span> <span class="k">true</span><span class="p">);</span>
+<span class="nx">wp_enqueue_script</span><span class="p">(</span> <span class="s1">&#39;jquery&#39;</span> <span class="p">);</span>
+<span class="cp">?&gt;</span></code></pre></div>
+<p>Another great improvement you can make is to defer the loading of certain JavaScript files. Considering the nature of JavaScript is to provide dynamics and interaction for the user once the page has loaded, you can often defer the loading of many JavaScript files and jQuery plugins and grab a performance benefit from it. Your chief aim when optimising a site is to get content loaded on your users screen as quickly as possible. If there isn’t a nice animation on the click event of a button right from the very instant the page loads, is that such a problem? Not really.</p>
+
+<p>Deferring JavaScript is very simple, just place the following code snippet at the bottom of your page, update &lsquo;deferred.js&rsquo; to the JavaScript file you wish to load in and you’re ready to go.</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">deferLoad</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kd">var</span> <span class="nx">element</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s2">&#34;script&#34;</span><span class="p">);</span>
+  <span class="nx">element</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="s2">&#34;deferred.js&#34;</span><span class="p">;</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">element</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="nb">window</span><span class="p">.</span><span class="nx">onload</span> <span class="o">=</span> <span class="nx">deferLoad</span><span class="p">;</span></code></pre></div>
+<p>This will wait for the window to load and then create a script element linking to your JavaScript file. By running this code and calling in your scripts at the bottom of the document, you&rsquo;re reducing load time for the user and search engines.</p>
+
+			
+			<aside class="signup-form">
+				<h2>Get tips and advice straight to your inbox</h2>
+				<p>Sign up to receive Polis Paralela's weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.</p>
+				<form action="https://www.getdrip.com/forms/107702195/submissions" method="post" class="drip-form" data-drip-embedded-form="107702195">
+	<div class="clear">
+		<div>
+			<label for="drip-email">Your email address *</label>
+			<input id="drip-email" name="fields[email]" type="email" value="" />
+		</div>
+		<div><input name="submit" type="submit" class="button" value="Join the list" /></div>
+	</div>
+</form>
+
+<small style="line-height: 1.4; display: block;">You can unsubscribe in one click, and we'll never share your email address.<br><u><a href="/privacy/">Our Privacy policy</a></u>.</small>
+
+			</aside>
+		</div>
+	</div>
+	
+	
+	
+	
+	<script type='application/ld+json'>
+		{
+			"@context":"http:\/\/schema.org",
+			"description": "No one likes a slow website. Here&#39;s how you can speed up your site by deferring the loading of scripts.",
+			"dateModified": "2014-01-16 13:39:25 &#43;0000 UTC",
+			"alternativeHeadline": "How to speed up your website - Deferred loading",
+			"headline": "How to speed up your website - Deferred loading",
+			"datePublished": "2014-01-16 13:39:25 &#43;0000 UTC",
+			"@type": "NewsArticle",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "//localhost:1313/thinks/deferred-loading/"
+			},
+			"articleSection": "Tips and advice",
+			"url": "//localhost:1313/thinks/deferred-loading/",
+			"author": {
+				"@type": "Person",
+				"name": "Trys Mudford"
+			},
+			"publisher": {
+				"name": "Polis Paralela",
+				"@type": "Organization",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "//localhost:1313/images/og.jpg"
+				}
+			},
+			"image": "//localhost:1313/images/og.jpg"
+		}
+	</script>
+
+    </main>
+
+    
+
+
+    
+
+    <aside class="cta insulate--mid">
+        <div class="wrap wrap--content">
+            <h3>Ready to get started?</h3>
+            <h2>Let's grow your business</h2>
+            <a href="/contact/" class="button">Get in touch</a>
+        </div>
+    </aside>
+
+
+      
+    <footer role="contentinfo" class="wrap">
+  <div class="low clear">
+    <a class="logo" href="/"><strong>Polis Paralela</strong></a>
+    <ul class="low-group">
+      <li class="low-address">
+        <ul>
+          <li>
+            <a href="/creates/strategy/">Strategy</a>
+          </li>
+          <li>
+            <a href="/creates/brand/">Brand</a>
+          </li>
+          <li>
+            <a href="/creates/web/">Web</a>
+          </li>
+          <li>
+            <a href="/creates/online-marketing/">Digital Marketing</a>
+          </li>
+        </ul>
+      </li>
+      <li class="low-contact">
+        <ul>
+          <li>
+            <a rel="me" href="mailto:hello@polisparalela.com">hello@polisparalela.com</a>
+          </li>
+          <li><br></li>
+          <li>
+            <a href="/contact/">Contact us</a>
+          </li>
+        </ul>
+      </li>
+      <li class="low-social">
+        <ul>
+          <li>
+            <a rel="me" href="https://twitter.com/polisparalelaUK"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path fill-rule="nonzero" d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z "></path></svg><span>Twitter</span></a>
+          </li>
+          
+          <li>
+            <a rel="me" href="https://www.instagram.com/polisparalelaUK/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path fill-rule="nonzero" d="M8 0C5.827 0 5.555.01 4.702.048 3.85.088 3.27.222 2.76.42c-.526.204-.973.478-1.417.923-.445.444-.72.89-.923 1.417-.198.51-.333 1.09-.372 1.942C.008 5.555 0 5.827 0 8s.01 2.445.048 3.298c.04.852.174 1.433.372 1.942.204.526.478.973.923 1.417.444.445.89.72 1.417.923.51.198 1.09.333 1.942.372.853.04 1.125.048 3.298.048s2.445-.01 3.298-.048c.852-.04 1.433-.174 1.942-.372.526-.204.973-.478 1.417-.923.445-.444.72-.89.923-1.417.198-.51.333-1.09.372-1.942.04-.853.048-1.125.048-3.298s-.01-2.445-.048-3.298c-.04-.852-.174-1.433-.372-1.942-.204-.526-.478-.973-.923-1.417-.444-.445-.89-.72-1.417-.923-.51-.198-1.09-.333-1.942-.372C10.445.008 10.173 0 8 0zm0 1.44c2.136 0 2.39.01 3.233.048.78.036 1.203.166 1.485.276.374.145.64.318.92.598.28.28.453.546.598.92.11.282.24.705.276 1.485.038.844.047 1.097.047 3.233s-.01 2.39-.05 3.233c-.04.78-.17 1.203-.28 1.485-.15.374-.32.64-.6.92-.28.28-.55.453-.92.598-.28.11-.71.24-1.49.276-.85.038-1.1.047-3.24.047s-2.39-.01-3.24-.05c-.78-.04-1.21-.17-1.49-.28-.38-.15-.64-.32-.92-.6-.28-.28-.46-.55-.6-.92-.11-.28-.24-.71-.28-1.49-.03-.84-.04-1.1-.04-3.23s.01-2.39.04-3.24c.04-.78.17-1.21.28-1.49.14-.38.32-.64.6-.92.28-.28.54-.46.92-.6.28-.11.7-.24 1.48-.28.85-.03 1.1-.04 3.24-.04zm0 2.452c-2.27 0-4.108 1.84-4.108 4.108 0 2.27 1.84 4.108 4.108 4.108 2.27 0 4.108-1.84 4.108-4.108 0-2.27-1.84-4.108-4.108-4.108zm0 6.775c-1.473 0-2.667-1.194-2.667-2.667 0-1.473 1.194-2.667 2.667-2.667 1.473 0 2.667 1.194 2.667 2.667 0 1.473-1.194 2.667-2.667 2.667zm5.23-6.937c0 .53-.43.96-.96.96s-.96-.43-.96-.96.43-.96.96-.96.96.43.96.96z "></path></svg><span>Instagram</span></a>
+          </li>
+
+          <li>
+            <a rel="me" href="https://www.facebook.com/polisparalelaUK/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32"><path d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"></path></svg><span>Facebook</span></a>
+          </li>
+          
+          <li>
+            <a rel="me" href="https://www.linkedin.com/company/polisparalela">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 32 32"><path d="M12 12h5.535v2.837h0.079c0.77-1.381 2.655-2.837 5.464-2.837 5.842 0 6.922 3.637 6.922 8.367v9.633h-5.769v-8.54c0-2.037-0.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509v8.688h-5.767v-18z"></path><path d="M2 12h6v18h-6v-18z"></path><path d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><span>LinkedIn</span></svg>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <small class="copyright">
+    &copy; Polis Paralela 2018 <a href="/careers/">Careers</a> <a href="/privacy/">Privacy</a>
+  </small>
+</footer>
+
+
+    <script src="app.js" async defer></script>
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function(user) {
+          if (!user) {
+            window.netlifyIdentity.on("login", function() {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

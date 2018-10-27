@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What we do on Polis Paralela</title>
+    <link>//localhost:1313/creates/</link>
+    <description>Recent content in What we do on Polis Paralela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="//localhost:1313/creates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strategy</title>
+      <link>//localhost:1313/creates/strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/creates/strategy/</guid>
+      <description>Imagine it’s the 27th October 2021 .  (function(d) { function os(i) { var j = i % 10; var k = i % 100; if (j === 1 &amp;&amp; k !== 11) return i + &#39;st&#39;; if (j === 2 &amp;&amp; k !== 12) return i + &#39;nd&#39;; if (j === 3 &amp;&amp; k !== 13) return i + &#39;rd&#39;; return i + &#39;th&#39;; } var months = [&#39;January&#39;, &#39;February&#39;, &#39;March&#39;, &#39;April&#39;, &#39;May&#39;, &#39;June&#39;, &#39;July&#39;, &#39;August&#39;, &#39;September&#39;, &#39;October&#39;, &#39;November&#39;, &#39;December&#39;]; d.</description>
+    </item>
+    
+    <item>
+      <title>Brand</title>
+      <link>//localhost:1313/creates/brand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/creates/brand/</guid>
+      <description>A strong brand identity gets you more of the type of business you want, at the price you want to charge.
+Get it right, and your marketing material, website and digital marketing strategy will all pay much bigger dividends.
+Get it wrong, and you’ll always be swimming against the tide.
+ “Investing in our brand has helped us triple our turnover in three years to £5 million.” &amp;mdash; Sean Welch, CEO, Agon Systems     How we develop your brand When we create your brand identity, the first thing we do is listen.</description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>//localhost:1313/creates/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/creates/web/</guid>
+      <description>A strong web presence attracts your target visitors and turns them into your new customers.
+But it&amp;rsquo;s paying attention to the detail that makes all the difference.
+A well-designed website is about far more than just its visual appearance.
+It must be easy to find, easy to use and work perfectly – on every device from desktop to mobile.
+We&amp;rsquo;ve been designing and developing websites for over 15 years. Our huge experience in planning, designing and building website and web applications will give you the edge over your competitors.</description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing</title>
+      <link>//localhost:1313/creates/online-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/creates/online-marketing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

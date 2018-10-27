@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/images/blog" # Folder where user uploaded files should go
+public_folder: "images/blog"
+publish_mode: editorial_workflow
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "thinks" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/thinks" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "SEO Title", name: "seo_title", widget: "text", required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Banner Image", name: "banner", widget: "image", required: false}
+      - label: "Categories"
+        name: "thinks/categories"
+        widget: "checkbox"
+        allow_add: true
+        options:
+          - { label: "News", value: "latest-news" }
+          - { label: "Web", value: "web-design" }
+          - { label: "Brand", value: "brand" }
+          - { label: "Marketing", value: "online-marketing" }
+          - { label: "Tips", value: "tips-and-advice" }
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Mark", value: "mark" }
+          - { label: "Mike", value: "mike" }
+          - { label: "Trys", value: "trys" }
+          - { label: "Tom", value: "tom" }
+          - { label: "Liam", value: "liam" }
+          - { label: "Guest", value: "guest" }

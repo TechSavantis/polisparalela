@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paid Social on Polis Paralela</title>
+    <link>//localhost:1313/thinks/categories/paid-social/</link>
+    <description>Recent content in Paid Social on Polis Paralela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 19 Sep 2018 15:30:10 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/thinks/categories/paid-social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helping Cade Street Nursery to Grow</title>
+      <link>//localhost:1313/thinks/helping-cade-street-nursery-to-grow/</link>
+      <pubDate>Wed, 19 Sep 2018 15:30:10 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/helping-cade-street-nursery-to-grow/</guid>
+      <description>What we did • Digital Marketing
+• Social Media
+• Paid Social
+The brief Cade Street Nursery is a family business based in Heathfield, East Sussex, and they have been growing plants and flowers there since the 1980s.
+“Polis Paralela responded to the challenge of the targets set within the project and really got behind our business. Targets were exceeded and this resulted in a good uplift in sales.” &amp;mdash; Rob Honeysett, Cade Street Nursery Sales &amp;amp; Planning Manager  Polis Paralela had previously developed a website for them in 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

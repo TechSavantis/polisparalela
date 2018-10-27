@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on Polis Paralela</title>
+    <link>//localhost:1313/thinks/categories/strategy/</link>
+    <description>Recent content in Strategy on Polis Paralela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Jan 2018 14:50:59 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/thinks/categories/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What happens when you self-diagnose</title>
+      <link>//localhost:1313/thinks/happens-self-diagnose/</link>
+      <pubDate>Thu, 11 Jan 2018 14:50:59 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/happens-self-diagnose/</guid>
+      <description>Here&amp;rsquo;s a couple of great stories about stupidity.
+The first story concerns a friend who&amp;rsquo;s a GP.
+One day a few years ago, a middle-aged woman turned up at her surgery feeling lousy. She had no energy, bad headaches and her limbs were aching.
+She was convinced she had Lyme disease and proceeded to instruct the doctor to prescribe her the antibiotic amoxicillin.
+Of course, my doctor friend insisted on a proper consultation and suspected the lady probably just had flu.</description>
+    </item>
+    
+    <item>
+      <title>Deciding on your positioning: vertical vs. horizontal</title>
+      <link>//localhost:1313/thinks/deciding-positioning-vertical-vs-horizontal/</link>
+      <pubDate>Fri, 10 Nov 2017 16:44:35 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/deciding-positioning-vertical-vs-horizontal/</guid>
+      <description>When clients come to us for help with their brand identity, they&amp;rsquo;ve often already done lots of thinking about what the brief should be.
+This is certainly valuable, and an important step in the process, but before you think about your brand brief, there&amp;rsquo;s something even more important you need to figure out.
+You need to know what your positioning is.
+What&amp;rsquo;s positioning? Your positioning is where you sit in the mind of your customer, and what they perceive they&amp;rsquo;ll get from you that they can&amp;rsquo;t get from your competitors.</description>
+    </item>
+    
+  </channel>
+</rss>

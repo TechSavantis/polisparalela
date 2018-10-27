@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips and Advice on Polis Paralela</title>
+    <link>//localhost:1313/thinks/categories/tips-and-advice/</link>
+    <description>Recent content in Tips and Advice on Polis Paralela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 13 Apr 2018 09:00:49 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/thinks/categories/tips-and-advice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a Progressive Web App</title>
+      <link>//localhost:1313/thinks/building-progressive-web-app/</link>
+      <pubDate>Fri, 13 Apr 2018 09:00:49 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/building-progressive-web-app/</guid>
+      <description>How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially? We’ve been working with Agon Systems for a number of years; creating their brand identity, designing and building their website, leading their digital marketing strategy, creating exhibition stands, stationery and presentation boxes, and most recently, building a single-page website for one of their biggest distribution products: Concept Tag.
+The Concept Tag is a new type of retail security tag that is revolutionising the industry.</description>
+    </item>
+    
+    <item>
+      <title>How to post to Instagram from your desktop PC, laptop or Mac | Polis Paralela</title>
+      <link>//localhost:1313/thinks/post-to-instagram-desktop-chrome-pc-mac/</link>
+      <pubDate>Wed, 11 Apr 2018 10:55:44 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/post-to-instagram-desktop-chrome-pc-mac/</guid>
+      <description>As someone that takes runs social media marketing efforts for a number of accounts across a variety of platforms, I always like finding ways of making the administrative side a bit easier.
+One particular bugbear of mine has been with Instagram. As a rule, Instagram is quite ‘locked down’ compared to Facebook, Twitter and suchlike – for example, there’s little-to-no API access, meaning scheduling posts can be difficult.
+Another thing I’ve found a bit of pain was that, although you can view your Instagram feed on desktop (although Instagram Stories was only a recent addition to this), actually posting images from non-mobile devices is a PITA.</description>
+    </item>
+    
+    <item>
+      <title>How to significantly improve the performance of your WordPress site</title>
+      <link>//localhost:1313/thinks/improving-wordpress-performance/</link>
+      <pubDate>Wed, 04 Apr 2018 08:32:55 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/improving-wordpress-performance/</guid>
+      <description>As I&amp;rsquo;ve mentioned before, website speed is incredibly important. Search engines are beginning to penalise slow websites, but more importantly, users are voting with their feet when it comes to slow websites. Check out this awesome infographic from KISSmetrics on how loading times affect your bottom line, it&amp;rsquo;s quite an eye-opener.
+When it came to building our new website, performance was at the front of my mind. It wasn&amp;rsquo;t that performance was an issue for our previous site, rather due to changing technologies and a design involving a heavier emphasis on images and graphical content I knew that prioritising performance would be key.</description>
+    </item>
+    
+    <item>
+      <title>What happens when you self-diagnose</title>
+      <link>//localhost:1313/thinks/happens-self-diagnose/</link>
+      <pubDate>Thu, 11 Jan 2018 14:50:59 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/happens-self-diagnose/</guid>
+      <description>Here&amp;rsquo;s a couple of great stories about stupidity.
+The first story concerns a friend who&amp;rsquo;s a GP.
+One day a few years ago, a middle-aged woman turned up at her surgery feeling lousy. She had no energy, bad headaches and her limbs were aching.
+She was convinced she had Lyme disease and proceeded to instruct the doctor to prescribe her the antibiotic amoxicillin.
+Of course, my doctor friend insisted on a proper consultation and suspected the lady probably just had flu.</description>
+    </item>
+    
+    <item>
+      <title>Moving from .dev to .test - OSX dnsmasq</title>
+      <link>//localhost:1313/thinks/moving-dev-test-os-x-dnsmasq/</link>
+      <pubDate>Thu, 14 Dec 2017 14:20:56 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/moving-dev-test-os-x-dnsmasq/</guid>
+      <description>It finally happened. After buying the .dev TLD a couple of years ago, Google have finally started doing something with it. The first step has arrived in Chrome 63, which hit my browser at 13:36 on the 14th December. All http:// requests are automatically redirected to https://. This change has broken the local development setup on my Mac.
+Although a valiant step in the direction of local SSL development, I&amp;rsquo;m not clued up enough with self-signed certificates to implement that, especially not a week before breaking up for Christmas.</description>
+    </item>
+    
+    <item>
+      <title>This one special trick will get you more customers!</title>
+      <link>//localhost:1313/thinks/google-reviews-local-seo-factors-2017/</link>
+      <pubDate>Mon, 27 Nov 2017 11:26:52 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/google-reviews-local-seo-factors-2017/</guid>
+      <description>The definitive guide to Local Search Ranking Factors has recently been updated&amp;hellip;and I wanted to share one thing in particular:
+Here’s a graph showing a load of positive ranking factors for Google Business listings. Those are the ones that show up at the top of page 1 in the map bit. They’re ordered from the strongest on the left downwards.
+All the yellow ones are to do with GOOGLE REVIEWS!</description>
+    </item>
+    
+    <item>
+      <title>How to create a brand design brief - download our template</title>
+      <link>//localhost:1313/thinks/how-to-create-a-brand-design-brief/</link>
+      <pubDate>Wed, 22 Nov 2017 15:52:21 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-create-a-brand-design-brief/</guid>
+      <description>It&amp;rsquo;s well known that having a strong brand identity can make a massive difference to any business.
+Having the right brand identity helps you:
+ Get more of the customers you want Keep your best customers for longer Charge the right price for what you sell Stand apart from your competitors  Read about how Agon Systems tripled its turnover in three years to £5 million by investing in its brand identity.</description>
+    </item>
+    
+    <item>
+      <title>BrightonSEO key takeaways</title>
+      <link>//localhost:1313/thinks/brightonseo-key-takeways/</link>
+      <pubDate>Wed, 27 Sep 2017 09:58:40 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/brightonseo-key-takeways/</guid>
+      <description>Earlier this month I attended my fourth edition BrightonSEO conference - another great day that left me walking back up to Brighton station with my head brimming with ideas!
+Once again I find myself reflecting on how incredibly fortunate it is that this fantastic resource is just a few stops on the train away. People come by plane, train and automobile to what is now Europe&amp;rsquo;s largest SEO conference, so being able to have a bit of a lie-in and still be there for the 10am start is an absolute luxury!</description>
+    </item>
+    
+    <item>
+      <title>How to find your perfect customer</title>
+      <link>//localhost:1313/thinks/find-perfect-customer/</link>
+      <pubDate>Fri, 22 Sep 2017 15:49:40 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/find-perfect-customer/</guid>
+      <description>If I gave you a magic wand and said you could wish for your perfect customer, what would you wish for?
+Our perfect customer would look something like this:
+ Established, profitable business Looking to move to the next level Sensible budget (£5,000 for a brand, £10,000 - £20,000 for a website, at least £1,500 a month for their digital marketing) Sees the value of investing in good design Doesn&amp;rsquo;t have an in-house marketing team, or person  How to identify your perfect customer When you&amp;rsquo;re figuring out what your ideal customer looks like, you need to ask yourself questions like:</description>
+    </item>
+    
+    <item>
+      <title>Fixed pixel gutters on a percentage grid</title>
+      <link>//localhost:1313/thinks/about-fixed-pixel-gutters-on-a-percentage-grid/</link>
+      <pubDate>Mon, 18 Sep 2017 15:12:21 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/about-fixed-pixel-gutters-on-a-percentage-grid/</guid>
+      <description>I&amp;rsquo;ve just published an article on Dev.to, an online development community.
+It outlines the problems with percentage margins and provides a solution using pixel margins whilst keeping the percentage grid. By using the fixed-gutter calculation, you can easily enforce vertical &amp;amp; horizontal consistency throughout a CSS grid.
+Read the full article </description>
+    </item>
+    
+    <item>
+      <title>Top 5 mistakes people make when designing a website</title>
+      <link>//localhost:1313/thinks/top-5-mistakes-people-make-when-designing-a-website/</link>
+      <pubDate>Tue, 07 Feb 2017 15:56:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/top-5-mistakes-people-make-when-designing-a-website/</guid>
+      <description>It amazes me how often I see clients repeatedly making the same mistakes and bad decisions when it comes to designing a new website.
+The worst thing is that these errors of judgement - whether in the planning or design stages or in the way they manage the project - result in a finished site that&amp;rsquo;s nowhere near as good as it could be.
+Here&amp;rsquo;s my top 5. Make sure you&amp;rsquo;re not making these mistakes too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Managing customer expectations</title>
+      <link>//localhost:1313/thinks/managing-customer-expectations/</link>
+      <pubDate>Thu, 22 Dec 2016 15:18:12 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/managing-customer-expectations/</guid>
+      <description>That&amp;rsquo;s it. Christmas is ruined.
+The whole thing&amp;rsquo;s off. I&amp;rsquo;m going to go and sit in a corner and sulk for the next two weeks.
+And all for the sake of some turkey!
+Allow me to explain&amp;hellip;
+Last Friday we had our Christmas meal. For the last four years or so, we&amp;rsquo;ve gone to Pelham House in Lewes, and been very happy indeed with the food and service.
+But last year there was some confusion about whether we were having their Christmas menu or their standard lunch menu.</description>
+    </item>
+    
+    <item>
+      <title>How to organise content for your website</title>
+      <link>//localhost:1313/thinks/organise-content-website/</link>
+      <pubDate>Mon, 31 Oct 2016 15:58:38 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/organise-content-website/</guid>
+      <description>Writing the content for your new website can be a daunting task.
+In this post you&amp;rsquo;ll find out how to get content together in a way that suits both you and your web designer and makes the process that little bit easier.
+We&amp;rsquo;re going to assume you&amp;rsquo;ve already decided what pages and features to include on your website, and will concentrate here on what content you need to create and how to organise it.</description>
+    </item>
+    
+    <item>
+      <title>Photography at Goodwood Revival</title>
+      <link>//localhost:1313/thinks/photography-at-goodwood-revival/</link>
+      <pubDate>Mon, 12 Sep 2016 16:36:09 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/photography-at-goodwood-revival/</guid>
+      <description>Check out my latest work here.
+Goodwood galleries Every September for the past 18 years, Goodwood Motor Circuit has opened its doors to 200,000+ historic racing fans to experience the Goodwood Revival, a period-style festival celebrating the racing years of Goodwood between 1948 and 1966. It’s a nostalgic and remarkably authentic throwback to mid 20th-century motorsport.
+I first attended the event many years ago as a secondary school student but hadn&amp;rsquo;t been back since.</description>
+    </item>
+    
+    <item>
+      <title>How to choose a web design agency</title>
+      <link>//localhost:1313/thinks/choose-web-design-agency/</link>
+      <pubDate>Wed, 01 Jun 2016 13:49:08 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/choose-web-design-agency/</guid>
+      <description>So you&amp;rsquo;ve decided you need a new website, settled on the type of website you need, and created a website design brief. You&amp;rsquo;re ready to put the feelers out so you can choose a web design agency.
+But how do you choose the right agency for your project?
+Comparing apples with oranges Clients frequently tell me how confusing it is to choose between the different sized and shaped web design companies, especially when you get such a wide range of approaches and costs.</description>
+    </item>
+    
+    <item>
+      <title>Marketing 101 - the 4Cs of the Marketing Mix</title>
+      <link>//localhost:1313/thinks/marketing-101-4cs-marketing-mix/</link>
+      <pubDate>Tue, 31 May 2016 10:23:25 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/marketing-101-4cs-marketing-mix/</guid>
+      <description>Let&amp;rsquo;s get right back to basics. What is &amp;lsquo;marketing&amp;rsquo; anyway?
+Generally, it&amp;rsquo;s a means of getting people or businesses to buy into whatever product or service you&amp;rsquo;re offering.
+From a more academic viewpoint, the Chartered Institute of Marketing say that marketing is &amp;ldquo;the management process responsible for identifying, anticipating and satisfying customer requirements profitably.&amp;rdquo;
+But how do you decide what to do to your marketing to try and leverage extra success from your efforts?</description>
+    </item>
+    
+    <item>
+      <title>Early warning system with Slack integration</title>
+      <link>//localhost:1313/thinks/early-warning-system-slack-integration/</link>
+      <pubDate>Fri, 06 May 2016 14:41:20 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/early-warning-system-slack-integration/</guid>
+      <description>We host a good number of WordPress sites on our dedicated server and for the most part it&amp;rsquo;s plain sailing. However, there can be the odd time when a dubious individual will try and gain unlawful access to a site. Even though their attempts are thwarted by our policy for strong usernames and passwords, this sort of activity can cause a bit of unnecessary strain on the server.
+As all web hosts will tell you, there&amp;rsquo;s always someone trying to see if you&amp;rsquo;ve left your username as &amp;lsquo;admin&amp;rsquo; and your password as&amp;hellip; you guessed it&amp;hellip; &amp;lsquo;password&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>How to create a website design brief - download our template</title>
+      <link>//localhost:1313/thinks/create-website-design-brief-download-template/</link>
+      <pubDate>Wed, 27 Apr 2016 04:57:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/thinks/create-website-design-brief-download-template/</guid>
+      <description>Update - do yourself a favour and read this first Good news! Since I wrote this post, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I originally wrote. &amp;hellip; read more
+We&amp;rsquo;ve found the best outcomes for projects come when we engage with our client before any sort of detailed brief has been written.
+So I just saved you several hours work ;o)</description>
+    </item>
+    
+    <item>
+      <title>Local SEO: a 10-minute guide to help your business</title>
+      <link>//localhost:1313/thinks/local-seo-a-brief-guide/</link>
+      <pubDate>Wed, 13 Apr 2016 10:28:33 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/local-seo-a-brief-guide/</guid>
+      <description>Local SEO - what is it?
+In an nutshell, local SEO is the process of trying to get your business noticed by people in your area conducting relevant searches.
+Why is local SEO more important than ever?
+Go to Google and type in ‘cinema’, ‘petrol station’, or ‘pizza’…and you&amp;rsquo;ll notice that it&amp;rsquo;ll show up with a map with pins dropped on the nearest examples of where you can find those things.</description>
+    </item>
+    
+    <item>
+      <title>When is it right to use [framework name here]?</title>
+      <link>//localhost:1313/thinks/right-use-framework-name/</link>
+      <pubDate>Wed, 17 Feb 2016 14:54:49 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/right-use-framework-name/</guid>
+      <description>As with almost every question relating to modern web development, it depends.
+Ok, so now my cop-out answer&amp;rsquo;s out of the way, here are my thoughts…
+In the past, I&amp;rsquo;ve steered clear of Javascript frameworks. Sure, I’ve dabbled in a bit of Angular and dipped my toes in the waters of Backbone but I’ve never used one on a client project. They’ve always been sidelined to unlaunched side-projects.
+The reason for this is three-fold; 1.</description>
+    </item>
+    
+    <item>
+      <title>What type of website do I need?</title>
+      <link>//localhost:1313/thinks/what-sort-of-website-do-i-need/</link>
+      <pubDate>Thu, 14 Jan 2016 15:10:57 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/what-sort-of-website-do-i-need/</guid>
+      <description>So you&amp;rsquo;ve decided you need a new website.
+Your next step is to create a brief for the project. But before you do that, you need to work out a framework of the functionality; in other words, what type of website you need.
+Lots of clients come to us without a fully developed brief, so we work with them in the planning stage to make sure everyone&amp;rsquo;s clear on what the project&amp;rsquo;s trying to achieve.</description>
+    </item>
+    
+    <item>
+      <title>Do I need a new website?</title>
+      <link>//localhost:1313/thinks/do-i-need-a-new-website/</link>
+      <pubDate>Fri, 11 Dec 2015 16:16:01 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/do-i-need-a-new-website/</guid>
+      <description>How do you know when it&amp;rsquo;s time to get a new website?
+Use our guide to help you look for the signs that tell you it&amp;rsquo;s time to start planning:
+The pages don&amp;rsquo;t reflect what you do as a business When you had your website built, you spent ages working out your site structure and what pages should be included. At the time, it reflected exactly what you did as a business.</description>
+    </item>
+    
+    <item>
+      <title>Can&#39;t send emails in Outlook on Windows 10?</title>
+      <link>//localhost:1313/thinks/cant-send-emails-outlook-windows-10/</link>
+      <pubDate>Thu, 03 Dec 2015 09:24:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/cant-send-emails-outlook-windows-10/</guid>
+      <description>Upgrading to Windows 10 can be irresistible for some people – and I’m not ashamed to say I was one of them. The night the new operating system was available I downloaded it straight onto my personal PC.
+With a new super-chic look and a return of the start menu - which caused uproar when it was missing from Windows 8 - what could possibly go wrong with upgrading?
+Well quite a lot actually.</description>
+    </item>
+    
+    <item>
+      <title>The 6 things a good website must do</title>
+      <link>//localhost:1313/thinks/the-6-things-a-good-website-must-do/</link>
+      <pubDate>Fri, 31 Jul 2015 15:41:30 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/the-6-things-a-good-website-must-do/</guid>
+      <description>A couple of weeks ago I was reading a great blog post by Adam Fairhead and there was something he said that perfectly summed up what a &amp;ldquo;good&amp;rdquo; website must do.
+His comment was in his introduction to a piece about UX mistakes that make users feel stupid and was - in my opinion - bang on the money.
+I found myself nodding in agreement to each of his points, and felt his summary deserved not only a closer look, but also an explanation for those who might be planning a new website, so they can make sure when it&amp;rsquo;s finished it gets top marks.</description>
+    </item>
+    
+    <item>
+      <title>Your summer checklist for your website</title>
+      <link>//localhost:1313/thinks/your-summer-checklist-for-your-website/</link>
+      <pubDate>Mon, 27 Jul 2015 10:20:46 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/your-summer-checklist-for-your-website/</guid>
+      <description>With August traditionally being a quiet time for a lot of businesses, it&amp;rsquo;s the perfect time to buff up your website and make sure it&amp;rsquo;s ship shape for September and the lead up to Christmas. You don&amp;rsquo;t want to leave it until you&amp;rsquo;re busy again and it&amp;rsquo;s too late&amp;hellip;
+Here&amp;rsquo;s our quick checklist of things you should get sorted before the kids go back to school:
+1. Check for out of date content When was the last time you properly read through your website?</description>
+    </item>
+    
+    <item>
+      <title>How to write better copy for your website, Part 2 - make it all about your reader</title>
+      <link>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/</link>
+      <pubDate>Thu, 14 May 2015 15:10:01 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/</guid>
+      <description>&amp;ldquo;Hello, I&amp;rsquo;m Steve, and I give my customers their weekends back.&amp;rdquo;
+With his opening gambit, this guy had my attention. And he was the only person I&amp;rsquo;d met that morning who really had.
+The exhausting pastime of speed networking Have you ever been speed networking? It&amp;rsquo;s like speed dating, but for businesses.
+Around 50 nervous-looking people get split into two groups, with one half stationed at tables scattered around a hotel conference room, and the other half are on the move, spending two minutes talking to each new &amp;ldquo;partner&amp;rdquo; before a whistle blows (I kid you not), and moving on to their next potential new-best-friend.</description>
+    </item>
+    
+    <item>
+      <title>How to write better copy for your website, Part 1 - writing for a lower reading age</title>
+      <link>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/</link>
+      <pubDate>Thu, 16 Apr 2015 16:09:58 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/</guid>
+      <description>Writing copy for your website is hard. Writing good copy is even harder.
+A common misconception about writing good copy is that it must be lavish, flowing and full of impressive words; and many writers find this prospect intimidating.
+ The best copy is easy to read
+ But it turns out that if you want your copy to be more widely read - by more people and in more detail - you need to simplify it.</description>
+    </item>
+    
+    <item>
+      <title>How to speed up your website - SVG</title>
+      <link>//localhost:1313/thinks/how-to-speed-up-your-website-using-svg/</link>
+      <pubDate>Mon, 02 Mar 2015 09:41:45 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-speed-up-your-website-using-svg/</guid>
+      <description>Continuing in the &amp;lsquo;How to speed up your website&amp;rsquo; series, I&amp;rsquo;m going to outline the benefits of using SVG to display images. SVG stands for Scalable Vector Graphics and they&amp;rsquo;re used to display vector-based images via code.
+Images via code? What is this black magic? Generally created by design programs like Illustrator and Sketch, SVGs are light-weight XML files that a web browser can parse and render an image from.</description>
+    </item>
+    
+    <item>
+      <title>Evergreen content saves you time and makes you money</title>
+      <link>//localhost:1313/thinks/evergreen-content-saves-time-makes-money/</link>
+      <pubDate>Wed, 11 Feb 2015 08:27:44 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/evergreen-content-saves-time-makes-money/</guid>
+      <description>I&amp;rsquo;m going to let you in on a little secret that will help your online marketing campaign be successful AND save you time into the bargain.
+I&amp;rsquo;m going to tell you all about Evergreen Content.
+What is evergreen content? So what is this magical ingredient that makes your content marketing campaign so successful?
+Well it&amp;rsquo;s nothing to do with trees, and it&amp;rsquo;s nothing to do with colours. Evergreen content refers to an article (usually a blog post) that doesn&amp;rsquo;t age or date quickly, or at least isn&amp;rsquo;t short-lived; it stays relevant for a long time - it stays &amp;ldquo;evergreen&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>How to choose a good SEO company (and what to avoid)</title>
+      <link>//localhost:1313/thinks/how-to-choose-a-good-seo-company/</link>
+      <pubDate>Mon, 22 Dec 2014 17:50:39 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-choose-a-good-seo-company/</guid>
+      <description>We talk to a lot of new clients about their online marketing requirements. It&amp;rsquo;s one of the things we do, after all. Unfortunately we often hear about bad experiences with other online marketing companies that puts people off the whole thing. Once bitten, twice shy and all that.
+So, in this post we&amp;rsquo;re going to tell you about some of the most common warning signs to look out for that indicate you should steer clear, and show you how to choose a GOOD SEO company.</description>
+    </item>
+    
+    <item>
+      <title>Three reasons to invest in long form content</title>
+      <link>//localhost:1313/thinks/three-reasons-invest-long-form-content/</link>
+      <pubDate>Thu, 11 Dec 2014 17:33:20 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/three-reasons-invest-long-form-content/</guid>
+      <description>Everyone knows writing content can be challenging, and writing long form content can be even more so. And whilst it may seem easier to write a series of shorter posts, if done correctly there are numerous benefits to be had from writing a longer piece.
+Long form content is generally defined as a page or post that clocks up over 1,200 words. There are no set rules for what the post should cover, however typically it is in the form of a story or a more detailed explanation of a subject and may be about a hot topic within your industry or a breakdown of how you tackled a project.</description>
+    </item>
+    
+    <item>
+      <title>The 5 secrets to keeping your customers truly happy</title>
+      <link>//localhost:1313/thinks/5-secrets-to-keeping-your-customers-truly-happy/</link>
+      <pubDate>Mon, 01 Dec 2014 15:22:40 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/5-secrets-to-keeping-your-customers-truly-happy/</guid>
+      <description>In the late summer of 2010, two young entrepreneurs called Hayley Barna and Katie Beauchamp came up with the idea of making money from selling small sample-size cosmetics - mini-tubes of mascara and baubles of liquid blush - often tossed in to beauty store shopping bags as freebies.
+Today Birchbox has over 400,000 customers paying £10 each month to receive a goodie bag of samples in the post - and the customers don&amp;rsquo;t even get to choose what they get.</description>
+    </item>
+    
+    <item>
+      <title>How to create a website design brief - common mistakes to avoid</title>
+      <link>//localhost:1313/thinks/how-to-create-website-design-brief-mistakes-to-avoid/</link>
+      <pubDate>Fri, 17 Oct 2014 10:09:19 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-create-website-design-brief-mistakes-to-avoid/</guid>
+      <description>Creating a website design brief is a vital part of any web project. By focusing on the aims of the project and who your target audience is, you make sure you stay on track and get an end product that provides a much bigger return on investment (ROI).
+But&amp;hellip;
+We&amp;rsquo;ve seen several common mistakes made during the project brief stage that you should be careful to avoid. True, some of these border on the comical - but some of them are very easy traps to fall into.</description>
+    </item>
+    
+    <item>
+      <title>Blogging made easy - an idiot&#39;s guide</title>
+      <link>//localhost:1313/thinks/blogging-made-easy-idiots-guide/</link>
+      <pubDate>Tue, 19 Aug 2014 11:24:31 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/blogging-made-easy-idiots-guide/</guid>
+      <description>You&amp;rsquo;ve probably already heard a lot about the benefits of writing a blog. The vast majority of new clients I talk to are aware it&amp;rsquo;s something they should be doing. But in our already busy lives, the prospect of having to squeeze in yet one more thing can be so daunting it prevents it ever getting off the ground. So this blog post is for all you busy bods out there; 6 steps to follow so you can enjoy the benefits of blogging with the minimum amount of effort.</description>
+    </item>
+    
+    <item>
+      <title>Is email marketing still effective? £4,040 in 20 minutes says the answer is yes</title>
+      <link>//localhost:1313/thinks/email-marketing-still-effective-4040-20-minutes-says-answer-yes/</link>
+      <pubDate>Tue, 22 Jul 2014 10:16:05 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/email-marketing-still-effective-4040-20-minutes-says-answer-yes/</guid>
+      <description>Here&amp;rsquo;s some hard evidence that email marketing works and can bring you a significant return on your investment.
+A few weeks ago I spent about 20 minutes composing and sending our monthly email out to our clients. This simple bit of marketing immediately generated £4,040 of sales. Let me tell you how I did it&amp;hellip;
+Every month I write a couple of blog posts for the Polis Paralela website, usually about a particular area of our business that I think might be of interest to either our clients or prospective customers looking for a brand and web agency like ours.</description>
+    </item>
+    
+    <item>
+      <title>Regulations for selling online - important update</title>
+      <link>//localhost:1313/thinks/regulations-for-selling-online-important-update/</link>
+      <pubDate>Mon, 14 Jul 2014 16:30:35 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/regulations-for-selling-online-important-update/</guid>
+      <description>An important change has been made to the regulations for selling online.
+From 13 June 2014 the Consumer Contracts Regulations came into effect.
+The regulations apply to items bought online, at a distance, or away from a trader&amp;rsquo;s premises (for example, at home or at work). As a result, if you sell online via an ecommerce website, you will be affected by these regulations.
+They replace the Distance Selling Regulations (as well as the Doorstep Selling Regulations).</description>
+    </item>
+    
+    <item>
+      <title>How to perform a successful and efficient redirect</title>
+      <link>//localhost:1313/thinks/perform-successful-efficient-redirect/</link>
+      <pubDate>Thu, 17 Apr 2014 14:09:45 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/perform-successful-efficient-redirect/</guid>
+      <description>Whether you&amp;rsquo;ve simply renamed a page or moved your entire website, it&amp;rsquo;s impossible to deny the importance of a redirect. By setting up a redirect you provide a massive benefit for your users as they will be taken to the new address instantaneously without having to lift a finger. On top of that is the transfer of search engine rankings, which is paramount if you intend to keep a strong presence in search results.</description>
+    </item>
+    
+    <item>
+      <title>5 ways to get a better return on your website investment</title>
+      <link>//localhost:1313/thinks/5-ways-get-better-return-your-website-investment/</link>
+      <pubDate>Wed, 09 Apr 2014 14:27:30 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/5-ways-get-better-return-your-website-investment/</guid>
+      <description>They say you get what you pay for in life, and it&amp;rsquo;s certainly true when talking about your website. But what a lot of people struggle to get their heads round is what difference you&amp;rsquo;ll get by spending a bit more. In this post, we look at five key differences you should expect to get by paying that little bit more for your website.
+Time is money Most of these differences require additional time to be poured into the project, and being a service-industry, this will usually directly affect the cost; most agencies will calculate the cost of a project as Hours Required x Hourly Rate = Cost.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s your tipple?  Finding the right online marketing mix</title>
+      <link>//localhost:1313/thinks/whats-tipple-finding-right-online-marketing-mix/</link>
+      <pubDate>Wed, 19 Mar 2014 13:40:16 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/whats-tipple-finding-right-online-marketing-mix/</guid>
+      <description>In the same way that Del Boy isn&amp;rsquo;t likely to settle for a Vodka Martini and you won&amp;rsquo;t see James Bond diving into a Pina Colada, there&amp;rsquo;s no such thing as a one-size-fits-all online marketing campaign.
+There are lots of different ingredients that can make up your online marketing cocktail and you need to judge the quantities of each to get something that&amp;rsquo;s just right for you.
+For some, pay-per-click and good ol&amp;rsquo; search engine optimisation (SEO) might be the dominant flavours.</description>
+    </item>
+    
+    <item>
+      <title>What is Responsive Design and why do I need it?</title>
+      <link>//localhost:1313/thinks/what-is-responsive-design/</link>
+      <pubDate>Mon, 17 Feb 2014 14:15:25 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/what-is-responsive-design/</guid>
+      <description>The way we interact with the web is changing fast. We browse on mobile phones, tablets, laptops and desktops; even watches are getting smarter. It’s only natural that the content we publish and the way it is displayed should develop at the same rate. Unfortunately that’s not the case with many websites. Older sites (and sadly an alarming number of new websites) struggle to keep pace with the number of devices that view them; they just can’t adapt on a device by device basis.</description>
+    </item>
+    
+    <item>
+      <title>How to write a good blog post - Part 3: Finishing touches</title>
+      <link>//localhost:1313/thinks/write-good-blog-post-part-3-finishing-touches/</link>
+      <pubDate>Tue, 21 Jan 2014 10:53:22 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/write-good-blog-post-part-3-finishing-touches/</guid>
+      <description>Keeping on top of your blog can be a difficult task (I should know) but there are a number of easy-to-follow tips that can help you beat that blank-page syndrome and ensure a steady flow of well-structured, interesting blog posts over a long period of time.
+Previously in this three part series, we have looked at &amp;ldquo;Part 1: Getting Started&amp;rdquo;, which helped set topics and create an outline structure to your article and &amp;ldquo;Part 2: Writing good content&amp;rdquo;, which helped get the full post written by breaking it down into bite-sized chunks.</description>
+    </item>
+    
+    <item>
+      <title>How to speed up your website - Deferred loading</title>
+      <link>//localhost:1313/thinks/deferred-loading/</link>
+      <pubDate>Thu, 16 Jan 2014 13:39:25 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/deferred-loading/</guid>
+      <description>I think it’s fair to say that everyone hates a slow website. As internet speeds have increased over time, so has the amount of dynamic content being loaded into the browser and sadly that takes time to download. Furthermore, mobile usage is constantly increasing and catering for the slow speeds of mobile internet should be high on our agendas as developers.
+A slow website can even harm your search position; in 2010 Google started using page load time as a factor in their rankings.</description>
+    </item>
+    
+    <item>
+      <title>How to write a good blog post - Part 2: Writing good content</title>
+      <link>//localhost:1313/thinks/write-good-blog-post-part-2-writing-good-content/</link>
+      <pubDate>Tue, 14 Jan 2014 10:46:24 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/write-good-blog-post-part-2-writing-good-content/</guid>
+      <description>I know all too well that maintaining a blog is hard work and often share some tips with our clients that help me keep things going. I eventually decided that it might be useful for others if I shared these online, so I&amp;rsquo;m writing this short sequence of articles to help you become a better blogger.
+In the second of this 3-part series, we build on the framework for our blog post that we put together in &amp;ldquo;How to write a blog post - Part 1: Getting started&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>How to write a good blog post - Part 1: Getting Started</title>
+      <link>//localhost:1313/thinks/write-good-blog-post-part-1-getting-started/</link>
+      <pubDate>Thu, 09 Jan 2014 17:18:26 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/write-good-blog-post-part-1-getting-started/</guid>
+      <description>The benefits of having an active blog on your website are well established - in fact, we&amp;rsquo;ve written a blog post about it - but I&amp;rsquo;m well aware that for many, the prospect of writing a few hundred words once a week brings them out in a cold sweat. So I&amp;rsquo;ve put together a more detailed guide to Writing a Blog Post, to help make the whole process a little more palatable.</description>
+    </item>
+    
+    <item>
+      <title>Why asking us to do a creative pitch or speculative design is wrong</title>
+      <link>//localhost:1313/thinks/asking-us-creative-pitch-speculative-design-wrong/</link>
+      <pubDate>Tue, 26 Nov 2013 17:40:29 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/asking-us-creative-pitch-speculative-design-wrong/</guid>
+      <description>Increasingly we&amp;rsquo;re being invited by prospective clients to &amp;ldquo;pitch&amp;rdquo; for their project. This isn&amp;rsquo;t the same as providing a quote or tendering for a job; this is where we&amp;rsquo;re being asked to create designs based on a written brief, to present to the client in the hope they&amp;rsquo;ll choose us. This old-skool practice is usually known as a &amp;ldquo;creative pitch&amp;rdquo; or &amp;ldquo;speculative design&amp;rdquo; and we think it&amp;rsquo;s wrong. Here we explain why.</description>
+    </item>
+    
+    <item>
+      <title>Website launch checklist</title>
+      <link>//localhost:1313/thinks/website-launch-checklist/</link>
+      <pubDate>Tue, 29 Oct 2013 12:22:39 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/website-launch-checklist/</guid>
+      <description>The prospect of making a new website live can be a bit of a daunting task, especially if you’re replacing your current site. Keeping downtime to a minimum is of paramount importance and a smooth transition between the old and new website is crucial. However, if you’ve done your homework and prepared for the go-live process with a website launch checklist, there’s nothing to be worried about. Here are our top tips:</description>
+    </item>
+    
+    <item>
+      <title>Why WordPress is the right solution for you</title>
+      <link>//localhost:1313/thinks/wordpress-right-solution/</link>
+      <pubDate>Thu, 19 Sep 2013 11:39:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/wordpress-right-solution/</guid>
+      <description>When it comes to choosing a content management platform for your website, there are a good number to choose from. And it’s an important decision; the choice dictates how well your website will work for you. Drupal, Joomla, Perch, MODX and our personal favourite, Wordpress are just a few of the possible systems you could employ to deliver a great website. But which one is right for you? We think Wordpress – here’s why:</description>
+    </item>
+    
+    <item>
+      <title>How to write brilliant website content</title>
+      <link>//localhost:1313/thinks/how-to-write-brilliant-website-content/</link>
+      <pubDate>Thu, 14 Mar 2013 11:10:54 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/how-to-write-brilliant-website-content/</guid>
+      <description>Well-crafted website content is the key to increasing web traffic and more importantly, getting enquiries and making sales.
+In this article we look at 6 top tips for creating brilliant website content.
+1. Content is king Everyone loves fresh content – search engines and customers alike. If you do one thing on your website, it&amp;rsquo;s well worth spending your time regularly creating new, interesting content for your website, which is why blogs are so popular.</description>
+    </item>
+    
+    <item>
+      <title>Top Tips for keeping on top of fresh website content</title>
+      <link>//localhost:1313/thinks/top-tips-for-keeping-on-top-of-fresh-website-content/</link>
+      <pubDate>Wed, 06 Mar 2013 10:00:36 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/top-tips-for-keeping-on-top-of-fresh-website-content/</guid>
+      <description>Updating your website is important but we know what it&amp;rsquo;s like when you&amp;rsquo;re busy running a business - so how can you keep on top of it?
+Why it&amp;rsquo;s important There are two main reasons for adding new content to your website on a regular basis.
+1. It increases search engine traffic Each page of your website can be indexed by Google and each one could potentially be returned as a result against a search.</description>
+    </item>
+    
+    <item>
+      <title>When is the best time to send your marketing emails?</title>
+      <link>//localhost:1313/thinks/the-best-times-to-send-your-marketing-emails/</link>
+      <pubDate>Fri, 08 Feb 2013 10:32:30 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/the-best-times-to-send-your-marketing-emails/</guid>
+      <description>Mid-morning to coincide with coffee break? Lunchtime? At the end of the afternoon when people are starting to think about going home? When IS the best time to send your marketing emails?
+Research has been carried out by a leading email marketing company into what is the best time of day to send out your beautifully crafted HTML emails. The results might surprise you; for example, B2B marketers frequently preferring to open their mails after office hours and consumers choosing first thing in the morning to check theirs.</description>
+    </item>
+    
+    <item>
+      <title>Website design dos and don&#39;ts</title>
+      <link>//localhost:1313/thinks/website-design-dos-and-donts/</link>
+      <pubDate>Mon, 28 Jan 2013 10:03:32 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/website-design-dos-and-donts/</guid>
+      <description>Time for a rant. Here are some of the things that really gets our goat about website design. Make sure you don&amp;rsquo;t fall into these traps&amp;hellip;
+We&amp;rsquo;re often asked to take a look at websites and give our views on what could be improved. Whilst we don&amp;rsquo;t like to put other web designers down (it&amp;rsquo;s really not our style), there are some examples of really bad design that really wind us up.</description>
+    </item>
+    
+    <item>
+      <title>How to plan a website</title>
+      <link>//localhost:1313/thinks/planning-a-website-the-8-most-important-questions/</link>
+      <pubDate>Thu, 17 Jan 2013 10:55:44 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/planning-a-website-the-8-most-important-questions/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve all heard the cliches about planning - &amp;ldquo;If you don&amp;rsquo;t know where you want to go, how do you know which route to take?&amp;ldquo;or maybe &amp;ldquo;Failing to plan is planning to fail&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;When you&amp;rsquo;re thinking about your new website, these well-worn quotes are worth paying attention to.  If you don&amp;rsquo;t take the time to think about what your website is for and what you are trying to achieve, there&amp;rsquo;s a really good chance of messing it up.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>503 valid RCPT command must precede DATA error message in Outlook and how to fix it</title>
+      <link>//localhost:1313/thinks/503-valid-rcpt-command-must-precede-data-error-message-in-outlook-and-how-to-fix-it/</link>
+      <pubDate>Thu, 19 Apr 2012 15:34:36 +0000</pubDate>
+      
+      <guid>//localhost:1313/thinks/503-valid-rcpt-command-must-precede-data-error-message-in-outlook-and-how-to-fix-it/</guid>
+      <description>This extremely irritating email error message seems to have been plaguing several of our clients recently, so I thought it was worth writing this post to provide some solutions to the problem.
+I don&amp;rsquo;t usually write technical posts, but this particular problem has cropped up a number of times and I thought it was worth putting something on our blog to help out anyone else who might be tearing their hair out to try and get it resolved.</description>
+    </item>
+    
+  </channel>
+</rss>

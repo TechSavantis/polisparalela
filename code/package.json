@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
-    "build": "gulp build && netlify-lambda build ./src/functions",
+    "build": "gulp build",
     "build-preview": "gulp build-preview",
     "start": "gulp server",
     "serve": "hugo server -D -d '../../' -s './site'",

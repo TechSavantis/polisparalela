@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Design on Polis Paralela</title>
-    <link>//localhost:1313/thinks/categories/web-design/</link>
+    <link>/thinks/categories/web-design/</link>
     <description>Recent content in Web Design on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 02 Jun 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/thinks/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/thinks/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building Paul the Octopus 2018</title>
-      <link>//localhost:1313/thinks/paul-the-octopus-2018/</link>
+      <link>/thinks/paul-the-octopus-2018/</link>
       <pubDate>Sat, 02 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/paul-the-octopus-2018/</guid>
+      <guid>/thinks/paul-the-octopus-2018/</guid>
       <description>2018 marks the third incarnation of Paul the Octopus, our World Cup predictions game created in homage to the mystic mollusc.
 It&amp;rsquo;s a fun little tournament that we run every other year, as both an internal and a wider-reaching contest.
 The rules are pretty simple: predict the score for each game. A correct score nets you 3 points, a correct result gets 1 point. There are also a few challenges along the way to earn some bonus points.</description>
@@ -24,50 +24,50 @@ The rules are pretty simple: predict the score for each game. A correct score ne
     
     <item>
       <title>Polis Paralela site relaunch: Building our JAMstack site</title>
-      <link>//localhost:1313/thinks/tomango-progressive-web-app/</link>
+      <link>/thinks/tomango-progressive-web-app/</link>
       <pubDate>Thu, 03 May 2018 09:26:00 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/tomango-progressive-web-app/</guid>
+      <guid>/thinks/tomango-progressive-web-app/</guid>
       <description>On the 1st May 2018, we launched the latest Polis Paralela website. To represent our change in business approach and new brand, the site was designed to be confident, clear and quick. Confidence meant stripping away the fluff, leaving only the clearest message possible.
 This ethos was applied to the brand, copy and site design — so it was only natural for it to extend to the development, and this focus lead to great performance.</description>
     </item>
     
     <item>
       <title>Developing ‘Blue Notes’</title>
-      <link>//localhost:1313/thinks/blue-notes-international-jazz-day/</link>
+      <link>/thinks/blue-notes-international-jazz-day/</link>
       <pubDate>Mon, 30 Apr 2018 12:50:57 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/blue-notes-international-jazz-day/</guid>
+      <guid>/thinks/blue-notes-international-jazz-day/</guid>
       <description>With today being ‘International Jazz Day’, I thought it was the perfect chance to share some of Steve’s recent work and blogs, where he does a deep dive into what he calls “a labour of love and typography“.
 In an attempt to to test his layout chops and partly to learn and explore new technologies and techniques in both HTML and CSS, he set off trying to recreate responsive versions of iconic jazz album covers!</description>
     </item>
     
     <item>
       <title>Building a Progressive Web App</title>
-      <link>//localhost:1313/thinks/building-progressive-web-app/</link>
+      <link>/thinks/building-progressive-web-app/</link>
       <pubDate>Fri, 13 Apr 2018 09:00:49 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/building-progressive-web-app/</guid>
+      <guid>/thinks/building-progressive-web-app/</guid>
       <description>How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially? We’ve been working with Agon Systems for a number of years; creating their brand identity, designing and building their website, leading their digital marketing strategy, creating exhibition stands, stationery and presentation boxes, and most recently, building a single-page website for one of their biggest distribution products: Concept Tag.
 The Concept Tag is a new type of retail security tag that is revolutionising the industry.</description>
     </item>
     
     <item>
       <title>How to significantly improve the performance of your WordPress site</title>
-      <link>//localhost:1313/thinks/improving-wordpress-performance/</link>
+      <link>/thinks/improving-wordpress-performance/</link>
       <pubDate>Wed, 04 Apr 2018 08:32:55 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/improving-wordpress-performance/</guid>
+      <guid>/thinks/improving-wordpress-performance/</guid>
       <description>As I&amp;rsquo;ve mentioned before, website speed is incredibly important. Search engines are beginning to penalise slow websites, but more importantly, users are voting with their feet when it comes to slow websites. Check out this awesome infographic from KISSmetrics on how loading times affect your bottom line, it&amp;rsquo;s quite an eye-opener.
 When it came to building our new website, performance was at the front of my mind. It wasn&amp;rsquo;t that performance was an issue for our previous site, rather due to changing technologies and a design involving a heavier emphasis on images and graphical content I knew that prioritising performance would be key.</description>
     </item>
     
     <item>
       <title>Polis Paralela is celebrating its 5th birthday!</title>
-      <link>//localhost:1313/thinks/tomango-celebrating-5th-birthday/</link>
+      <link>/thinks/tomango-celebrating-5th-birthday/</link>
       <pubDate>Wed, 31 Jan 2018 11:57:39 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/tomango-celebrating-5th-birthday/</guid>
+      <guid>/thinks/tomango-celebrating-5th-birthday/</guid>
       <description>Suitably over-the-top cake ordered?
 Check.
 Balloons blown up, banners unfurled, party poppers on stand by?
@@ -81,10 +81,10 @@ It&amp;rsquo;s hard to believe, I know. It seemed like only yesterday we were be
     
     <item>
       <title>Progressive Website launched for Hartwell Insurance</title>
-      <link>//localhost:1313/thinks/progressive-website-launched-for-hartwell-insurance/</link>
+      <link>/thinks/progressive-website-launched-for-hartwell-insurance/</link>
       <pubDate>Mon, 29 Jan 2018 09:37:47 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/progressive-website-launched-for-hartwell-insurance/</guid>
+      <guid>/thinks/progressive-website-launched-for-hartwell-insurance/</guid>
       <description>We&amp;rsquo;re proud to announce the launch of a rapid new website for Hartwell Insurance.
 The site was built with global performance as a first-priority feature. To that end, the site is built in Hugo, a static-site generator that does away with databases and the performance hit that comes from them.
 By making the site static, we were able to distribute the hosting to multiple CDN servers with Netlify. This means users connect to the closest server to their location, not to a single datacenter.</description>
@@ -92,10 +92,10 @@ By making the site static, we were able to distribute the hosting to multiple CD
     
     <item>
       <title>What happens when you self-diagnose</title>
-      <link>//localhost:1313/thinks/happens-self-diagnose/</link>
+      <link>/thinks/happens-self-diagnose/</link>
       <pubDate>Thu, 11 Jan 2018 14:50:59 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/happens-self-diagnose/</guid>
+      <guid>/thinks/happens-self-diagnose/</guid>
       <description>Here&amp;rsquo;s a couple of great stories about stupidity.
 The first story concerns a friend who&amp;rsquo;s a GP.
 One day a few years ago, a middle-aged woman turned up at her surgery feeling lousy. She had no energy, bad headaches and her limbs were aching.
@@ -105,20 +105,20 @@ Of course, my doctor friend insisted on a proper consultation and suspected the 
     
     <item>
       <title>Moving from .dev to .test - OSX dnsmasq</title>
-      <link>//localhost:1313/thinks/moving-dev-test-os-x-dnsmasq/</link>
+      <link>/thinks/moving-dev-test-os-x-dnsmasq/</link>
       <pubDate>Thu, 14 Dec 2017 14:20:56 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/moving-dev-test-os-x-dnsmasq/</guid>
+      <guid>/thinks/moving-dev-test-os-x-dnsmasq/</guid>
       <description>It finally happened. After buying the .dev TLD a couple of years ago, Google have finally started doing something with it. The first step has arrived in Chrome 63, which hit my browser at 13:36 on the 14th December. All http:// requests are automatically redirected to https://. This change has broken the local development setup on my Mac.
 Although a valiant step in the direction of local SSL development, I&amp;rsquo;m not clued up enough with self-signed certificates to implement that, especially not a week before breaking up for Christmas.</description>
     </item>
     
     <item>
       <title>Our award-winning clients</title>
-      <link>//localhost:1313/thinks/our-award-winning-clients/</link>
+      <link>/thinks/our-award-winning-clients/</link>
       <pubDate>Tue, 07 Nov 2017 08:42:35 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/our-award-winning-clients/</guid>
+      <guid>/thinks/our-award-winning-clients/</guid>
       <description>Within the last few weeks, it seems our clients have been winning awards left, right and centre.
 Each time I get an email about it from one of them, or see something on social media (along with a photo of them in their black ties with shiny gongs in hand), I feel a very real and genuine sense of pride at being involved with these businesses.
 In fact, it got me thinking.</description>
@@ -126,10 +126,10 @@ In fact, it got me thinking.</description>
     
     <item>
       <title>View Source 2017</title>
-      <link>//localhost:1313/thinks/view-source-2017/</link>
+      <link>/thinks/view-source-2017/</link>
       <pubDate>Mon, 30 Oct 2017 10:03:21 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/view-source-2017/</guid>
+      <guid>/thinks/view-source-2017/</guid>
       <description>The latter part of October has comprised of a workshop in Brussels, winning at a hackathon and attending View Source, a frontend development conference organised by Mozilla.
 It was held in the stunning Royal Society of Arts in London. As a venue, it was incredible. Vast paintings lined the walls of the ‘Great Hall’ – and the air conditioning was a very welcome addition.
 The day started with truly the best maple pecan pastry I’ve ever consumed!</description>
@@ -137,10 +137,10 @@ The day started with truly the best maple pecan pastry I’ve ever consumed!</de
     
     <item>
       <title>Vue.js in Brussels - the round-up</title>
-      <link>//localhost:1313/thinks/vue-js-brussels-round/</link>
+      <link>/thinks/vue-js-brussels-round/</link>
       <pubDate>Wed, 25 Oct 2017 10:20:46 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/vue-js-brussels-round/</guid>
+      <guid>/thinks/vue-js-brussels-round/</guid>
       <description>I&amp;rsquo;m back at work after an exciting trip to Brussels, attending a three-day Hackages training course on Vue.js run by Evan You, the creator of the framework. It was so inspiring and useful to be able to ask him questions and understand his motives behind the project.
 I wrote a blog post each evening, cherry picking the highlights from my 37 pages of notes:
 Day 1 We kicked off by running through the high-level concepts in Vue.</description>
@@ -148,10 +148,10 @@ Day 1 We kicked off by running through the high-level concepts in Vue.</descript
     
     <item>
       <title>The six factors that influence your customer&#39;s decision-making</title>
-      <link>//localhost:1313/thinks/six-factors-influence-customers-decision-making/</link>
+      <link>/thinks/six-factors-influence-customers-decision-making/</link>
       <pubDate>Thu, 19 Oct 2017 13:05:25 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/six-factors-influence-customers-decision-making/</guid>
+      <guid>/thinks/six-factors-influence-customers-decision-making/</guid>
       <description>A college education in the US costs about $25,000 a year on average. Most students need to work pretty hard to support themselves over the four years it takes to get a degree, but here&amp;rsquo;s how one guy supported himself through his entire college education working only a few hours a week, by knowing how to influence how people make decisions.
 How did he do it?
 He sold cars. But not in a showroom or car lot.</description>
@@ -159,10 +159,10 @@ He sold cars. But not in a showroom or car lot.</description>
     
     <item>
       <title>Building a better button</title>
-      <link>//localhost:1313/thinks/building-a-better-button/</link>
+      <link>/thinks/building-a-better-button/</link>
       <pubDate>Mon, 09 Oct 2017 08:28:33 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/building-a-better-button/</guid>
+      <guid>/thinks/building-a-better-button/</guid>
       <description>A personalised card manufacturer (with a &amp;rsquo;pork-related&amp;rsquo; name) have recently rebranded with a swanky new site. The brand is a huge step forward and there&amp;rsquo;s some really nice parts to the online shop.
 As part of the fun new brand direction, they&amp;rsquo;ve created some &amp;lsquo;hyper-illustrated&amp;rsquo; buttons, a style which is pretty popular at the moment. Unfortunately, these buttons were created with images.
 Not the end of the world I hear you cry, sometimes the design requires an image!</description>
@@ -170,10 +170,10 @@ Not the end of the world I hear you cry, sometimes the design requires an image!
     
     <item>
       <title>Fixed pixel gutters on a percentage grid</title>
-      <link>//localhost:1313/thinks/about-fixed-pixel-gutters-on-a-percentage-grid/</link>
+      <link>/thinks/about-fixed-pixel-gutters-on-a-percentage-grid/</link>
       <pubDate>Mon, 18 Sep 2017 15:12:21 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/about-fixed-pixel-gutters-on-a-percentage-grid/</guid>
+      <guid>/thinks/about-fixed-pixel-gutters-on-a-percentage-grid/</guid>
       <description>I&amp;rsquo;ve just published an article on Dev.to, an online development community.
 It outlines the problems with percentage margins and provides a solution using pixel margins whilst keeping the percentage grid. By using the fixed-gutter calculation, you can easily enforce vertical &amp;amp; horizontal consistency throughout a CSS grid.
 Read the full article </description>
@@ -181,10 +181,10 @@ Read the full article </description>
     
     <item>
       <title>From Yorkshire to the Sussex– the long way round</title>
-      <link>//localhost:1313/thinks/yorkshire-sussex-long-way-round/</link>
+      <link>/thinks/yorkshire-sussex-long-way-round/</link>
       <pubDate>Fri, 05 May 2017 16:08:54 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/yorkshire-sussex-long-way-round/</guid>
+      <guid>/thinks/yorkshire-sussex-long-way-round/</guid>
       <description>Hi there, I’m Steve. I’m from Yorkshire and I started working at Polis Paralela in August 2016 as a Junior Web Developer.
 Somewhat shamefully this is my first post for the Polis Paralela blog, though this has been percolating for some time now so hopefully you’ll find it worth the wait&amp;hellip;
 As a means of introducing myself I thought I’d tell the story of my journey from Huddersfield, where I completed my Masters in Interactive Multimedia in 2004, to sitting in Polis Paralela HQ over a decade later.</description>
@@ -192,10 +192,10 @@ As a means of introducing myself I thought I’d tell the story of my journey fr
     
     <item>
       <title>Top 5 mistakes people make when designing a website</title>
-      <link>//localhost:1313/thinks/top-5-mistakes-people-make-when-designing-a-website/</link>
+      <link>/thinks/top-5-mistakes-people-make-when-designing-a-website/</link>
       <pubDate>Tue, 07 Feb 2017 15:56:06 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/top-5-mistakes-people-make-when-designing-a-website/</guid>
+      <guid>/thinks/top-5-mistakes-people-make-when-designing-a-website/</guid>
       <description>It amazes me how often I see clients repeatedly making the same mistakes and bad decisions when it comes to designing a new website.
 The worst thing is that these errors of judgement - whether in the planning or design stages or in the way they manage the project - result in a finished site that&amp;rsquo;s nowhere near as good as it could be.
 Here&amp;rsquo;s my top 5. Make sure you&amp;rsquo;re not making these mistakes too&amp;hellip;</description>
@@ -203,10 +203,10 @@ Here&amp;rsquo;s my top 5. Make sure you&amp;rsquo;re not making these mistakes 
     
     <item>
       <title>Managing customer expectations</title>
-      <link>//localhost:1313/thinks/managing-customer-expectations/</link>
+      <link>/thinks/managing-customer-expectations/</link>
       <pubDate>Thu, 22 Dec 2016 15:18:12 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/managing-customer-expectations/</guid>
+      <guid>/thinks/managing-customer-expectations/</guid>
       <description>That&amp;rsquo;s it. Christmas is ruined.
 The whole thing&amp;rsquo;s off. I&amp;rsquo;m going to go and sit in a corner and sulk for the next two weeks.
 And all for the sake of some turkey!
@@ -217,10 +217,10 @@ But last year there was some confusion about whether we were having their Christ
     
     <item>
       <title>3 ways to organise your website&#39;s project portfolio</title>
-      <link>//localhost:1313/thinks/3-ways-to-organise-your-website-project-portfolio/</link>
+      <link>/thinks/3-ways-to-organise-your-website-project-portfolio/</link>
       <pubDate>Mon, 05 Dec 2016 10:50:57 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/3-ways-to-organise-your-website-project-portfolio/</guid>
+      <guid>/thinks/3-ways-to-organise-your-website-project-portfolio/</guid>
       <description>Following on from my recent post on How to organise content for your website, I&amp;rsquo;ve noticed something that&amp;rsquo;s kept cropping up for discussion over recent projects - how best to organise a portfolio of projects.
 The best option to take usually depends on the content available, and in particular the spread of different projects across different categories or sectors.
 To give you some ideas, here are what I think are the three most common ways of organising projects:</description>
@@ -228,30 +228,30 @@ To give you some ideas, here are what I think are the three most common ways of 
     
     <item>
       <title>Oversharing in SASS</title>
-      <link>//localhost:1313/thinks/oversharing-in-sass/</link>
+      <link>/thinks/oversharing-in-sass/</link>
       <pubDate>Wed, 23 Nov 2016 14:13:22 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/oversharing-in-sass/</guid>
+      <guid>/thinks/oversharing-in-sass/</guid>
       <description>SASS is one of the most popular CSS extensions in use today. It offers a huge palette of tools for authoring scalable stylesheets including support for nesting, selector inheritance, file inclusions and scoped variables.
 It&amp;rsquo;s given developers a glimpse into what writing bleeding-edge CSS could look like in a few years, safe in the knowledge that all the code will work in browsers today. And for that reason, as all SASS is processed down into CSS before the browser parses it, in many respects there isn’t anything special about it.</description>
     </item>
     
     <item>
       <title>#ffconf 2016</title>
-      <link>//localhost:1313/thinks/ffconf-2016/</link>
+      <link>/thinks/ffconf-2016/</link>
       <pubDate>Mon, 14 Nov 2016 11:35:39 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/ffconf-2016/</guid>
+      <guid>/thinks/ffconf-2016/</guid>
       <description>#ffconf is an annual JavaScript and frontend development conference held in Brighton. In its eighth incarnation, this year’s event was set out as a one day conference run twice. I headed down on the first day ready to be inspired and challenged.
 The venue was The Duke of York’s in Brighton (Britain’s oldest working cinema) and the whole event was organised brilliantly. The seating was supremely comfortable, free tea, coffee, pastries and ice creams were provided and the diverse range of talks made for a really great conference.</description>
     </item>
     
     <item>
       <title>How to organise content for your website</title>
-      <link>//localhost:1313/thinks/organise-content-website/</link>
+      <link>/thinks/organise-content-website/</link>
       <pubDate>Mon, 31 Oct 2016 15:58:38 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/organise-content-website/</guid>
+      <guid>/thinks/organise-content-website/</guid>
       <description>Writing the content for your new website can be a daunting task.
 In this post you&amp;rsquo;ll find out how to get content together in a way that suits both you and your web designer and makes the process that little bit easier.
 We&amp;rsquo;re going to assume you&amp;rsquo;ve already decided what pages and features to include on your website, and will concentrate here on what content you need to create and how to organise it.</description>
@@ -259,10 +259,10 @@ We&amp;rsquo;re going to assume you&amp;rsquo;ve already decided what pages and 
     
     <item>
       <title>Project Revisited: Hailsham Town Council</title>
-      <link>//localhost:1313/thinks/project-revisited-hailsham-town-council/</link>
+      <link>/thinks/project-revisited-hailsham-town-council/</link>
       <pubDate>Wed, 12 Oct 2016 14:08:41 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/project-revisited-hailsham-town-council/</guid>
+      <guid>/thinks/project-revisited-hailsham-town-council/</guid>
       <description>In June 2015, Polis Paralela finished a project to design and develop the new website for Hailsham Town Council.
 Our brief was to design and develop a new website for the council to give residents easy access to council services and information about the town.
 The client wanted a website that was accessible to all, and embraced the very essence of good design; something that didn’t just look good, but was easy and intuitive to use, regardless of the device being used or any impairments the user might have.</description>
@@ -270,10 +270,10 @@ The client wanted a website that was accessible to all, and embraced the very es
     
     <item>
       <title>What are the features of a good website?</title>
-      <link>//localhost:1313/thinks/features-good-website/</link>
+      <link>/thinks/features-good-website/</link>
       <pubDate>Wed, 28 Sep 2016 08:43:41 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/features-good-website/</guid>
+      <guid>/thinks/features-good-website/</guid>
       <description>In the latest in my series covering the different aspects of planning your website project, we look at what features to include on your site, and how to choose what&amp;rsquo;s best for your business.
 Straight off the bat, I should tell you this is aimed at what&amp;rsquo;s historically been referred to as &amp;ldquo;brochure&amp;rdquo; websites.
 Around 75% of our clients have this type of site, so it&amp;rsquo;s relevant to the majority of businesses, but if you&amp;rsquo;re looking for in-depth analysis of ecommerce features, or other more complex sites, you&amp;rsquo;re probably in the wrong place.</description>
@@ -281,10 +281,10 @@ Around 75% of our clients have this type of site, so it&amp;rsquo;s relevant to 
     
     <item>
       <title>Say hello to the newest member of the Polis Paralela team - Steve Honeyman</title>
-      <link>//localhost:1313/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</link>
+      <link>/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</link>
       <pubDate>Wed, 31 Aug 2016 10:48:25 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</guid>
+      <guid>/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</guid>
       <description>Polis Paralela has added to its growing team&amp;hellip;
 Please meet our new Junior Web Developer, Steve Honeyman.
 Steve joined us on 15th August and comes from the University of Leeds, where he&amp;rsquo;d worked as a WordPress Developer for the last couple of years.
@@ -293,20 +293,20 @@ He&amp;rsquo;s got a real passion for web development, and brings with him valua
     
     <item>
       <title>Getting started with A-Frame</title>
-      <link>//localhost:1313/thinks/getting-started-aframe/</link>
+      <link>/thinks/getting-started-aframe/</link>
       <pubDate>Wed, 17 Aug 2016 16:37:30 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/getting-started-aframe/</guid>
+      <guid>/thinks/getting-started-aframe/</guid>
       <description>A-Frame is a brilliant new framework bringing Virtual Reality (VR) to the web. Headed up by the Mozilla VR Team, it has lowered the barrier of entry to this exciting new industry, letting anyone with a bit of HTML knowledge get involved.
 As we’re all caught up in Olympic fever at the moment, I decided to recreate the famous logo in A-Frame. Want to see the finished result? Check it out.</description>
     </item>
     
     <item>
       <title>Six of the Best - Rio Olympics Videos</title>
-      <link>//localhost:1313/thinks/six-best-rio-olympics-videos/</link>
+      <link>/thinks/six-best-rio-olympics-videos/</link>
       <pubDate>Fri, 12 Aug 2016 15:15:55 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/six-best-rio-olympics-videos/</guid>
+      <guid>/thinks/six-best-rio-olympics-videos/</guid>
       <description>The Rio Olympics is in full swing, so it&amp;rsquo;s only right I put together an Olympic-themed blog!
 From swimming pools mysteriously turning green through to the breaking of a 2,168 year-old record, it&amp;rsquo;s already proving to be another fascinating spectacle.
 And, notwithstanding the craziness of Rule 40 or the IOC&amp;rsquo;s banning of GIFs, there&amp;rsquo;s also been some cracking memes doing the rounds.
@@ -315,20 +315,20 @@ For this list, however, I&amp;rsquo;ve chosen to focus on some of the more inter
     
     <item>
       <title>New website launched for Shirley Clarke Media</title>
-      <link>//localhost:1313/thinks/new-website-launched-shirley-clarke-media/</link>
+      <link>/thinks/new-website-launched-shirley-clarke-media/</link>
       <pubDate>Tue, 02 Aug 2016 09:20:16 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/new-website-launched-shirley-clarke-media/</guid>
+      <guid>/thinks/new-website-launched-shirley-clarke-media/</guid>
       <description>Shirley Clarke is the foremost expert on the practical application of formative assessment - which is a range of procedures carried out by teachers during the learning process to improve kids&amp;rsquo; attainment.
 She began her career as a primary school teacher, before becoming a maths consultant and then a lecturer and researcher at the Institute of Education, University of London. She&amp;rsquo;s now a freelance consultant running courses and researching and writing about best practices in education.</description>
     </item>
     
     <item>
       <title>What is Digital Disruption?</title>
-      <link>//localhost:1313/thinks/what-is-digital-disruption/</link>
+      <link>/thinks/what-is-digital-disruption/</link>
       <pubDate>Fri, 29 Jul 2016 08:46:26 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/what-is-digital-disruption/</guid>
+      <guid>/thinks/what-is-digital-disruption/</guid>
       <description>Digital innovations have been and still are transforming a whole host of different markets and how the companies in them do business.
 Here are some examples - can you identify the companies? (Answers at the bottom):
  The largest taxi company owns no cars The largest media owner creates no content The largest provider of accommodation owns no properties  How have these companies achieved this?
@@ -338,10 +338,10 @@ For better or worse, the changing technological landscape for both businesses an
     
     <item>
       <title>Stuart &amp; Partners: developing a modern letting agents website</title>
-      <link>//localhost:1313/thinks/developing-letting-agents-site/</link>
+      <link>/thinks/developing-letting-agents-site/</link>
       <pubDate>Fri, 01 Jul 2016 10:35:08 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/developing-letting-agents-site/</guid>
+      <guid>/thinks/developing-letting-agents-site/</guid>
       <description>We recently launched a new website for Stuart &amp;amp; Partners, a family-run letting agents in Haywards Heath and Hassocks. Their previous site was launched in 2007 and was in desperate need of an update so they approached us to deliver a modern site that would grow with their business.
 Property search with a difference 
 An effective property search system was of paramount importance when it came to building the new Stuart &amp;amp; Partners website.</description>
@@ -349,10 +349,10 @@ An effective property search system was of paramount importance when it came to 
     
     <item>
       <title>What is a User Journey?</title>
-      <link>//localhost:1313/thinks/what-is-user-journey/</link>
+      <link>/thinks/what-is-user-journey/</link>
       <pubDate>Wed, 29 Jun 2016 10:22:58 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/what-is-user-journey/</guid>
+      <guid>/thinks/what-is-user-journey/</guid>
       <description>In the latest in my series covering the planning of your website project, we take a look at User Journeys.
 What is a User Journey? Type &amp;ldquo;what is a user journey&amp;rdquo; into Google, and the chances are you&amp;rsquo;ll see this broad definition:
 A user journey is a series of steps (typically 4-12) which represent a scenario in which a user might interact with the thing you are designing. They can be used for 2 main things:</description>
@@ -360,20 +360,20 @@ A user journey is a series of steps (typically 4-12) which represent a scenario 
     
     <item>
       <title>Building Paul the Octopus</title>
-      <link>//localhost:1313/thinks/building-paul-octopus/</link>
+      <link>/thinks/building-paul-octopus/</link>
       <pubDate>Wed, 08 Jun 2016 16:06:25 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/building-paul-octopus/</guid>
+      <guid>/thinks/building-paul-octopus/</guid>
       <description>As you will no doubt have seen, Euro 2016 is almost upon us and football fever is beginning to take over conversations - certainly in our office anyway! If you’re a keen reader of this blog, you may have also seen that we launched Paul the Octopus, our predictions game built for this very event.
 Tom has already announced the launch and explained the key features, so if you’re looking for rules, tips or information about the mystic mollusc, check out his article.</description>
     </item>
     
     <item>
       <title>Introducing &#39;Paul the Octopus&#39; - the Euro 2016 prediction game from Polis Paralela</title>
-      <link>//localhost:1313/thinks/paul-the-octopus-euro-2016/</link>
+      <link>/thinks/paul-the-octopus-euro-2016/</link>
       <pubDate>Fri, 03 Jun 2016 11:59:00 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/paul-the-octopus-euro-2016/</guid>
+      <guid>/thinks/paul-the-octopus-euro-2016/</guid>
       <description>Unless you&amp;rsquo;ve been living in a cave the last month or so you&amp;rsquo;ll know that next week sees the start of Euro 2016!
 With it will inevitably come England&amp;rsquo;s exit in the last 16 - but here at Polis Paralela we want the fun to go on all tournament, so for the last month we&amp;rsquo;ve been working on a way to ensure that&amp;rsquo;s the case.
 Enter - Paul the Octopus.</description>
@@ -381,10 +381,10 @@ Enter - Paul the Octopus.</description>
     
     <item>
       <title>How to choose a web design agency</title>
-      <link>//localhost:1313/thinks/choose-web-design-agency/</link>
+      <link>/thinks/choose-web-design-agency/</link>
       <pubDate>Wed, 01 Jun 2016 13:49:08 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/choose-web-design-agency/</guid>
+      <guid>/thinks/choose-web-design-agency/</guid>
       <description>So you&amp;rsquo;ve decided you need a new website, settled on the type of website you need, and created a website design brief. You&amp;rsquo;re ready to put the feelers out so you can choose a web design agency.
 But how do you choose the right agency for your project?
 Comparing apples with oranges Clients frequently tell me how confusing it is to choose between the different sized and shaped web design companies, especially when you get such a wide range of approaches and costs.</description>
@@ -392,30 +392,30 @@ Comparing apples with oranges Clients frequently tell me how confusing it is to 
     
     <item>
       <title>Why we use InVision</title>
-      <link>//localhost:1313/thinks/why-we-use-invision/</link>
+      <link>/thinks/why-we-use-invision/</link>
       <pubDate>Wed, 18 May 2016 14:57:59 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/why-we-use-invision/</guid>
+      <guid>/thinks/why-we-use-invision/</guid>
       <description>For the past six months we’ve been using a website called InVision - a prototyping and collaboration tool. The concept is simple - upload the designs, share with the client and they then leave feedback.
 Before we started using InVision it seemed to be a long process in reaching a final design. This used to involve a large number of emails and telephone conversations back and forth, with the client having to explain where and what they required changing.</description>
     </item>
     
     <item>
       <title>Things Polis Paralela likes this week - 29 April 2016</title>
-      <link>//localhost:1313/thinks/things-tomango-likes-week-29-april-2016/</link>
+      <link>/thinks/things-tomango-likes-week-29-april-2016/</link>
       <pubDate>Fri, 29 Apr 2016 15:37:48 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/things-tomango-likes-week-29-april-2016/</guid>
+      <guid>/thinks/things-tomango-likes-week-29-april-2016/</guid>
       <description>After starting strongly a fortnight ago, this supposedly weekly round-up blog had a week off last Friday as I was attending the awesome Brighton SEO conference. You can read about a lot of the bits I learned on Local SEO here.
 Anyway, here&amp;rsquo;s a quick blast through the week and some of the more interesting things we&amp;rsquo;ve noticed this week in the worlds of Brand, Web, and Online Marketing.</description>
     </item>
     
     <item>
       <title>How to create a website design brief - download our template</title>
-      <link>//localhost:1313/thinks/create-website-design-brief-download-template/</link>
+      <link>/thinks/create-website-design-brief-download-template/</link>
       <pubDate>Wed, 27 Apr 2016 04:57:00 +0100</pubDate>
       
-      <guid>//localhost:1313/thinks/create-website-design-brief-download-template/</guid>
+      <guid>/thinks/create-website-design-brief-download-template/</guid>
       <description>Update - do yourself a favour and read this first Good news! Since I wrote this post, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I originally wrote. &amp;hellip; read more
 We&amp;rsquo;ve found the best outcomes for projects come when we engage with our client before any sort of detailed brief has been written.
 So I just saved you several hours work ;o)</description>
@@ -423,20 +423,20 @@ So I just saved you several hours work ;o)</description>
     
     <item>
       <title>Local SEO @ Polis Paralela&#39;s local SEO conference - BrightonSEO</title>
-      <link>//localhost:1313/thinks/brighton-seo-how-to-be-a-local-seo-jedi/</link>
+      <link>/thinks/brighton-seo-how-to-be-a-local-seo-jedi/</link>
       <pubDate>Mon, 25 Apr 2016 14:16:10 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/brighton-seo-how-to-be-a-local-seo-jedi/</guid>
+      <guid>/thinks/brighton-seo-how-to-be-a-local-seo-jedi/</guid>
       <description>I had my first experience of the amazing Brighton SEO conference on Friday – seeing as how I&amp;rsquo;ve lived down the road from Brighton most of my life, it’s pretty poor form that I&amp;rsquo;d never been to the event before&amp;hellip;
 The day proved to be incredibly valuable on the whole and the Brighton Dome was absolutely packed with digital marketers from all over the UK and beyond. In fact, there were so many it was announced on the day that the next edition will take place at the much larger Brighton Centre.</description>
     </item>
     
     <item>
       <title>Why SEO is a bit like cycling</title>
-      <link>//localhost:1313/thinks/why-seo-is-like-cycling/</link>
+      <link>/thinks/why-seo-is-like-cycling/</link>
       <pubDate>Wed, 20 Apr 2016 15:48:08 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/why-seo-is-like-cycling/</guid>
+      <guid>/thinks/why-seo-is-like-cycling/</guid>
       <description>In a previous post I dropped an analogy at the end likening the practice of search engine optimisation to that of top-level cycling.
 No, not that those who do it do so with a helping hand from a range of performance enhancing drugs&amp;hellip;it was actually to do with the philosophy of David Brailsford, former performance director of British Cycling and now manager of the very successful Team Sky:
  &amp;ldquo;The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improved it by 1%, you will get a significant increase when you put them all together.</description>
@@ -444,10 +444,10 @@ No, not that those who do it do so with a helping hand from a range of performa
     
     <item>
       <title>Local SEO: a 10-minute guide to help your business</title>
-      <link>//localhost:1313/thinks/local-seo-a-brief-guide/</link>
+      <link>/thinks/local-seo-a-brief-guide/</link>
       <pubDate>Wed, 13 Apr 2016 10:28:33 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/local-seo-a-brief-guide/</guid>
+      <guid>/thinks/local-seo-a-brief-guide/</guid>
       <description>Local SEO - what is it?
 In an nutshell, local SEO is the process of trying to get your business noticed by people in your area conducting relevant searches.
 Why is local SEO more important than ever?
@@ -456,10 +456,10 @@ Go to Google and type in ‘cinema’, ‘petrol station’, or ‘pizza’…an
     
     <item>
       <title>When is it right to use [framework name here]?</title>
-      <link>//localhost:1313/thinks/right-use-framework-name/</link>
+      <link>/thinks/right-use-framework-name/</link>
       <pubDate>Wed, 17 Feb 2016 14:54:49 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/right-use-framework-name/</guid>
+      <guid>/thinks/right-use-framework-name/</guid>
       <description>As with almost every question relating to modern web development, it depends.
 Ok, so now my cop-out answer&amp;rsquo;s out of the way, here are my thoughts…
 In the past, I&amp;rsquo;ve steered clear of Javascript frameworks. Sure, I’ve dabbled in a bit of Angular and dipped my toes in the waters of Backbone but I’ve never used one on a client project. They’ve always been sidelined to unlaunched side-projects.
@@ -468,10 +468,10 @@ The reason for this is three-fold; 1.</description>
     
     <item>
       <title>What type of website do I need?</title>
-      <link>//localhost:1313/thinks/what-sort-of-website-do-i-need/</link>
+      <link>/thinks/what-sort-of-website-do-i-need/</link>
       <pubDate>Thu, 14 Jan 2016 15:10:57 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/what-sort-of-website-do-i-need/</guid>
+      <guid>/thinks/what-sort-of-website-do-i-need/</guid>
       <description>So you&amp;rsquo;ve decided you need a new website.
 Your next step is to create a brief for the project. But before you do that, you need to work out a framework of the functionality; in other words, what type of website you need.
 Lots of clients come to us without a fully developed brief, so we work with them in the planning stage to make sure everyone&amp;rsquo;s clear on what the project&amp;rsquo;s trying to achieve.</description>
@@ -479,10 +479,10 @@ Lots of clients come to us without a fully developed brief, so we work with them
     
     <item>
       <title>Do I need a new website?</title>
-      <link>//localhost:1313/thinks/do-i-need-a-new-website/</link>
+      <link>/thinks/do-i-need-a-new-website/</link>
       <pubDate>Fri, 11 Dec 2015 16:16:01 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/do-i-need-a-new-website/</guid>
+      <guid>/thinks/do-i-need-a-new-website/</guid>
       <description>How do you know when it&amp;rsquo;s time to get a new website?
 Use our guide to help you look for the signs that tell you it&amp;rsquo;s time to start planning:
 The pages don&amp;rsquo;t reflect what you do as a business When you had your website built, you spent ages working out your site structure and what pages should be included. At the time, it reflected exactly what you did as a business.</description>
@@ -490,10 +490,10 @@ The pages don&amp;rsquo;t reflect what you do as a business When you had your we
     
     <item>
       <title>Can&#39;t send emails in Outlook on Windows 10?</title>
-      <link>//localhost:1313/thinks/cant-send-emails-outlook-windows-10/</link>
+      <link>/thinks/cant-send-emails-outlook-windows-10/</link>
       <pubDate>Thu, 03 Dec 2015 09:24:43 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/cant-send-emails-outlook-windows-10/</guid>
+      <guid>/thinks/cant-send-emails-outlook-windows-10/</guid>
       <description>Upgrading to Windows 10 can be irresistible for some people – and I’m not ashamed to say I was one of them. The night the new operating system was available I downloaded it straight onto my personal PC.
 With a new super-chic look and a return of the start menu - which caused uproar when it was missing from Windows 8 - what could possibly go wrong with upgrading?
 Well quite a lot actually.</description>
@@ -501,10 +501,10 @@ Well quite a lot actually.</description>
     
     <item>
       <title>An interview with...Trys Mudford, Lead Developer at Polis Paralela</title>
-      <link>//localhost:1313/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</link>
+      <link>/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</link>
       <pubDate>Fri, 25 Sep 2015 15:28:20 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</guid>
+      <guid>/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</guid>
       <description>I&amp;rsquo;m here with Trys Mudford, Lead Developer at Polis Paralela, to find out a bit more about this unassuming young gun who&amp;rsquo;s taking the responsive scene to whole new levels.
 As Trys sits down, I begin by asking him about some current projects&amp;hellip;
 Hi Trys. Thanks for taking the time out from your busy schedule to talk. What have you been working on this week?
@@ -513,20 +513,20 @@ Hi Trys. Thanks for taking the time out from your busy schedule to talk. What ha
     
     <item>
       <title>Using Quantity Queries to write content-aware CSS</title>
-      <link>//localhost:1313/thinks/using-quantity-queries-to-write-content-aware-css/</link>
+      <link>/thinks/using-quantity-queries-to-write-content-aware-css/</link>
       <pubDate>Tue, 25 Aug 2015 14:29:11 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/using-quantity-queries-to-write-content-aware-css/</guid>
+      <guid>/thinks/using-quantity-queries-to-write-content-aware-css/</guid>
       <description>The dawn of HTML5 and CSS3 provided a wave of new technologies promising to change the way we build web applications. Web developer reactions to most features were similar, an initial buzz of excitement while we pondered the possibilities brought forth by these shiny new techniques followed by a crushing sense of disappointment when we realised just how long it would be before we could start using them.
 Some crest-of-the-wave developers renounced any form of support to older browsers and pressed on with the new features.</description>
     </item>
     
     <item>
       <title>What are personas?</title>
-      <link>//localhost:1313/thinks/what-are-personas/</link>
+      <link>/thinks/what-are-personas/</link>
       <pubDate>Fri, 07 Aug 2015 16:43:37 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/what-are-personas/</guid>
+      <guid>/thinks/what-are-personas/</guid>
       <description>One of the most important steps in planning a new website is understanding who&amp;rsquo;s going to be using it.
 The best way to work this out is to create personas.
 What are personas? A persona is a representation of a type of user of your website.
@@ -535,10 +535,10 @@ But unlike vague descriptions that are easy to forget, personas are based on rea
     
     <item>
       <title>The 6 things a good website must do</title>
-      <link>//localhost:1313/thinks/the-6-things-a-good-website-must-do/</link>
+      <link>/thinks/the-6-things-a-good-website-must-do/</link>
       <pubDate>Fri, 31 Jul 2015 15:41:30 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/the-6-things-a-good-website-must-do/</guid>
+      <guid>/thinks/the-6-things-a-good-website-must-do/</guid>
       <description>A couple of weeks ago I was reading a great blog post by Adam Fairhead and there was something he said that perfectly summed up what a &amp;ldquo;good&amp;rdquo; website must do.
 His comment was in his introduction to a piece about UX mistakes that make users feel stupid and was - in my opinion - bang on the money.
 I found myself nodding in agreement to each of his points, and felt his summary deserved not only a closer look, but also an explanation for those who might be planning a new website, so they can make sure when it&amp;rsquo;s finished it gets top marks.</description>
@@ -546,10 +546,10 @@ I found myself nodding in agreement to each of his points, and felt his summary 
     
     <item>
       <title>Your summer checklist for your website</title>
-      <link>//localhost:1313/thinks/your-summer-checklist-for-your-website/</link>
+      <link>/thinks/your-summer-checklist-for-your-website/</link>
       <pubDate>Mon, 27 Jul 2015 10:20:46 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/your-summer-checklist-for-your-website/</guid>
+      <guid>/thinks/your-summer-checklist-for-your-website/</guid>
       <description>With August traditionally being a quiet time for a lot of businesses, it&amp;rsquo;s the perfect time to buff up your website and make sure it&amp;rsquo;s ship shape for September and the lead up to Christmas. You don&amp;rsquo;t want to leave it until you&amp;rsquo;re busy again and it&amp;rsquo;s too late&amp;hellip;
 Here&amp;rsquo;s our quick checklist of things you should get sorted before the kids go back to school:
 1. Check for out of date content When was the last time you properly read through your website?</description>
@@ -557,10 +557,10 @@ Here&amp;rsquo;s our quick checklist of things you should get sorted before the 
     
     <item>
       <title>How to write better copy for your website, Part 2 - make it all about your reader</title>
-      <link>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/</link>
+      <link>/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/</link>
       <pubDate>Thu, 14 May 2015 15:10:01 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/</guid>
+      <guid>/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/</guid>
       <description>&amp;ldquo;Hello, I&amp;rsquo;m Steve, and I give my customers their weekends back.&amp;rdquo;
 With his opening gambit, this guy had my attention. And he was the only person I&amp;rsquo;d met that morning who really had.
 The exhausting pastime of speed networking Have you ever been speed networking? It&amp;rsquo;s like speed dating, but for businesses.
@@ -569,10 +569,10 @@ Around 50 nervous-looking people get split into two groups, with one half statio
     
     <item>
       <title>How to write better copy for your website, Part 1 - writing for a lower reading age</title>
-      <link>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/</link>
+      <link>/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/</link>
       <pubDate>Thu, 16 Apr 2015 16:09:58 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/</guid>
+      <guid>/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/</guid>
       <description>Writing copy for your website is hard. Writing good copy is even harder.
 A common misconception about writing good copy is that it must be lavish, flowing and full of impressive words; and many writers find this prospect intimidating.
  The best copy is easy to read
@@ -581,20 +581,20 @@ A common misconception about writing good copy is that it must be lavish, flowin
     
     <item>
       <title>How to speed up your website - SVG</title>
-      <link>//localhost:1313/thinks/how-to-speed-up-your-website-using-svg/</link>
+      <link>/thinks/how-to-speed-up-your-website-using-svg/</link>
       <pubDate>Mon, 02 Mar 2015 09:41:45 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/how-to-speed-up-your-website-using-svg/</guid>
+      <guid>/thinks/how-to-speed-up-your-website-using-svg/</guid>
       <description>Continuing in the &amp;lsquo;How to speed up your website&amp;rsquo; series, I&amp;rsquo;m going to outline the benefits of using SVG to display images. SVG stands for Scalable Vector Graphics and they&amp;rsquo;re used to display vector-based images via code.
 Images via code? What is this black magic? Generally created by design programs like Illustrator and Sketch, SVGs are light-weight XML files that a web browser can parse and render an image from.</description>
     </item>
     
     <item>
       <title>Evergreen content saves you time and makes you money</title>
-      <link>//localhost:1313/thinks/evergreen-content-saves-time-makes-money/</link>
+      <link>/thinks/evergreen-content-saves-time-makes-money/</link>
       <pubDate>Wed, 11 Feb 2015 08:27:44 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/evergreen-content-saves-time-makes-money/</guid>
+      <guid>/thinks/evergreen-content-saves-time-makes-money/</guid>
       <description>I&amp;rsquo;m going to let you in on a little secret that will help your online marketing campaign be successful AND save you time into the bargain.
 I&amp;rsquo;m going to tell you all about Evergreen Content.
 What is evergreen content? So what is this magical ingredient that makes your content marketing campaign so successful?
@@ -603,20 +603,20 @@ Well it&amp;rsquo;s nothing to do with trees, and it&amp;rsquo;s nothing to do w
     
     <item>
       <title>The 5 secrets to keeping your customers truly happy</title>
-      <link>//localhost:1313/thinks/5-secrets-to-keeping-your-customers-truly-happy/</link>
+      <link>/thinks/5-secrets-to-keeping-your-customers-truly-happy/</link>
       <pubDate>Mon, 01 Dec 2014 15:22:40 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/5-secrets-to-keeping-your-customers-truly-happy/</guid>
+      <guid>/thinks/5-secrets-to-keeping-your-customers-truly-happy/</guid>
       <description>In the late summer of 2010, two young entrepreneurs called Hayley Barna and Katie Beauchamp came up with the idea of making money from selling small sample-size cosmetics - mini-tubes of mascara and baubles of liquid blush - often tossed in to beauty store shopping bags as freebies.
 Today Birchbox has over 400,000 customers paying £10 each month to receive a goodie bag of samples in the post - and the customers don&amp;rsquo;t even get to choose what they get.</description>
     </item>
     
     <item>
       <title>How to create a website design brief - common mistakes to avoid</title>
-      <link>//localhost:1313/thinks/how-to-create-website-design-brief-mistakes-to-avoid/</link>
+      <link>/thinks/how-to-create-website-design-brief-mistakes-to-avoid/</link>
       <pubDate>Fri, 17 Oct 2014 10:09:19 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/how-to-create-website-design-brief-mistakes-to-avoid/</guid>
+      <guid>/thinks/how-to-create-website-design-brief-mistakes-to-avoid/</guid>
       <description>Creating a website design brief is a vital part of any web project. By focusing on the aims of the project and who your target audience is, you make sure you stay on track and get an end product that provides a much bigger return on investment (ROI).
 But&amp;hellip;
 We&amp;rsquo;ve seen several common mistakes made during the project brief stage that you should be careful to avoid. True, some of these border on the comical - but some of them are very easy traps to fall into.</description>
@@ -624,19 +624,19 @@ We&amp;rsquo;ve seen several common mistakes made during the project brief stage
     
     <item>
       <title>Blogging made easy - an idiot&#39;s guide</title>
-      <link>//localhost:1313/thinks/blogging-made-easy-idiots-guide/</link>
+      <link>/thinks/blogging-made-easy-idiots-guide/</link>
       <pubDate>Tue, 19 Aug 2014 11:24:31 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/blogging-made-easy-idiots-guide/</guid>
+      <guid>/thinks/blogging-made-easy-idiots-guide/</guid>
       <description>You&amp;rsquo;ve probably already heard a lot about the benefits of writing a blog. The vast majority of new clients I talk to are aware it&amp;rsquo;s something they should be doing. But in our already busy lives, the prospect of having to squeeze in yet one more thing can be so daunting it prevents it ever getting off the ground. So this blog post is for all you busy bods out there; 6 steps to follow so you can enjoy the benefits of blogging with the minimum amount of effort.</description>
     </item>
     
     <item>
       <title>Regulations for selling online - important update</title>
-      <link>//localhost:1313/thinks/regulations-for-selling-online-important-update/</link>
+      <link>/thinks/regulations-for-selling-online-important-update/</link>
       <pubDate>Mon, 14 Jul 2014 16:30:35 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/regulations-for-selling-online-important-update/</guid>
+      <guid>/thinks/regulations-for-selling-online-important-update/</guid>
       <description>An important change has been made to the regulations for selling online.
 From 13 June 2014 the Consumer Contracts Regulations came into effect.
 The regulations apply to items bought online, at a distance, or away from a trader&amp;rsquo;s premises (for example, at home or at work). As a result, if you sell online via an ecommerce website, you will be affected by these regulations.
@@ -645,154 +645,154 @@ They replace the Distance Selling Regulations (as well as the Doorstep Selling R
     
     <item>
       <title>BBC News website redesign</title>
-      <link>//localhost:1313/thinks/bbc-news-website-redesign/</link>
+      <link>/thinks/bbc-news-website-redesign/</link>
       <pubDate>Thu, 24 Apr 2014 09:15:34 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/bbc-news-website-redesign/</guid>
+      <guid>/thinks/bbc-news-website-redesign/</guid>
       <description>The BBC news team has rolled out a new mobile-friendly design into beta this month. With broad strokes of minimalism and a simplified colour palette, the new site is quite a large step away from their current design.
 Header The header section of the site has taken on the most obvious change, many items have been dropped from the main navigation, the sub-navigation has been removed from below the main navigation bar and the top navigation section has been slimmed down and converted to a more subtle white backed section with the inverted BBC logo.</description>
     </item>
     
     <item>
       <title>How to perform a successful and efficient redirect</title>
-      <link>//localhost:1313/thinks/perform-successful-efficient-redirect/</link>
+      <link>/thinks/perform-successful-efficient-redirect/</link>
       <pubDate>Thu, 17 Apr 2014 14:09:45 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/perform-successful-efficient-redirect/</guid>
+      <guid>/thinks/perform-successful-efficient-redirect/</guid>
       <description>Whether you&amp;rsquo;ve simply renamed a page or moved your entire website, it&amp;rsquo;s impossible to deny the importance of a redirect. By setting up a redirect you provide a massive benefit for your users as they will be taken to the new address instantaneously without having to lift a finger. On top of that is the transfer of search engine rankings, which is paramount if you intend to keep a strong presence in search results.</description>
     </item>
     
     <item>
       <title>5 ways to get a better return on your website investment</title>
-      <link>//localhost:1313/thinks/5-ways-get-better-return-your-website-investment/</link>
+      <link>/thinks/5-ways-get-better-return-your-website-investment/</link>
       <pubDate>Wed, 09 Apr 2014 14:27:30 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/5-ways-get-better-return-your-website-investment/</guid>
+      <guid>/thinks/5-ways-get-better-return-your-website-investment/</guid>
       <description>They say you get what you pay for in life, and it&amp;rsquo;s certainly true when talking about your website. But what a lot of people struggle to get their heads round is what difference you&amp;rsquo;ll get by spending a bit more. In this post, we look at five key differences you should expect to get by paying that little bit more for your website.
 Time is money Most of these differences require additional time to be poured into the project, and being a service-industry, this will usually directly affect the cost; most agencies will calculate the cost of a project as Hours Required x Hourly Rate = Cost.</description>
     </item>
     
     <item>
       <title>What is Responsive Design and why do I need it?</title>
-      <link>//localhost:1313/thinks/what-is-responsive-design/</link>
+      <link>/thinks/what-is-responsive-design/</link>
       <pubDate>Mon, 17 Feb 2014 14:15:25 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/what-is-responsive-design/</guid>
+      <guid>/thinks/what-is-responsive-design/</guid>
       <description>The way we interact with the web is changing fast. We browse on mobile phones, tablets, laptops and desktops; even watches are getting smarter. It’s only natural that the content we publish and the way it is displayed should develop at the same rate. Unfortunately that’s not the case with many websites. Older sites (and sadly an alarming number of new websites) struggle to keep pace with the number of devices that view them; they just can’t adapt on a device by device basis.</description>
     </item>
     
     <item>
       <title>How to write a good blog post - Part 3: Finishing touches</title>
-      <link>//localhost:1313/thinks/write-good-blog-post-part-3-finishing-touches/</link>
+      <link>/thinks/write-good-blog-post-part-3-finishing-touches/</link>
       <pubDate>Tue, 21 Jan 2014 10:53:22 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/write-good-blog-post-part-3-finishing-touches/</guid>
+      <guid>/thinks/write-good-blog-post-part-3-finishing-touches/</guid>
       <description>Keeping on top of your blog can be a difficult task (I should know) but there are a number of easy-to-follow tips that can help you beat that blank-page syndrome and ensure a steady flow of well-structured, interesting blog posts over a long period of time.
 Previously in this three part series, we have looked at &amp;ldquo;Part 1: Getting Started&amp;rdquo;, which helped set topics and create an outline structure to your article and &amp;ldquo;Part 2: Writing good content&amp;rdquo;, which helped get the full post written by breaking it down into bite-sized chunks.</description>
     </item>
     
     <item>
       <title>How to speed up your website - Deferred loading</title>
-      <link>//localhost:1313/thinks/deferred-loading/</link>
+      <link>/thinks/deferred-loading/</link>
       <pubDate>Thu, 16 Jan 2014 13:39:25 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/deferred-loading/</guid>
+      <guid>/thinks/deferred-loading/</guid>
       <description>I think it’s fair to say that everyone hates a slow website. As internet speeds have increased over time, so has the amount of dynamic content being loaded into the browser and sadly that takes time to download. Furthermore, mobile usage is constantly increasing and catering for the slow speeds of mobile internet should be high on our agendas as developers.
 A slow website can even harm your search position; in 2010 Google started using page load time as a factor in their rankings.</description>
     </item>
     
     <item>
       <title>How to write a good blog post - Part 2: Writing good content</title>
-      <link>//localhost:1313/thinks/write-good-blog-post-part-2-writing-good-content/</link>
+      <link>/thinks/write-good-blog-post-part-2-writing-good-content/</link>
       <pubDate>Tue, 14 Jan 2014 10:46:24 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/write-good-blog-post-part-2-writing-good-content/</guid>
+      <guid>/thinks/write-good-blog-post-part-2-writing-good-content/</guid>
       <description>I know all too well that maintaining a blog is hard work and often share some tips with our clients that help me keep things going. I eventually decided that it might be useful for others if I shared these online, so I&amp;rsquo;m writing this short sequence of articles to help you become a better blogger.
 In the second of this 3-part series, we build on the framework for our blog post that we put together in &amp;ldquo;How to write a blog post - Part 1: Getting started&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>How to write a good blog post - Part 1: Getting Started</title>
-      <link>//localhost:1313/thinks/write-good-blog-post-part-1-getting-started/</link>
+      <link>/thinks/write-good-blog-post-part-1-getting-started/</link>
       <pubDate>Thu, 09 Jan 2014 17:18:26 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/write-good-blog-post-part-1-getting-started/</guid>
+      <guid>/thinks/write-good-blog-post-part-1-getting-started/</guid>
       <description>The benefits of having an active blog on your website are well established - in fact, we&amp;rsquo;ve written a blog post about it - but I&amp;rsquo;m well aware that for many, the prospect of writing a few hundred words once a week brings them out in a cold sweat. So I&amp;rsquo;ve put together a more detailed guide to Writing a Blog Post, to help make the whole process a little more palatable.</description>
     </item>
     
     <item>
       <title>New website launched for Fludes Carpets</title>
-      <link>//localhost:1313/thinks/new-website-launched-fludes-carpets/</link>
+      <link>/thinks/new-website-launched-fludes-carpets/</link>
       <pubDate>Wed, 04 Dec 2013 16:06:57 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/new-website-launched-fludes-carpets/</guid>
+      <guid>/thinks/new-website-launched-fludes-carpets/</guid>
       <description>We’ve recently launched a new website for one of the region’s top specialist carpet and flooring retailers that has been trading for over 80 years. Fludes Carpets offers quality but affordable flooring solutions for customers throughout the South of England.
 Fludes’ existing website had several issues; it was outdated and not in keeping with their brand values, there was a need to review the content on the site, and thought was required as to how to display everything users might want to see in the simplest way possible.</description>
     </item>
     
     <item>
       <title>Why asking us to do a creative pitch or speculative design is wrong</title>
-      <link>//localhost:1313/thinks/asking-us-creative-pitch-speculative-design-wrong/</link>
+      <link>/thinks/asking-us-creative-pitch-speculative-design-wrong/</link>
       <pubDate>Tue, 26 Nov 2013 17:40:29 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/asking-us-creative-pitch-speculative-design-wrong/</guid>
+      <guid>/thinks/asking-us-creative-pitch-speculative-design-wrong/</guid>
       <description>Increasingly we&amp;rsquo;re being invited by prospective clients to &amp;ldquo;pitch&amp;rdquo; for their project. This isn&amp;rsquo;t the same as providing a quote or tendering for a job; this is where we&amp;rsquo;re being asked to create designs based on a written brief, to present to the client in the hope they&amp;rsquo;ll choose us. This old-skool practice is usually known as a &amp;ldquo;creative pitch&amp;rdquo; or &amp;ldquo;speculative design&amp;rdquo; and we think it&amp;rsquo;s wrong. Here we explain why.</description>
     </item>
     
     <item>
       <title>Website launch checklist</title>
-      <link>//localhost:1313/thinks/website-launch-checklist/</link>
+      <link>/thinks/website-launch-checklist/</link>
       <pubDate>Tue, 29 Oct 2013 12:22:39 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/website-launch-checklist/</guid>
+      <guid>/thinks/website-launch-checklist/</guid>
       <description>The prospect of making a new website live can be a bit of a daunting task, especially if you’re replacing your current site. Keeping downtime to a minimum is of paramount importance and a smooth transition between the old and new website is crucial. However, if you’ve done your homework and prepared for the go-live process with a website launch checklist, there’s nothing to be worried about. Here are our top tips:</description>
     </item>
     
     <item>
       <title>Blogging for business - why, when and how you should do it</title>
-      <link>//localhost:1313/thinks/blogging-why-when-and-how-you-should-do-it/</link>
+      <link>/thinks/blogging-why-when-and-how-you-should-do-it/</link>
       <pubDate>Thu, 17 Oct 2013 14:27:05 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/blogging-why-when-and-how-you-should-do-it/</guid>
+      <guid>/thinks/blogging-why-when-and-how-you-should-do-it/</guid>
       <description>I get asked about blogs and blogging all the time by prospects and clients. There appears to still be a wrongly-held perception about what they&amp;rsquo;re for and how you can best use them to help your business, so I thought I’d write this piece to answer some of those questions.
 Why should I write a blog? People are unlikely to be interested in what you had for breakfast or what your cat did at the weekend, but used properly a blog can help your business in a number of ways;</description>
     </item>
     
     <item>
       <title>Why WordPress is the right solution for you</title>
-      <link>//localhost:1313/thinks/wordpress-right-solution/</link>
+      <link>/thinks/wordpress-right-solution/</link>
       <pubDate>Thu, 19 Sep 2013 11:39:00 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/wordpress-right-solution/</guid>
+      <guid>/thinks/wordpress-right-solution/</guid>
       <description>When it comes to choosing a content management platform for your website, there are a good number to choose from. And it’s an important decision; the choice dictates how well your website will work for you. Drupal, Joomla, Perch, MODX and our personal favourite, Wordpress are just a few of the possible systems you could employ to deliver a great website. But which one is right for you? We think Wordpress – here’s why:</description>
     </item>
     
     <item>
       <title>Brand design for Sussex commercial property letting agents</title>
-      <link>//localhost:1313/thinks/brand-design-for-sussex-commercial-property-letting-agents/</link>
+      <link>/thinks/brand-design-for-sussex-commercial-property-letting-agents/</link>
       <pubDate>Wed, 31 Jul 2013 15:56:16 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/brand-design-for-sussex-commercial-property-letting-agents/</guid>
+      <guid>/thinks/brand-design-for-sussex-commercial-property-letting-agents/</guid>
       <description>Oldfield Smith is a new commercial letting agent based in Uckfield, established by Richard Oldfield and Bernard Smith. Richard and Bernard approached *Polis Paralela* in the spring of 2013 to ask us to develop their brand identity and website.
 Brand design brief Their brand identity needed to express Oldfield Smith&amp;rsquo;s quality of service, combining the highest professional standards with a warm, open and honest service. The image they want to portray is approachable, honest, professional, results-driven and enthusiastic.</description>
     </item>
     
     <item>
       <title>More than just a digital marketing agency</title>
-      <link>//localhost:1313/thinks/more-than-just-a-digital-marketing-agency/</link>
+      <link>/thinks/more-than-just-a-digital-marketing-agency/</link>
       <pubDate>Tue, 11 Jun 2013 16:24:28 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/more-than-just-a-digital-marketing-agency/</guid>
+      <guid>/thinks/more-than-just-a-digital-marketing-agency/</guid>
       <description>With the Polis Paralela summer party just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
 Before we merged to become Polis Paralela, both Blue Planet and Jupiter Colour were formed as website design companies, but now we&amp;rsquo;re about so much more than that. Our &amp;ldquo;vision&amp;rdquo; for Polis Paralela was to be the best brand identity design, website design and online marketing company in Sussex.</description>
     </item>
     
     <item>
       <title>How to write brilliant website content</title>
-      <link>//localhost:1313/thinks/how-to-write-brilliant-website-content/</link>
+      <link>/thinks/how-to-write-brilliant-website-content/</link>
       <pubDate>Thu, 14 Mar 2013 11:10:54 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/how-to-write-brilliant-website-content/</guid>
+      <guid>/thinks/how-to-write-brilliant-website-content/</guid>
       <description>Well-crafted website content is the key to increasing web traffic and more importantly, getting enquiries and making sales.
 In this article we look at 6 top tips for creating brilliant website content.
 1. Content is king Everyone loves fresh content – search engines and customers alike. If you do one thing on your website, it&amp;rsquo;s well worth spending your time regularly creating new, interesting content for your website, which is why blogs are so popular.</description>
@@ -800,10 +800,10 @@ In this article we look at 6 top tips for creating brilliant website content.
     
     <item>
       <title>Top Tips for keeping on top of fresh website content</title>
-      <link>//localhost:1313/thinks/top-tips-for-keeping-on-top-of-fresh-website-content/</link>
+      <link>/thinks/top-tips-for-keeping-on-top-of-fresh-website-content/</link>
       <pubDate>Wed, 06 Mar 2013 10:00:36 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/top-tips-for-keeping-on-top-of-fresh-website-content/</guid>
+      <guid>/thinks/top-tips-for-keeping-on-top-of-fresh-website-content/</guid>
       <description>Updating your website is important but we know what it&amp;rsquo;s like when you&amp;rsquo;re busy running a business - so how can you keep on top of it?
 Why it&amp;rsquo;s important There are two main reasons for adding new content to your website on a regular basis.
 1. It increases search engine traffic Each page of your website can be indexed by Google and each one could potentially be returned as a result against a search.</description>
@@ -811,20 +811,20 @@ Why it&amp;rsquo;s important There are two main reasons for adding new content t
     
     <item>
       <title>When is the best time to send your marketing emails?</title>
-      <link>//localhost:1313/thinks/the-best-times-to-send-your-marketing-emails/</link>
+      <link>/thinks/the-best-times-to-send-your-marketing-emails/</link>
       <pubDate>Fri, 08 Feb 2013 10:32:30 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/the-best-times-to-send-your-marketing-emails/</guid>
+      <guid>/thinks/the-best-times-to-send-your-marketing-emails/</guid>
       <description>Mid-morning to coincide with coffee break? Lunchtime? At the end of the afternoon when people are starting to think about going home? When IS the best time to send your marketing emails?
 Research has been carried out by a leading email marketing company into what is the best time of day to send out your beautifully crafted HTML emails. The results might surprise you; for example, B2B marketers frequently preferring to open their mails after office hours and consumers choosing first thing in the morning to check theirs.</description>
     </item>
     
     <item>
       <title>Website design for Sussex animal charity (revisited)</title>
-      <link>//localhost:1313/thinks/new-website-design-sussex-animal-charit/</link>
+      <link>/thinks/new-website-design-sussex-animal-charit/</link>
       <pubDate>Tue, 05 Feb 2013 10:15:04 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/new-website-design-sussex-animal-charit/</guid>
+      <guid>/thinks/new-website-design-sussex-animal-charit/</guid>
       <description>Today we revisit the launch of the new Raystede animal welfare charity website.
 Back in 2011, we were commissioned to undertake a complete website design and development for Raystede, a Sussex-based animal welfare charity. In June of that year the website design was signed off, and here we revisit that key stage of the project, which was completed later that year.
 The final design The final design for the website was approved with only one or two tweaks required by the client.</description>
@@ -832,20 +832,20 @@ The final design The final design for the website was approved with only one or 
     
     <item>
       <title>Website design dos and don&#39;ts</title>
-      <link>//localhost:1313/thinks/website-design-dos-and-donts/</link>
+      <link>/thinks/website-design-dos-and-donts/</link>
       <pubDate>Mon, 28 Jan 2013 10:03:32 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/website-design-dos-and-donts/</guid>
+      <guid>/thinks/website-design-dos-and-donts/</guid>
       <description>Time for a rant. Here are some of the things that really gets our goat about website design. Make sure you don&amp;rsquo;t fall into these traps&amp;hellip;
 We&amp;rsquo;re often asked to take a look at websites and give our views on what could be improved. Whilst we don&amp;rsquo;t like to put other web designers down (it&amp;rsquo;s really not our style), there are some examples of really bad design that really wind us up.</description>
     </item>
     
     <item>
       <title>How to plan a website</title>
-      <link>//localhost:1313/thinks/planning-a-website-the-8-most-important-questions/</link>
+      <link>/thinks/planning-a-website-the-8-most-important-questions/</link>
       <pubDate>Thu, 17 Jan 2013 10:55:44 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/planning-a-website-the-8-most-important-questions/</guid>
+      <guid>/thinks/planning-a-website-the-8-most-important-questions/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve all heard the cliches about planning - &amp;ldquo;If you don&amp;rsquo;t know where you want to go, how do you know which route to take?&amp;ldquo;or maybe &amp;ldquo;Failing to plan is planning to fail&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;When you&amp;rsquo;re thinking about your new website, these well-worn quotes are worth paying attention to.  If you don&amp;rsquo;t take the time to think about what your website is for and what you are trying to achieve, there&amp;rsquo;s a really good chance of messing it up.&lt;/p&gt;</description>

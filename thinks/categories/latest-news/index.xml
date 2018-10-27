@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News on Polis Paralela</title>
-    <link>//localhost:1313/thinks/categories/latest-news/</link>
+    <link>/thinks/categories/latest-news/</link>
     <description>Recent content in Latest News on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 08 Jun 2018 16:10:50 +0100</lastBuildDate>
     
-	<atom:link href="//localhost:1313/thinks/categories/latest-news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/thinks/categories/latest-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How rebranding my business scared the shit out of me</title>
-      <link>//localhost:1313/thinks/how-rebranding-my-business-scared-the-shit-out-of-me/</link>
+      <link>/thinks/how-rebranding-my-business-scared-the-shit-out-of-me/</link>
       <pubDate>Fri, 08 Jun 2018 16:10:50 +0100</pubDate>
       
-      <guid>//localhost:1313/thinks/how-rebranding-my-business-scared-the-shit-out-of-me/</guid>
+      <guid>/thinks/how-rebranding-my-business-scared-the-shit-out-of-me/</guid>
       <description>There are times in your business life when certain things stay the same for a long time.
 You tread the path you’ve chosen, working in a way that’s familiar and well-honed, and you feel comfortable.
 Then there are times when massive changes happen.
@@ -26,10 +26,10 @@ The Rut In January 2018, Polis Paralela was five years old. The business had alw
     
     <item>
       <title>Meet our new designer - Liam Cornford</title>
-      <link>//localhost:1313/thinks/meet-our-new-designer-liam-cornford/</link>
+      <link>/thinks/meet-our-new-designer-liam-cornford/</link>
       <pubDate>Wed, 16 May 2018 15:22:57 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/meet-our-new-designer-liam-cornford/</guid>
+      <guid>/thinks/meet-our-new-designer-liam-cornford/</guid>
       <description>We&amp;rsquo;re delighted to unveil the latest addition to the Polis Paralela team.
 Please meet our new Designer, Liam Cornford.
 Liam joined us on 30th April having previously worked at TinyBox in nearby Uckfield where he worked as an Artworker, Designer and Photographer.
@@ -38,10 +38,10 @@ He brings with him over 8 years&amp;rsquo; design and creative experience and ha
     
     <item>
       <title>101 fun facts about Christmas to impress your friends</title>
-      <link>//localhost:1313/thinks/30-fun-facts-about-christmas-to-impress-your-friends/</link>
+      <link>/thinks/30-fun-facts-about-christmas-to-impress-your-friends/</link>
       <pubDate>Mon, 11 Dec 2017 09:00:30 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/30-fun-facts-about-christmas-to-impress-your-friends/</guid>
+      <guid>/thinks/30-fun-facts-about-christmas-to-impress-your-friends/</guid>
       <description>Is it that time of year again already??!
 As the 2017 festive season draws ever closer, we&amp;rsquo;d like to wish all our clients, suppliers and friends a very
  Merry Christmas and Happy New Year!
@@ -50,10 +50,10 @@ As the 2017 festive season draws ever closer, we&amp;rsquo;d like to wish all ou
     
     <item>
       <title>From Yorkshire to the Sussex– the long way round</title>
-      <link>//localhost:1313/thinks/yorkshire-sussex-long-way-round/</link>
+      <link>/thinks/yorkshire-sussex-long-way-round/</link>
       <pubDate>Fri, 05 May 2017 16:08:54 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/yorkshire-sussex-long-way-round/</guid>
+      <guid>/thinks/yorkshire-sussex-long-way-round/</guid>
       <description>Hi there, I’m Steve. I’m from Yorkshire and I started working at Polis Paralela in August 2016 as a Junior Web Developer.
 Somewhat shamefully this is my first post for the Polis Paralela blog, though this has been percolating for some time now so hopefully you’ll find it worth the wait&amp;hellip;
 As a means of introducing myself I thought I’d tell the story of my journey from Huddersfield, where I completed my Masters in Interactive Multimedia in 2004, to sitting in Polis Paralela HQ over a decade later.</description>
@@ -61,10 +61,10 @@ As a means of introducing myself I thought I’d tell the story of my journey fr
     
     <item>
       <title>What Polis Paralela thinks about Christmas</title>
-      <link>//localhost:1313/thinks/tomango-thinks-christmas/</link>
+      <link>/thinks/tomango-thinks-christmas/</link>
       <pubDate>Tue, 20 Dec 2016 09:58:34 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/tomango-thinks-christmas/</guid>
+      <guid>/thinks/tomango-thinks-christmas/</guid>
       <description>Jingle jingle merrily on the manger, Santa Claus is coming to Bethlehem and the three wise snowmen are riding a sleigh pulled by Rudolph the red nosed Jesus! Merry Christmas!!!
 Everyone has a different take on Christmas - I asked the Polis Paralela team what their bests and worsts were about the festive season. Find out their answers below&amp;hellip;
 Favourite Christmas Song? The Polis Paralela Spotify playlist&amp;rsquo;s been filled with Christmas cheer since the 1st (including the Christmas Macarena - who knew?</description>
@@ -72,10 +72,10 @@ Favourite Christmas Song? The Polis Paralela Spotify playlist&amp;rsquo;s been f
     
     <item>
       <title>Project Revisited: Hailsham Town Council</title>
-      <link>//localhost:1313/thinks/project-revisited-hailsham-town-council/</link>
+      <link>/thinks/project-revisited-hailsham-town-council/</link>
       <pubDate>Wed, 12 Oct 2016 14:08:41 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/project-revisited-hailsham-town-council/</guid>
+      <guid>/thinks/project-revisited-hailsham-town-council/</guid>
       <description>In June 2015, Polis Paralela finished a project to design and develop the new website for Hailsham Town Council.
 Our brief was to design and develop a new website for the council to give residents easy access to council services and information about the town.
 The client wanted a website that was accessible to all, and embraced the very essence of good design; something that didn’t just look good, but was easy and intuitive to use, regardless of the device being used or any impairments the user might have.</description>
@@ -83,10 +83,10 @@ The client wanted a website that was accessible to all, and embraced the very es
     
     <item>
       <title>CIM Marketing Diploma...complete!</title>
-      <link>//localhost:1313/thinks/cim-marketing-diploma-complete/</link>
+      <link>/thinks/cim-marketing-diploma-complete/</link>
       <pubDate>Mon, 26 Sep 2016 16:08:19 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/cim-marketing-diploma-complete/</guid>
+      <guid>/thinks/cim-marketing-diploma-complete/</guid>
       <description>There&amp;rsquo;s a reason why a few of my blog posts for Polis Paralela have been rather theory-based bits and pieces regarding marketing&amp;hellip; (and you can view some of them in the &amp;lsquo;related posts&amp;rsquo; at the bottom)
 &amp;hellip;and the reason is that, for the last 14 months or so, I&amp;rsquo;ve been studying towards a Diploma in Professional Marketing from the Chartered Institute of Marketing (CIM).
 The course - that I took with the help and facilitation of the Oxford College of Marketing - involved me heading to three hour long evening classes in Brighton for a number of Tuesdays after work.</description>
@@ -94,10 +94,10 @@ The course - that I took with the help and facilitation of the Oxford College of
     
     <item>
       <title>Say hello to the newest member of the Polis Paralela team - Steve Honeyman</title>
-      <link>//localhost:1313/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</link>
+      <link>/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</link>
       <pubDate>Wed, 31 Aug 2016 10:48:25 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</guid>
+      <guid>/thinks/say-hello-to-the-newest-member-tomango-team-steve-honeyman/</guid>
       <description>Polis Paralela has added to its growing team&amp;hellip;
 Please meet our new Junior Web Developer, Steve Honeyman.
 Steve joined us on 15th August and comes from the University of Leeds, where he&amp;rsquo;d worked as a WordPress Developer for the last couple of years.
@@ -106,10 +106,10 @@ He&amp;rsquo;s got a real passion for web development, and brings with him valua
     
     <item>
       <title>Nikki in training for 14 mile sponsored walk in memory of her Mum</title>
-      <link>//localhost:1313/thinks/nikki-training-14-mile-sponsored-walk-memory-mum/</link>
+      <link>/thinks/nikki-training-14-mile-sponsored-walk-memory-mum/</link>
       <pubDate>Tue, 30 Aug 2016 09:37:48 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/nikki-training-14-mile-sponsored-walk-memory-mum/</guid>
+      <guid>/thinks/nikki-training-14-mile-sponsored-walk-memory-mum/</guid>
       <description>On 10th September, our Head of Finance Nikki Carrick will be walking 14 miles across London in memory of her Mum Cathy, and to raise money for the Stroke Assocation.
 Nikki and her sister Fran will be taking part in the Thames Bridges Trek, joining around 1,000 others in walking across the capital, taking in 16 of its finest bridges in the process.
 Setting out from Putney Bridge, they head east towards the city, zig-zagging over an array of historic bridges - including Westminster, Waterloo and the Millenium Bridge - finishing 23km later in Southwark after crossing Tower Bridge.</description>
@@ -117,20 +117,20 @@ Setting out from Putney Bridge, they head east towards the city, zig-zagging ove
     
     <item>
       <title>Introducing our new Digital Marketing Executive: Tom Ruzyllo</title>
-      <link>//localhost:1313/thinks/introducing-our-new-digital-marketing-executive-tom-ruzyllo/</link>
+      <link>/thinks/introducing-our-new-digital-marketing-executive-tom-ruzyllo/</link>
       <pubDate>Fri, 08 Apr 2016 13:05:52 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/introducing-our-new-digital-marketing-executive-tom-ruzyllo/</guid>
+      <guid>/thinks/introducing-our-new-digital-marketing-executive-tom-ruzyllo/</guid>
       <description>We have had a fresh addition to the Polis Paralela team this week – allow me to introduce our newest (and tallest) team member…Tom Ruzyllo!
 Tom joins us as our new Digital Marketing Executive, and will be looking after clients’ SEO campaigns, Google Analytics reporting and analysis, and PPC and social media management. He’s also briefed with giving our own online marketing strategy a re-jig, so watch this space!</description>
     </item>
     
     <item>
       <title>How dealing with changes helped us adopt a better approach to project delivery</title>
-      <link>//localhost:1313/thinks/how-dealing-with-changes-helped-us-adopt-better-approach-to-project-delivery/</link>
+      <link>/thinks/how-dealing-with-changes-helped-us-adopt-better-approach-to-project-delivery/</link>
       <pubDate>Fri, 26 Feb 2016 10:34:50 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/how-dealing-with-changes-helped-us-adopt-better-approach-to-project-delivery/</guid>
+      <guid>/thinks/how-dealing-with-changes-helped-us-adopt-better-approach-to-project-delivery/</guid>
       <description>In all businesses, every so often you need to be prepared to make significant changes to the way you do things.
 And sometimes these changes come about quicker than you planned, but still work out for the best.
 This was how it worked out at Polis Paralela when we decided to look again at how we can improve the way we deliver projects for our clients.
@@ -139,10 +139,10 @@ We recognised that as a creative agency we&amp;rsquo;ve moved on in terms of the
     
     <item>
       <title>An interview with...Trys Mudford, Lead Developer at Polis Paralela</title>
-      <link>//localhost:1313/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</link>
+      <link>/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</link>
       <pubDate>Fri, 25 Sep 2015 15:28:20 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</guid>
+      <guid>/thinks/an-interview-with-trys-mudford-lead-developer-at-tomango/</guid>
       <description>I&amp;rsquo;m here with Trys Mudford, Lead Developer at Polis Paralela, to find out a bit more about this unassuming young gun who&amp;rsquo;s taking the responsive scene to whole new levels.
 As Trys sits down, I begin by asking him about some current projects&amp;hellip;
 Hi Trys. Thanks for taking the time out from your busy schedule to talk. What have you been working on this week?
@@ -151,19 +151,19 @@ Hi Trys. Thanks for taking the time out from your busy schedule to talk. What ha
     
     <item>
       <title>Brand identity design for Brighton gourmet food retailer comes to life</title>
-      <link>//localhost:1313/thinks/brand-identity-design-brighton-gourmet-food-retailer-comes-life/</link>
+      <link>/thinks/brand-identity-design-brighton-gourmet-food-retailer-comes-life/</link>
       <pubDate>Mon, 10 Nov 2014 16:13:06 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/brand-identity-design-brighton-gourmet-food-retailer-comes-life/</guid>
+      <guid>/thinks/brand-identity-design-brighton-gourmet-food-retailer-comes-life/</guid>
       <description>There&amp;rsquo;s little in my professional life that gives me greater satisfaction than seeing a brand identity that we&amp;rsquo;ve created come to life. Seeing Polis Paralela&amp;rsquo;s work in print or on the high street gives me a lovely little warm glow inside. Last week I was fortunate enough to see our client&amp;rsquo;s brand hard at work in a newly opened gourmet food deli in Brighton; the new home of Sage &amp;amp; Relish.</description>
     </item>
     
     <item>
       <title>What we&#39;ve been up to this month - Oct &#39;14</title>
-      <link>//localhost:1313/thinks/weve-month-oct-14/</link>
+      <link>/thinks/weve-month-oct-14/</link>
       <pubDate>Fri, 31 Oct 2014 16:43:55 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/weve-month-oct-14/</guid>
+      <guid>/thinks/weve-month-oct-14/</guid>
       <description>So it&amp;rsquo;s goodbye lazy summer evenings and hello to driving home in the dark. But there&amp;rsquo;s no need to panic, Christmas will be here before you know it&amp;hellip;
 Here&amp;rsquo;s what we&amp;rsquo;ve been up to during October.
 Mike At the beginning of the month Mike worked closely with our good friends at Agon Systems to prepare for their appearance at the Retail Fraud Show, which took place at the beginning of the month.</description>
@@ -171,10 +171,10 @@ Mike At the beginning of the month Mike worked closely with our good friends at 
     
     <item>
       <title>New website launched for NS Weddings &amp; Events</title>
-      <link>//localhost:1313/thinks/new-website-launched-ns-weddings-events/</link>
+      <link>/thinks/new-website-launched-ns-weddings-events/</link>
       <pubDate>Thu, 23 Oct 2014 16:15:35 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/new-website-launched-ns-weddings-events/</guid>
+      <guid>/thinks/new-website-launched-ns-weddings-events/</guid>
       <description>We&amp;rsquo;re delighted to announce the long-awaited launch of a new website for NS Weddings &amp;amp; Events, wedding and events planners in Hampshire.
 Founder Naomi Sautter and her team work closely with their clients to transform their ideas into an event that guests will talk about for years.
 In addition to a First Class Honours degree in Business Management from the University of Winchester, Naomi Sautter has a Diploma in Wedding Planning from the Blackford Centre for Professional Wedding Planners.</description>
@@ -182,10 +182,10 @@ In addition to a First Class Honours degree in Business Management from the Univ
     
     <item>
       <title>What we’ve been up to this month – Sep ’14</title>
-      <link>//localhost:1313/thinks/weve-month-sep-14/</link>
+      <link>/thinks/weve-month-sep-14/</link>
       <pubDate>Mon, 29 Sep 2014 11:20:30 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/weve-month-sep-14/</guid>
+      <guid>/thinks/weve-month-sep-14/</guid>
       <description>So the summer holidays are over, and with our tanlines fading fast, we return to the office rested and recharged and ready to launch into Autumn&amp;hellip;
 Here&amp;rsquo;s what we&amp;rsquo;ve been up to during September.
 Mike Early in the month Mike completed his design work for the first of the Pump Engineering websites and has now handed the project over to the development team to build.
@@ -194,10 +194,10 @@ At the same time, he&amp;rsquo;s also been producing further marketing collatera
     
     <item>
       <title>Is email marketing still effective? £4,040 in 20 minutes says the answer is yes</title>
-      <link>//localhost:1313/thinks/email-marketing-still-effective-4040-20-minutes-says-answer-yes/</link>
+      <link>/thinks/email-marketing-still-effective-4040-20-minutes-says-answer-yes/</link>
       <pubDate>Tue, 22 Jul 2014 10:16:05 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/email-marketing-still-effective-4040-20-minutes-says-answer-yes/</guid>
+      <guid>/thinks/email-marketing-still-effective-4040-20-minutes-says-answer-yes/</guid>
       <description>Here&amp;rsquo;s some hard evidence that email marketing works and can bring you a significant return on your investment.
 A few weeks ago I spent about 20 minutes composing and sending our monthly email out to our clients. This simple bit of marketing immediately generated £4,040 of sales. Let me tell you how I did it&amp;hellip;
 Every month I write a couple of blog posts for the Polis Paralela website, usually about a particular area of our business that I think might be of interest to either our clients or prospective customers looking for a brand and web agency like ours.</description>
@@ -205,10 +205,10 @@ Every month I write a couple of blog posts for the Polis Paralela website, usual
     
     <item>
       <title>Regulations for selling online - important update</title>
-      <link>//localhost:1313/thinks/regulations-for-selling-online-important-update/</link>
+      <link>/thinks/regulations-for-selling-online-important-update/</link>
       <pubDate>Mon, 14 Jul 2014 16:30:35 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/regulations-for-selling-online-important-update/</guid>
+      <guid>/thinks/regulations-for-selling-online-important-update/</guid>
       <description>An important change has been made to the regulations for selling online.
 From 13 June 2014 the Consumer Contracts Regulations came into effect.
 The regulations apply to items bought online, at a distance, or away from a trader&amp;rsquo;s premises (for example, at home or at work). As a result, if you sell online via an ecommerce website, you will be affected by these regulations.
@@ -217,59 +217,59 @@ They replace the Distance Selling Regulations (as well as the Doorstep Selling R
     
     <item>
       <title>New website launched for Fludes Carpets</title>
-      <link>//localhost:1313/thinks/new-website-launched-fludes-carpets/</link>
+      <link>/thinks/new-website-launched-fludes-carpets/</link>
       <pubDate>Wed, 04 Dec 2013 16:06:57 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/new-website-launched-fludes-carpets/</guid>
+      <guid>/thinks/new-website-launched-fludes-carpets/</guid>
       <description>We’ve recently launched a new website for one of the region’s top specialist carpet and flooring retailers that has been trading for over 80 years. Fludes Carpets offers quality but affordable flooring solutions for customers throughout the South of England.
 Fludes’ existing website had several issues; it was outdated and not in keeping with their brand values, there was a need to review the content on the site, and thought was required as to how to display everything users might want to see in the simplest way possible.</description>
     </item>
     
     <item>
       <title>Why asking us to do a creative pitch or speculative design is wrong</title>
-      <link>//localhost:1313/thinks/asking-us-creative-pitch-speculative-design-wrong/</link>
+      <link>/thinks/asking-us-creative-pitch-speculative-design-wrong/</link>
       <pubDate>Tue, 26 Nov 2013 17:40:29 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/asking-us-creative-pitch-speculative-design-wrong/</guid>
+      <guid>/thinks/asking-us-creative-pitch-speculative-design-wrong/</guid>
       <description>Increasingly we&amp;rsquo;re being invited by prospective clients to &amp;ldquo;pitch&amp;rdquo; for their project. This isn&amp;rsquo;t the same as providing a quote or tendering for a job; this is where we&amp;rsquo;re being asked to create designs based on a written brief, to present to the client in the hope they&amp;rsquo;ll choose us. This old-skool practice is usually known as a &amp;ldquo;creative pitch&amp;rdquo; or &amp;ldquo;speculative design&amp;rdquo; and we think it&amp;rsquo;s wrong. Here we explain why.</description>
     </item>
     
     <item>
       <title>Jumping on the brandwagon - don&#39;t slag off a new brand when you don&#39;t know the brief</title>
-      <link>//localhost:1313/thinks/jumping-brandwagon-important-understand-brief-new-brand/</link>
+      <link>/thinks/jumping-brandwagon-important-understand-brief-new-brand/</link>
       <pubDate>Thu, 03 Oct 2013 18:15:39 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/jumping-brandwagon-important-understand-brief-new-brand/</guid>
+      <guid>/thinks/jumping-brandwagon-important-understand-brief-new-brand/</guid>
       <description>This week, following a swift u-turn after a fans&amp;rsquo; backlash, Everton Football Club launched its NEW new brand identity. This is the latest example in the last few months of a high profile company re-brand that has drawn criticism from both the design community and the brand&amp;rsquo;s own customers.
 But it&amp;rsquo;s not right to just dismiss a new brand without knowing the brief. How can you judge the success of a rebrand if you don&amp;rsquo;t know what it&amp;rsquo;s trying to achieve?</description>
     </item>
     
     <item>
       <title>Branding and rebranding - how to roll out a new brand identity</title>
-      <link>//localhost:1313/thinks/branding-and-rebranding-how-to-roll-out-a-new-brand-identity/</link>
+      <link>/thinks/branding-and-rebranding-how-to-roll-out-a-new-brand-identity/</link>
       <pubDate>Fri, 21 Jun 2013 10:07:40 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/branding-and-rebranding-how-to-roll-out-a-new-brand-identity/</guid>
+      <guid>/thinks/branding-and-rebranding-how-to-roll-out-a-new-brand-identity/</guid>
       <description>Our summer party is the latest step in the process of rebranding as Polis Paralela. Since we decided to create a new company from the merger of our two previous businesses, we&amp;rsquo;ve had to carefully plan how to tell everyone about Polis Paralela without alienating our existing customers.
 How to roll out a new brand identity In case you missed it, we have already blogged about how we created our new brand identity before we started trading in January 2013.</description>
     </item>
     
     <item>
       <title>More than just a digital marketing agency</title>
-      <link>//localhost:1313/thinks/more-than-just-a-digital-marketing-agency/</link>
+      <link>/thinks/more-than-just-a-digital-marketing-agency/</link>
       <pubDate>Tue, 11 Jun 2013 16:24:28 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/more-than-just-a-digital-marketing-agency/</guid>
+      <guid>/thinks/more-than-just-a-digital-marketing-agency/</guid>
       <description>With the Polis Paralela summer party just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
 Before we merged to become Polis Paralela, both Blue Planet and Jupiter Colour were formed as website design companies, but now we&amp;rsquo;re about so much more than that. Our &amp;ldquo;vision&amp;rdquo; for Polis Paralela was to be the best brand identity design, website design and online marketing company in Sussex.</description>
     </item>
     
     <item>
       <title>Website design for Sussex animal charity (revisited)</title>
-      <link>//localhost:1313/thinks/new-website-design-sussex-animal-charit/</link>
+      <link>/thinks/new-website-design-sussex-animal-charit/</link>
       <pubDate>Tue, 05 Feb 2013 10:15:04 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/new-website-design-sussex-animal-charit/</guid>
+      <guid>/thinks/new-website-design-sussex-animal-charit/</guid>
       <description>Today we revisit the launch of the new Raystede animal welfare charity website.
 Back in 2011, we were commissioned to undertake a complete website design and development for Raystede, a Sussex-based animal welfare charity. In June of that year the website design was signed off, and here we revisit that key stage of the project, which was completed later that year.
 The final design The final design for the website was approved with only one or two tweaks required by the client.</description>
@@ -277,10 +277,10 @@ The final design The final design for the website was approved with only one or 
     
     <item>
       <title>Polis Paralela&#39;s new brand identity</title>
-      <link>//localhost:1313/thinks/tomangos-new-brand-identity/</link>
+      <link>/thinks/tomangos-new-brand-identity/</link>
       <pubDate>Tue, 11 Dec 2012 17:02:46 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/tomangos-new-brand-identity/</guid>
+      <guid>/thinks/tomangos-new-brand-identity/</guid>
       <description>Following on from the announcement of the arrival of Polis Paralela in our previous blog post, we are now able to reveal the new brand identity for the company.
 In this post, we wanted to take the opportunity to not only show you the final brand identity design, but also to describe in detail the process we followed to achieve the end result. This is the same process that we follow for our clients, so we thought it might be interesting for you to see behind the scenes of how a new brand identity is developed.</description>
     </item>

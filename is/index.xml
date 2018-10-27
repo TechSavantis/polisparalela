@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About us on Polis Paralela</title>
-    <link>//localhost:1313/is/</link>
+    <link>/is/</link>
     <description>Recent content in About us on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="//localhost:1313/is/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/is/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mark Vaesen</title>
-      <link>//localhost:1313/is/mark-vaesen/</link>
+      <link>/is/mark-vaesen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/is/mark-vaesen/</guid>
+      <guid>/is/mark-vaesen/</guid>
       <description>Mark is Polis Paralela&amp;rsquo;s Founder and Managing Director.
 His main roles are business development, client strategy, planning of web projects and to steer the good ship Polis Paralela in a clear direction.
 What’s your perfect breakfast? Bacon and egg sandwich with plenty of ketchup.
@@ -25,10 +25,10 @@ Favourite film, TV programme, book? Film: The Day of the Jackal, or The Odd Coup
     
     <item>
       <title>Mike Vine</title>
-      <link>//localhost:1313/is/mike-vine/</link>
+      <link>/is/mike-vine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/is/mike-vine/</guid>
+      <guid>/is/mike-vine/</guid>
       <description>Mike is our Creative Director and is responsible for leading all Polis Paralela’s creative output – both online and offline.
 His vast experience working in the industry leaves him well-placed to produce incredibly effective work of the highest quality.
 What’s your perfect breakfast? Coffee &amp;amp; croissants.
@@ -38,10 +38,10 @@ Favourite film, TV programme, book? Film: Fight Club, TV Series: The Sopranos, B
     
     <item>
       <title>Tom Ruzyllo</title>
-      <link>//localhost:1313/is/tom-ruzyllo/</link>
+      <link>/is/tom-ruzyllo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/is/tom-ruzyllo/</guid>
+      <guid>/is/tom-ruzyllo/</guid>
       <description>Tom is Polis Paralela’s Digital Marketing Manager and joined in April 2016.
 He&amp;rsquo;s responsible for all Polis Paralela&amp;rsquo;s digital marketing output, and takes lead on all things SEO, PPC, social media and email marketing. Tom is an NCTJ-qualifed journalist and has previous experience in consumer public relations. He also holds a CIM Diploma in Professional Marketing.
 What’s your perfect breakfast? During the week – nothing (banana at a push). Weekend – Full English, black pudding included, no tomato.</description>
@@ -49,10 +49,10 @@ What’s your perfect breakfast? During the week – nothing (banana at a push).
     
     <item>
       <title>Liam Cornford</title>
-      <link>//localhost:1313/is/liam-cornford/</link>
+      <link>/is/liam-cornford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/is/liam-cornford/</guid>
+      <guid>/is/liam-cornford/</guid>
       <description>Liam is our Designer and joined Polis Paralela in April 2018.
 He works alongside our Creative Director Mike on both web and print campaigns for our clients. With experience in print, website design and photography, he&amp;rsquo;s a strong multi-discipline designer and natural strategist.
 What’s your perfect breakfast? Smashed avocado, two poached eggs, maple syrup bacon (thick cut) on sourdough toast.
@@ -62,10 +62,10 @@ Favourite film, TV programme, book?</description>
     
     <item>
       <title>Nikki Carrick</title>
-      <link>//localhost:1313/is/nikki-carrick/</link>
+      <link>/is/nikki-carrick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/is/nikki-carrick/</guid>
+      <guid>/is/nikki-carrick/</guid>
       <description>Nikki is our Head of Finance and is in charge of invoicing, credit control, dealing with suppliers, and all things financial.
 She works remotely and part-time, in between looking after her family and running her own small business.
 What’s your perfect breakfast? Almond croissant and coffee.

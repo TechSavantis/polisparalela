@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strategy on Polis Paralela</title>
-    <link>//localhost:1313/thinks/categories/strategy/</link>
+    <link>/thinks/categories/strategy/</link>
     <description>Recent content in Strategy on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 11 Jan 2018 14:50:59 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/thinks/categories/strategy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/thinks/categories/strategy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What happens when you self-diagnose</title>
-      <link>//localhost:1313/thinks/happens-self-diagnose/</link>
+      <link>/thinks/happens-self-diagnose/</link>
       <pubDate>Thu, 11 Jan 2018 14:50:59 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/happens-self-diagnose/</guid>
+      <guid>/thinks/happens-self-diagnose/</guid>
       <description>Here&amp;rsquo;s a couple of great stories about stupidity.
 The first story concerns a friend who&amp;rsquo;s a GP.
 One day a few years ago, a middle-aged woman turned up at her surgery feeling lousy. She had no energy, bad headaches and her limbs were aching.
@@ -26,10 +26,10 @@ Of course, my doctor friend insisted on a proper consultation and suspected the 
     
     <item>
       <title>Deciding on your positioning: vertical vs. horizontal</title>
-      <link>//localhost:1313/thinks/deciding-positioning-vertical-vs-horizontal/</link>
+      <link>/thinks/deciding-positioning-vertical-vs-horizontal/</link>
       <pubDate>Fri, 10 Nov 2017 16:44:35 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/deciding-positioning-vertical-vs-horizontal/</guid>
+      <guid>/thinks/deciding-positioning-vertical-vs-horizontal/</guid>
       <description>When clients come to us for help with their brand identity, they&amp;rsquo;ve often already done lots of thinking about what the brief should be.
 This is certainly valuable, and an important step in the process, but before you think about your brand brief, there&amp;rsquo;s something even more important you need to figure out.
 You need to know what your positioning is.

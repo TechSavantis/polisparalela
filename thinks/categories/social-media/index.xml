@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media on Polis Paralela</title>
-    <link>//localhost:1313/thinks/categories/social-media/</link>
+    <link>/thinks/categories/social-media/</link>
     <description>Recent content in Social Media on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 19 Sep 2018 15:30:10 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/thinks/categories/social-media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/thinks/categories/social-media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Helping Cade Street Nursery to Grow</title>
-      <link>//localhost:1313/thinks/helping-cade-street-nursery-to-grow/</link>
+      <link>/thinks/helping-cade-street-nursery-to-grow/</link>
       <pubDate>Wed, 19 Sep 2018 15:30:10 +0000</pubDate>
       
-      <guid>//localhost:1313/thinks/helping-cade-street-nursery-to-grow/</guid>
+      <guid>/thinks/helping-cade-street-nursery-to-grow/</guid>
       <description>What we did • Digital Marketing
 • Social Media
 • Paid Social

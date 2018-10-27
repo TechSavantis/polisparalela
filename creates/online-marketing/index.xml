@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Marketing on Polis Paralela</title>
-    <link>//localhost:1313/creates/online-marketing/</link>
+    <link>/creates/online-marketing/</link>
     <description>Recent content in Digital Marketing on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="//localhost:1313/creates/online-marketing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/creates/online-marketing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SEO</title>
-      <link>//localhost:1313/creates/online-marketing/seo/</link>
+      <link>/creates/online-marketing/seo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/creates/online-marketing/seo/</guid>
+      <guid>/creates/online-marketing/seo/</guid>
       <description>Organic SEO remains one of the key pillars of digital marketing. Our expertise will help your business get found by the right people.
 Our tailor-made campaigns will get your website higher up the rankings for the search terms your target customers use.
 We don’t try and cheat the system; we understand what Google wants and play by the rules. We won’t jeopardise your long-term online profile by using underhand tactics.</description>
@@ -23,10 +23,10 @@ We don’t try and cheat the system; we understand what Google wants and play by
     
     <item>
       <title>Social Media</title>
-      <link>//localhost:1313/creates/online-marketing/social-media/</link>
+      <link>/creates/online-marketing/social-media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/creates/online-marketing/social-media/</guid>
+      <guid>/creates/online-marketing/social-media/</guid>
       <description>Now a vital part of any digital marketing strategy, having a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
 The clue&amp;rsquo;s in the name - social media shouldn&amp;rsquo;t be used for repetitive messages aimed at driving sales, but for engaging with your audience and delivering content they&amp;rsquo;re interested in seeing.
 Social media auditing and setup We’ll assess your current social media presence, look at your competitors, and advise you on the best social media networks to reach your ideal audience.</description>
@@ -34,10 +34,10 @@ Social media auditing and setup We’ll assess your current social media presenc
     
     <item>
       <title>Google Adwords &amp; PPC</title>
-      <link>//localhost:1313/creates/online-marketing/google-adwords-ppc/</link>
+      <link>/creates/online-marketing/google-adwords-ppc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/creates/online-marketing/google-adwords-ppc/</guid>
+      <guid>/creates/online-marketing/google-adwords-ppc/</guid>
       <description>Using paid digital marketing channels can be a great way to get quick results - but set it up wrong and you can waste a lot of money.
 We&amp;rsquo;ve planned and implemented campaigns for a number of businesses in different sectors, and always get the best results for your budget.
 Google Adwords Did you know that over 50 per cent of Google Search users can’t differentiate between Paid and Organic search listings?</description>

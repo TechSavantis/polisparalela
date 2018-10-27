@@ -6,7 +6,7 @@
     
     
     
-    <base href="//localhost:1313">
+    <base href="/">
     <link rel="preload" href="webfonts/34C79D_0_0.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="webfonts/34C79D_1_0.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="css/main.css"/>
@@ -27,23 +27,23 @@
     <title>Do I need a new website? | Polis Paralela | Web Design Sussex</title>
     <meta name="description" content="The clear signs to look out for that tell you it&#39;s time to get a new website." />
 
-    <link rel="canonical" href="//localhost:1313/thinks/do-i-need-a-new-website/" />
+    <link rel="canonical" href="//thinks/do-i-need-a-new-website/" />
     <meta property="og:site_name" content="Polis Paralela" />
     <meta property="og:locale" content="en_GB" />
     <meta property="article:publisher" content="https://www.facebook.com/polisparalelaUK" />
     <meta name="twitter:site" content="@polisparalelaUK" />
     <meta name="twitter:creator" content="@polisparalelaUK" />
 
-    <meta property="og:url" content="//localhost:1313/thinks/do-i-need-a-new-website/" />
+    <meta property="og:url" content="//thinks/do-i-need-a-new-website/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Do I need a new website? | Polis Paralela | Web Design Sussex" />
     <meta property="og:description" content="The clear signs to look out for that tell you it&#39;s time to get a new website." />
-    <meta property="og:image" content="//localhost:1313/images/og.jpg" />
+    <meta property="og:image" content="//images/og.jpg" />
     <meta property="og:image:alt" content="Polis Paralela" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Do I need a new website? | Polis Paralela | Web Design Sussex" />
     <meta name="twitter:description" content="The clear signs to look out for that tell you it&#39;s time to get a new website." />
-    <meta name="twitter:image" content="//localhost:1313/images/og.jpg" />
+    <meta name="twitter:image" content="//images/og.jpg" />
     
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2015-12-11 16:16:01 &#43;0000 UTC" />
@@ -61,7 +61,7 @@
   
     
     <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.polisparalela.co.uk\/","name":"Polis Paralela"}</script>
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//localhost:1313/images/og.jpg"}</script>
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//images/og.jpg"}</script>
 
     <style>
       @font-face {
@@ -308,10 +308,10 @@
 			"@type": "NewsArticle",
 			"mainEntityOfPage": {
 				"@type": "WebPage",
-				"@id": "//localhost:1313/thinks/do-i-need-a-new-website/"
+				"@id": "//thinks/do-i-need-a-new-website/"
 			},
 			"articleSection": "Tips and advice",
-			"url": "//localhost:1313/thinks/do-i-need-a-new-website/",
+			"url": "//thinks/do-i-need-a-new-website/",
 			"author": {
 				"@type": "Person",
 				"name": "Mark Vaesen"
@@ -321,10 +321,10 @@
 				"@type": "Organization",
 				"logo": {
 					"@type": "ImageObject",
-					"url": "//localhost:1313/images/og.jpg"
+					"url": "//images/og.jpg"
 				}
 			},
-			"image": "//localhost:1313/images/og.jpg"
+			"image": "//images/og.jpg"
 		}
 	</script>
 
@@ -419,5 +419,18 @@
       }
     </script>
     
-  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+      <script>
+        if (navigator.serviceWorker) {
+            navigator.serviceWorker.register('/sw.js', {
+                scope: '/'
+            });
+            window.addEventListener('load', function() {
+                if (navigator.serviceWorker.controller) {
+                    navigator.serviceWorker.controller.postMessage({'command': 'trimCaches'});
+                }
+            });
+        }
+      </script>
+    
+  </body>
 </html>

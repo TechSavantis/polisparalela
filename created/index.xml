@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our work on Polis Paralela</title>
-    <link>//localhost:1313/created/</link>
+    <link>/created/</link>
     <description>Recent content in Our work on Polis Paralela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="//localhost:1313/created/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/created/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ECE Architecture</title>
-      <link>//localhost:1313/created/ece/</link>
+      <link>/created/ece/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/created/ece/</guid>
+      <guid>/created/ece/</guid>
       <description>In the spring of 2015, award-winning architects ECE Architecture asked us to help them grow their business by attracting the best young talent available to join their team.
 It was clear they needed an online presence that not only delivered more of the clients they wanted to work with, but also focused on the careers, culture and social side of life at ECE.
 Since launching the site later that year, ECE has grown from 50 people to over 70, and is working on some of the most exciting projects in its history.</description>
@@ -23,10 +23,10 @@ Since launching the site later that year, ECE has grown from 50 people to over 7
     
     <item>
       <title>The Concept Tag</title>
-      <link>//localhost:1313/created/concept-tag/</link>
+      <link>/created/concept-tag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/created/concept-tag/</guid>
+      <guid>/created/concept-tag/</guid>
       <description>For years, retailers have been fighting an ongoing battle with shoplifters who are determined to nick their stock. The Concept Tag is a new type of retail security tag that’s set to revolutionise the industry.
 Our client Agon Systems asked us to design printed literature and a website to raise the profile of this new product and generate new enquiries from national retailers.
 “The return on investment on this website has been phenomenal.</description>
@@ -34,30 +34,30 @@ Our client Agon Systems asked us to design printed literature and a website to r
     
     <item>
       <title>HOP</title>
-      <link>//localhost:1313/created/hop/</link>
+      <link>/created/hop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/created/hop/</guid>
+      <guid>/created/hop/</guid>
       <description>HOP came to us having seen the work we did for ECE Architecture. Their website no longer reflected their position in the marketplace and they asked us to redesign the site to put them back on top and ahead of their competitors.
 “Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win.” &amp;mdash; Adam Humphrey, Director, HOP  Using the exceptional photography available – particularly of their projects – we created a contemporary, highly visual site that strengthens their brand and gives them the edge over their competitors in winning more of the projects they want.</description>
     </item>
     
     <item>
       <title>Agon Systems</title>
-      <link>//localhost:1313/created/agon-systems/</link>
+      <link>/created/agon-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/created/agon-systems/</guid>
+      <guid>/created/agon-systems/</guid>
       <description>In 2014, Agon Systems’ CEO Sean Welch came to us to help him grow his business into a global player in the EAS industry. Our work in developing a brand and marketing strategy helped the company increase its turnover by almost 200% in three years.
 “Investing in our brand has helped us triple our turnover in three years to £5 million.” &amp;mdash; Sean Welch, CEO, Agon Systems  We created a new brand identity and commissioned photography to use in the design of business stationery, printed marketing collateral and a fully responsive website, before implementing a comprehensive digital marketing campaign.</description>
     </item>
     
     <item>
       <title>Fludes Carpets</title>
-      <link>//localhost:1313/created/fludes-carpets/</link>
+      <link>/created/fludes-carpets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/created/fludes-carpets/</guid>
+      <guid>/created/fludes-carpets/</guid>
       <description>Fludes Carpets asked us to increase their sales of Karndean flooring. We put in place a new content strategy over six months that immediately led to a significant jump in sales.
 “Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities.” &amp;mdash; Andy Laird, Managing Director, Fludes Carpets  Based on the brief, we proposed creating a more robust and informative Karndean section of the website.</description>
     </item>

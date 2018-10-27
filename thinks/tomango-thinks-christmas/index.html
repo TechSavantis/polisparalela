@@ -6,7 +6,7 @@
     
     
     
-    <base href="//localhost:1313">
+    <base href="/">
     <link rel="preload" href="webfonts/34C79D_0_0.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="webfonts/34C79D_1_0.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="css/main.css"/>
@@ -27,23 +27,23 @@
     <title>What Polis Paralela thinks about Christmas | Polis Paralela | Web Design Sussex</title>
     <meta name="description" content="Which Polis Paralela employee starts Christmas in June? What exactly is candied peel? Who&#39;s the best at Monopoly? Answers to some of these questions are right here!" />
 
-    <link rel="canonical" href="//localhost:1313/thinks/tomango-thinks-christmas/" />
+    <link rel="canonical" href="//thinks/tomango-thinks-christmas/" />
     <meta property="og:site_name" content="Polis Paralela" />
     <meta property="og:locale" content="en_GB" />
     <meta property="article:publisher" content="https://www.facebook.com/polisparalelaUK" />
     <meta name="twitter:site" content="@polisparalelaUK" />
     <meta name="twitter:creator" content="@polisparalelaUK" />
 
-    <meta property="og:url" content="//localhost:1313/thinks/tomango-thinks-christmas/" />
+    <meta property="og:url" content="//thinks/tomango-thinks-christmas/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="What Polis Paralela thinks about Christmas | Polis Paralela | Web Design Sussex" />
     <meta property="og:description" content="Which Polis Paralela employee starts Christmas in June? What exactly is candied peel? Who&#39;s the best at Monopoly? Answers to some of these questions are right here!" />
-    <meta property="og:image" content="//localhost:1313/images/og.jpg" />
+    <meta property="og:image" content="//images/og.jpg" />
     <meta property="og:image:alt" content="Polis Paralela" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="What Polis Paralela thinks about Christmas | Polis Paralela | Web Design Sussex" />
     <meta name="twitter:description" content="Which Polis Paralela employee starts Christmas in June? What exactly is candied peel? Who&#39;s the best at Monopoly? Answers to some of these questions are right here!" />
-    <meta name="twitter:image" content="//localhost:1313/images/og.jpg" />
+    <meta name="twitter:image" content="//images/og.jpg" />
     
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2016-12-20 09:58:34 &#43;0000 UTC" />
@@ -61,7 +61,7 @@
   
     
     <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.polisparalela.co.uk\/","name":"Polis Paralela"}</script>
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//localhost:1313/images/og.jpg"}</script>
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.polisparalela.co.uk\/","sameAs":["https:\/\/www.facebook.com\/polisparalelaUK","https:\/\/www.instagram.com\/polisparalelaUK\/","https:\/\/www.linkedin.com\/company\/polisparalela","https:\/\/twitter.com\/polisparalelaUK"],"@id":"#organization","name":"Polis Paralela","logo":"//images/og.jpg"}</script>
 
     <style>
       @font-face {
@@ -334,10 +334,10 @@ Nikki: &ldquo;That no-one&rsquo;s ill at Christmas&hellip;&rdquo;</p>
 			"@type": "NewsArticle",
 			"mainEntityOfPage": {
 				"@type": "WebPage",
-				"@id": "//localhost:1313/thinks/tomango-thinks-christmas/"
+				"@id": "//thinks/tomango-thinks-christmas/"
 			},
 			"articleSection": "Latest news",
-			"url": "//localhost:1313/thinks/tomango-thinks-christmas/",
+			"url": "//thinks/tomango-thinks-christmas/",
 			"author": {
 				"@type": "Person",
 				"name": "Tom Ruzyllo"
@@ -347,10 +347,10 @@ Nikki: &ldquo;That no-one&rsquo;s ill at Christmas&hellip;&rdquo;</p>
 				"@type": "Organization",
 				"logo": {
 					"@type": "ImageObject",
-					"url": "//localhost:1313/images/og.jpg"
+					"url": "//images/og.jpg"
 				}
 			},
-			"image": "//localhost:1313/images/og.jpg"
+			"image": "//images/og.jpg"
 		}
 	</script>
 
@@ -461,5 +461,18 @@ Nikki: &ldquo;That no-one&rsquo;s ill at Christmas&hellip;&rdquo;</p>
       }
     </script>
     
-  <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+      <script>
+        if (navigator.serviceWorker) {
+            navigator.serviceWorker.register('/sw.js', {
+                scope: '/'
+            });
+            window.addEventListener('load', function() {
+                if (navigator.serviceWorker.controller) {
+                    navigator.serviceWorker.controller.postMessage({'command': 'trimCaches'});
+                }
+            });
+        }
+      </script>
+    
+  </body>
 </html>

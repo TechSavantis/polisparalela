@@ -54,6 +54,6 @@ In my next installment, I will discuss how to develop a responsive website, best
 
 ## In conclusion
 
-We’re passionate about the future of the web here at *Tomango*. Responsive design is not just for the future, it’s for now. Taking your website into the mobile realm makes your company accessible to all.
+We’re passionate about the future of the web here at *Polis Paralela*. Responsive design is not just for the future, it’s for now. Taking your website into the mobile realm makes your company accessible to all.
 
 

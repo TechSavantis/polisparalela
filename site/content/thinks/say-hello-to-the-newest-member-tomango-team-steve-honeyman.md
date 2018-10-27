@@ -1,14 +1,14 @@
 ---
-title: "Say hello to the newest member of the Tomango team - Steve Honeyman"
+title: "Say hello to the newest member of the Polis Paralela team - Steve Honeyman"
 author: "mark"
 date: 2016-08-31 10:48:25
-description: Tomango has added to its growing team... Please meet our new Junior Web Developer, Steve Honeyman.
+description: Polis Paralela has added to its growing team... Please meet our new Junior Web Developer, Steve Honeyman.
 thinks/categories: 
  - latest-news
  - web-design
 ---
 
-Tomango has added to its growing team...
+Polis Paralela has added to its growing team...
 
 Please meet our new Junior Web Developer, Steve Honeyman.
 
@@ -24,7 +24,7 @@ He's got a real passion for [web development](/creates/web/development/), and br
 
 After Steve's first week, I asked him a few quickfire questions to help you get to know him a bit better;
 
-## Welcome to Tomango Steve; how was your first week?
+## Welcome to Polis Paralela Steve; how was your first week?
 
 Really good - I loved it!
 
@@ -34,7 +34,7 @@ Everyone’s been fantastic. I’m really happy with - and excited by - my role 
 
 ## What did you do in your previous job?
 
-Before joining Tomango I managed and built websites for Leeds University and worked as a freelance web-designer and developer.
+Before joining Polis Paralela I managed and built websites for Leeds University and worked as a freelance web-designer and developer.
 
 Before that I worked as a researcher for the NHS providing research that was used to commission healthcare in extremely deprived areas in and around West Yorkshire.
 

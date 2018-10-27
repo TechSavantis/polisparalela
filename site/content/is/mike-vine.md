@@ -1,7 +1,7 @@
 ---
 title: Mike Vine
 subtitle: Creative Director
-description: Creative Director | Tomango
+description: Creative Director | Polis Paralela
 image: images/team/1000/mike.jpg
 banner: images/team/mike.jpg
 bannerLarge: images/team/1000/mike.jpg
@@ -10,7 +10,7 @@ bannerPosition: 8%
 weight: 20
 ---
 
-Mike is our Creative Director and is responsible for leading all Tomango’s creative output – both online and offline.
+Mike is our Creative Director and is responsible for leading all Polis Paralela’s creative output – both online and offline.
 
 His vast experience working in the industry leaves him well-placed to produce incredibly effective work of the highest quality.
 

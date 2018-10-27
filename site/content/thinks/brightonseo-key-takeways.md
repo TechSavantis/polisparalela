@@ -39,7 +39,7 @@ __(This isn't a million miles away from the idea of being a 'T-shaped marketer' 
 
 ## Stephan Spencer - 'How to Hire an Insanely Great SEO'
 
-We've been taking on some good new clients in the last 12 months at Tomango, and it's got us thinking about planning for the potential future expansion among our ranks.
+We've been taking on some good new clients in the last 12 months at Polis Paralela, and it's got us thinking about planning for the potential future expansion among our ranks.
 
 Because of this, I made sure to attend the track that I don't believe I had seen before, called 'Business'. The first of three talks in this was courtesy of Stephan Spencer, who shared some very useful tips on how to approach the hiring process for a new SEO person (although much of the advice is applicable to hiring in any industry).
 

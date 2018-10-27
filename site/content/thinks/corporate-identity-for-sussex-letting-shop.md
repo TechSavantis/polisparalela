@@ -15,7 +15,7 @@ In October 2012, we received an email from Wendy at Geneva Investment Group aski
 
 We arranged to meet and during our discussions it soon became apparent that they also needed our help in establishing a corporate identity or [brand](/creates/brand/).  It was apparent that they needed to be able to present a more traditional high street estate agent image that could then be rolled out across their online marketing and website.
 
-> "Having approached Tomango for web site design we realised from our first meeting that they were very capable of offering an extremely broad and full spectrum of services which we have taken full advantage of including branding, stationery design, web hosting, PDF document designs for downloads and the launching of our first web site."
+> "Having approached Polis Paralela for web site design we realised from our first meeting that they were very capable of offering an extremely broad and full spectrum of services which we have taken full advantage of including branding, stationery design, web hosting, PDF document designs for downloads and the launching of our first web site."
 
 A lot of Geneva's tenants are - how can we put it nicely - operating at the lower end of the property ladder, and the name for the new brand needed to suit its target market.  Geneva settled on the name Sussex Letting Shop and we started to create a corporate identity for them.
 
@@ -69,7 +69,7 @@ The client is delighted with the end result and is really pleased with how it ha
 
 > "As novices with regards to web site concept and operation we are now fully trained and conversant with all the tools we need to take our business forward and compete with others in the same market.
 
-The team at Tomango has been a pleasure to work with and we have all learnt so much. We would have no hesitation in recommending their services.".
+The team at Polis Paralela has been a pleasure to work with and we have all learnt so much. We would have no hesitation in recommending their services.".
 
 
 

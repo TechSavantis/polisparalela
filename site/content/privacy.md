@@ -4,15 +4,15 @@ title: Privacy and Cookie Policy
 
 ## Introduction
 
-Tomango respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) as well as where we interact in the course of our business and tell you about your privacy rights and how the law protects you.
+Polis Paralela respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) as well as where we interact in the course of our business and tell you about your privacy rights and how the law protects you.
 
-You can [download a PDF version of the policy here](/images/tomango-privacy-policy-and-cookies-policy-may-2018.pdf).
+You can [download a PDF version of the policy here](/images/polisparalela-privacy-policy-and-cookies-policy-may-2018.pdf).
 
 ## 1. Important information and who we are
 
 ### Purpose of this privacy notice
 
-This privacy notice aims to give you information on how Tomango collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our newsletter, free marketing advice or social media top tips or downloadable content, utilise our ‘contact us’ form or take part in a competition. This privacy notice also provides information as to how Tomango collects and processes your personal data during the course of our business, including any data you may provide at exhibitions, networking events and by telephone, email or post.
+This privacy notice aims to give you information on how Polis Paralela collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our newsletter, free marketing advice or social media top tips or downloadable content, utilise our ‘contact us’ form or take part in a competition. This privacy notice also provides information as to how Polis Paralela collects and processes your personal data during the course of our business, including any data you may provide at exhibitions, networking events and by telephone, email or post.
 
 This website is not intended for children and we do not knowingly collect data relating to children.
 
@@ -20,16 +20,16 @@ It is important that you read this privacy notice together with any other privac
 
 ### Controller
 
-Tomango is the controller and responsible for your personal data (collectively referred to as "Tomango", "we", "us" or "our" in this privacy notice).
+Polis Paralela is the controller and responsible for your personal data (collectively referred to as "Polis Paralela", "we", "us" or "our" in this privacy notice).
 We have appointed a data privacy manager who is responsible for overseeing questions in relations to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise _your legal rights_, please contact the data privacy manager using the details set out below.
 
 ### Contact details
 
 Our full details are:
 
-Full name of legal entity: Tomango Limited  
+Full name of legal entity: Polis Paralela Limited  
 Name of Data Privacy Manager: Mark Vaesen, Managing Director  
-Email address: mark@tomango.co.uk  
+Email address: mark@polisparalela.co.uk  
 Postal address: 3 Meadow Business Centre, Old Uckfield Road, Ringmer, East Sussex, BN8 5RW  
 Telephone number: 01273 814019
 
@@ -274,7 +274,7 @@ You will receive marketing communications from us where you have opted to do so 
 
 ### Third-party marketing
 
-We will get your express opt-in consent before we share your personal data with any company outside Tomango for marketing purposes.
+We will get your express opt-in consent before we share your personal data with any company outside Polis Paralela for marketing purposes.
 
 ### Opting out
 

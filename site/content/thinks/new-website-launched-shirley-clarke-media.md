@@ -2,7 +2,7 @@
 title: "New website launched for Shirley Clarke Media"
 author: "mark"
 date: 2016-08-02 09:20:16
-description: Read about the process Tomango took to build a new website for Shirley Clarke, a leading expert in the practical application of formative assessment.
+description: Read about the process Polis Paralela took to build a new website for Shirley Clarke, a leading expert in the practical application of formative assessment.
 banner: images/blog/shirley-clarke-banner.jpg
 bannerLarge: images/blog/shirley-clarke-banner.jpg
 thinks/categories: 
@@ -49,7 +49,7 @@ Creative Director [Mike Vine](/is/mike-vine/) used two key tools to create conce
 
 {{< quote
 	body="I use Sketch and InVision together for rapid prototyping."
-	citation="Mike Vine, Creative Director at Tomango"
+	citation="Mike Vine, Creative Director at Polis Paralela"
 >}}
 
 "As with most projects, I used [Sketch](https://www.sketchapp.com) for my initial designs, before importing them into [InVision](https://www.invisionapp.com). I use these two tools together for rapid prototyping, so I can present designs the client can quickly get their heads round.
@@ -106,9 +106,9 @@ Very positive! From concept to completion, the team was creative, efficient, eas
 
 Before we started, the bit we we were most concerned about was that the technology would actually work. We'd never developed an online video streaming platform before and knew very little about how it would all function for the user subscribers and for ourselves with the behind-the-scenes admin tools.
 
-*How did you feel about the process Tomango took?*
+*How did you feel about the process Polis Paralela took?*
 
-Having worked with Tomango before on less ambitious projects, we had a great comfort level that they had the expertise to take us and our ideas through a thorough process of first determining what would be a quality end result and working towards that in a logical way.
+Having worked with Polis Paralela before on less ambitious projects, we had a great comfort level that they had the expertise to take us and our ideas through a thorough process of first determining what would be a quality end result and working towards that in a logical way.
 
 *Which bit of the project did you find the hardest?*
 

@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-gb"
 languageLang = "en"
-title = "Tomango"
+title = "Polis Paralela"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true

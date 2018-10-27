@@ -22,7 +22,7 @@ Do you want the website to increase sales or to reduce costs?  Decide how the w
 
 ## 2. Do you need to attract new leads from search engines?
 
-At Tomango, we get the majority of our work through personal recommendation.  Our conversion rate for enquiries from our website is much lower than from a referral, so we concentrate on where we get the best results - and so should you.  You might decide that you don't need to rely on search engine results, which could save you a few bob.
+At Polis Paralela, we get the majority of our work through personal recommendation.  Our conversion rate for enquiries from our website is much lower than from a referral, so we concentrate on where we get the best results - and so should you.  You might decide that you don't need to rely on search engine results, which could save you a few bob.
 
 ## 3. Who is the website aimed at?
 
@@ -50,8 +50,8 @@ Yes, the best websites are the ones that are regularly updated and yes, fresh co
 
 Use this guide before you start talking to web design companies and you'll be in a much stronger position to talk to them about what __you__ need.
 
-## How *Tomango* can help you
+## How *Polis Paralela* can help you
 
-*Tomango* builds beautiful, hard-working websites.  If you would like to to talk to us about planning your next website, call us on 01273 814019 or email [hello@tomango.co.uk](mailto:hello@tomango.co.uk).
+*Polis Paralela* builds beautiful, hard-working websites.  If you would like to to talk to us about planning your next website, call us on 01273 814019 or email [hello@polisparalela.com](mailto:hello@polisparalela.com).
 
 

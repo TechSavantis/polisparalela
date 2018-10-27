@@ -2,19 +2,19 @@
 title: "From Yorkshire to the Sussex– the long way round"
 author: "steve"
 date: 2017-05-05 16:08:54
-description: Hi there, I’m Steve. I’m from Yorkshire and I started working at Tomango in August 2016 as a Junior Web Developer. This is my story.
+description: Hi there, I’m Steve. I’m from Yorkshire and I started working at Polis Paralela in August 2016 as a Junior Web Developer. This is my story.
 thinks/categories: 
  - latest-news
  - web-design
 ---
 
-Hi there, I’m Steve. I’m from Yorkshire and I started working at Tomango in August 2016 as a Junior Web Developer.
+Hi there, I’m Steve. I’m from Yorkshire and I started working at Polis Paralela in August 2016 as a Junior Web Developer.
 
 ![](images/blog/steve.jpg)
 
-Somewhat shamefully this is my first post for the Tomango blog, though this has been percolating for some time now so hopefully you’ll find it worth the wait...
+Somewhat shamefully this is my first post for the Polis Paralela blog, though this has been percolating for some time now so hopefully you’ll find it worth the wait...
 
-As a means of introducing myself I thought I’d tell the story of my journey from Huddersfield, where I completed my Masters in Interactive Multimedia in 2004, to sitting in Tomango HQ over a decade later.
+As a means of introducing myself I thought I’d tell the story of my journey from Huddersfield, where I completed my Masters in Interactive Multimedia in 2004, to sitting in Polis Paralela HQ over a decade later.
 
 It’s a great tale (though I would say that wouldn’t I?) - a ripping yarn that sees me hitch to America, climb some rocks, climb some more rocks, live in a van in Europe, climb even more rocks then finally realise a long-held dream of working in the web industry close to the best city in England.
 
@@ -98,7 +98,7 @@ Compelled to make this next chapter of my life happen and knowing that embracing
 
 As I fired up my Mac this morning and saw Apples's desktop image of the Sierra Nevada (the backdrop to my life and adventures in Bishop) I couldn't help but think back to that serendipitous day in Yorkshire in 2005 that inspired that first hitch to Bishop and went on to take me to Utah, Nevada, Texas, Switzerland, France, Spain and Brighton had finally brought me to the South Coast.
 
-Here at Tomango a long journey finally feels over or that a particular chapter of my life has closed and a new one opened. I feel incredibly lucky to have landed the job I have, do the work I do and work with the people I do, especially having climbed a few rocks in the process.
+Here at Polis Paralela a long journey finally feels over or that a particular chapter of my life has closed and a new one opened. I feel incredibly lucky to have landed the job I have, do the work I do and work with the people I do, especially having climbed a few rocks in the process.
 
 So that's me, or rather my journey from Yorkshire to Sussex. It was always the plan to arrive here at some point - even if I have to pinch myself at times and remind myself I've pulled it off and that my slightly leftfield methodology method paid off.
 

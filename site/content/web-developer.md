@@ -8,15 +8,15 @@ description: "We're looking for a talented experienced web developer to become a
 **Salary:** £27,000 - £37,000  
 **Hours:** Full time
 
-## About Tomango
+## About Polis Paralela
 
-Tomango creates beautiful brands and industry-leading websites for ambitious businesses across the UK. Based in a converted farm building in a rural location about five minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
+Polis Paralela creates beautiful brands and industry-leading websites for ambitious businesses across the UK. Based in a converted farm building in a rural location about five minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
 
 This is an exciting opportunity to join a growing company and help lead our development team.
 
 ## About the role
 
-This role has great potential and is ideal for an experienced but ambitious web developer looking to play a pivotal role in the development of the business. You’ll be working closely with key clients and other lead personnel in the company and will be expected to take a leading role in Tomango’s digital output.
+This role has great potential and is ideal for an experienced but ambitious web developer looking to play a pivotal role in the development of the business. You’ll be working closely with key clients and other lead personnel in the company and will be expected to take a leading role in Polis Paralela’s digital output.
 
 Working alongside the Creative Director and Managing Director, you will be responsible for building and managing websites, delivering projects on time, on budget and to a high standard. You will also provide technical resource for trouble-shooting and front-line customer support.
 
@@ -72,4 +72,4 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## How to apply
 
-Email your CV to [jobs@tomango.co.uk](mailto:jobs@tomango.co.uk?subject=Application for Web Developer).
+Email your CV to [jobs@polisparalela.co.uk](mailto:jobs@polisparalela.co.uk?subject=Application for Web Developer).

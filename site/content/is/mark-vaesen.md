@@ -1,7 +1,7 @@
 ---
 title: Mark Vaesen
 subtitle: Founder & Managing Director
-description: Founder & Managing Director | Tomango
+description: Founder & Managing Director | Polis Paralela
 image: images/team/1000/mark.jpg
 banner: images/team/mark.jpg
 bannerLarge: images/team/1000/mark.jpg
@@ -10,9 +10,9 @@ bannerPosition: 8%
 weight: 10
 ---
 
-Mark is Tomango's Founder and Managing Director.
+Mark is Polis Paralela's Founder and Managing Director.
 
-His main roles are business development, client strategy, planning of web projects and to steer the good ship Tomango in a clear direction.
+His main roles are business development, client strategy, planning of web projects and to steer the good ship Polis Paralela in a clear direction.
 
 ## What’s your perfect breakfast?
 Bacon and egg sandwich with plenty of ketchup.

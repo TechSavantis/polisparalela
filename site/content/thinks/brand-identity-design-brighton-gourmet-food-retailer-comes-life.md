@@ -2,13 +2,13 @@
 title: "Brand identity design for Brighton gourmet food retailer comes to life"
 author: "mark"
 date: 2014-11-10 16:13:06
-description: See how the new brand identity Tomango created for Sage & Relish came to life when we visited their new shop in Brighton
+description: See how the new brand identity Polis Paralela created for Sage & Relish came to life when we visited their new shop in Brighton
 thinks/categories: 
  - brand
  - latest-news
 ---
 
-There's little in my professional life that gives me greater satisfaction than seeing a [brand identity](/creates/brand/) that we've created come to life. Seeing Tomango's work in print or on the high street gives me a lovely little warm glow inside. Last week I was fortunate enough to see our client's brand hard at work in a newly opened gourmet food deli in Brighton; the new home of Sage &amp; Relish.
+There's little in my professional life that gives me greater satisfaction than seeing a [brand identity](/creates/brand/) that we've created come to life. Seeing Polis Paralela's work in print or on the high street gives me a lovely little warm glow inside. Last week I was fortunate enough to see our client's brand hard at work in a newly opened gourmet food deli in Brighton; the new home of Sage &amp; Relish.
 
 ## What is Sage &amp; Relish?
 
@@ -34,7 +34,7 @@ Under the guidance of our Creative Director [Mike Vine](/is/mike-vine/), we crea
 
 ## Taster evening
 
-Since we completed the brand in March 2014, Stefanos and Angeliki have been busy pulling together the hundred and one things that need doing before opening a high street shop in the 21st century. There were lots of things that took longer than anticipated, and many late and sleepless nights as the couple battled away to get the shop open. The Tomango team couldn't wait to see how it would look...
+Since we completed the brand in March 2014, Stefanos and Angeliki have been busy pulling together the hundred and one things that need doing before opening a high street shop in the 21st century. There were lots of things that took longer than anticipated, and many late and sleepless nights as the couple battled away to get the shop open. The Polis Paralela team couldn't wait to see how it would look...
 
 And so it came to the summer and we received the long-awaited news that the shop was finally open. A few months later, we were invited by Stefanos and Angeliki to come to the second of their taster evenings, where they were giving customers the chance to taste a selection of their new products and learn about where they were produced and how to use them to create delicious dishes.
 

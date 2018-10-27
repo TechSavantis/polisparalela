@@ -2,12 +2,12 @@
 title: "CIM Marketing Diploma...complete!"
 author: "tom"
 date: 2016-09-26 16:08:19
-description: There's a reason why a few of my blog posts for Tomango have been rather theory-based bits and pieces regarding marketing...
+description: There's a reason why a few of my blog posts for Polis Paralela have been rather theory-based bits and pieces regarding marketing...
 thinks/categories: 
  - latest-news
 ---
 
-There's a reason why a few of my blog posts for Tomango have been rather theory-based bits and pieces regarding marketing... (and you can view some of them in the 'related posts' at the bottom)
+There's a reason why a few of my blog posts for Polis Paralela have been rather theory-based bits and pieces regarding marketing... (and you can view some of them in the 'related posts' at the bottom)
 
 ...and the reason is that, for the last 14 months or so, I've been studying towards a [Diploma in Professional Marketing](http://www.cim.co.uk/qualifications/diploma-in-professional-marketing/) from the Chartered Institute of Marketing (CIM).
 
@@ -26,7 +26,7 @@ The diploma is made up of three modules:
 
 The process for the first two modules involved writing lengthy assignments based on an organisation of your choice, and both came in at around the 8,000 word mark.
 
-For someone that didn't actually have to do a written dissertation for their degree ([I had a go at making TV news packages instead](https://www.youtube.com/watch?v=LlO3Twvl9es)) it was a bit of a slog, and involved a couple of weekends coming into Tomango HQ so I could get it all done in time.
+For someone that didn't actually have to do a written dissertation for their degree ([I had a go at making TV news packages instead](https://www.youtube.com/watch?v=LlO3Twvl9es)) it was a bit of a slog, and involved a couple of weekends coming into Polis Paralela HQ so I could get it all done in time.
 
 And the third module - the Strategic Marketing one - culminated in a *three hour long exam*. A handwritten exam. On the hottest day of the year. In a room where the bloody windows wouldn't open. Absolute nightmare!
 

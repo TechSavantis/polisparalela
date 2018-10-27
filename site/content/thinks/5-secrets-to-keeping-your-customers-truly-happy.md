@@ -3,7 +3,7 @@ title: "The 5 secrets to keeping your customers truly happy"
 author: "mark"
 date: 2014-12-01 15:22:40
 description: Discover how the secrets of Happy Money can keep your customers and your employees truly happy.
-seo_description: Discover how the secrets of Happy Money can keep your customers and your employees truly happy. Tomango 01273 814019.
+seo_description: Discover how the secrets of Happy Money can keep your customers and your employees truly happy. Polis Paralela 01273 814019.
 thinks/categories: 
  - brand
  - digital-marketing
@@ -159,7 +159,7 @@ Show your customers lots of lovely pictures of your product (especially if you'r
 
 > Build anticipation with your customers
 
-If your product is "fleeting" and only lasts a short time, delay actually draws out the pleasure beyond the experience itself. You can also make unavoidable delays more enjoyable by building anticipation. One example of this we recently experienced at Tomango was in implementing a suitable "loading" message whilst a website performed an unavoidably time-consuming task.
+If your product is "fleeting" and only lasts a short time, delay actually draws out the pleasure beyond the experience itself. You can also make unavoidable delays more enjoyable by building anticipation. One example of this we recently experienced at Polis Paralela was in implementing a suitable "loading" message whilst a website performed an unavoidably time-consuming task.
 
 One extreme idea worth trying is the idea of "Pay now" bundling - where you remove the "pain of paying" from the future experience of the actual delivery of your product, so it becomes a delightful surprise.
 

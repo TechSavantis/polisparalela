@@ -1,7 +1,7 @@
 ---
 title: Liam Cornford
 subtitle: Designer
-description: Designer | Tomango
+description: Designer | Polis Paralela
 image: images/team/1000/liam.jpg
 banner: images/team/liam.jpg
 bannerLarge: images/team/1000/liam.jpg
@@ -10,7 +10,7 @@ bannerPosition: 8%
 weight: 45
 ---
 
-Liam is our Designer and joined Tomango in April 2018.
+Liam is our Designer and joined Polis Paralela in April 2018.
 
 He works alongside our Creative Director Mike on both web and print campaigns for our clients. With experience in print, website design and photography, he's a strong multi-discipline designer and natural strategist.
 

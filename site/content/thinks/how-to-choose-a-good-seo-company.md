@@ -137,6 +137,6 @@ Make sure you ask them:
 
 ## How we can help
 
-The Tomango team's been developing and delivering online marketing strategies for businesses and organisations for the last 15 years. If you'd like to have a chat with us about what we can do for you, or what to look out for when talking to other suppliers, feel free to call us on 01273 814019 or email [hello@tomango.co.uk](mailto:hello@tomango.co.uk).
+The Polis Paralela team's been developing and delivering online marketing strategies for businesses and organisations for the last 15 years. If you'd like to have a chat with us about what we can do for you, or what to look out for when talking to other suppliers, feel free to call us on 01273 814019 or email [hello@polisparalela.com](mailto:hello@polisparalela.com).
 
 

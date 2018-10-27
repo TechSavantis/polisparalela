@@ -74,6 +74,6 @@ If someone is guaranteeing a position on Google for you, there’s a very good c
 
 What you really want is an SEO campaign tailored for your business.
 
-If this sounds like what you'd like, why not [get in touch with Tomango](/contact/) to discuss your business needs.
+If this sounds like what you'd like, why not [get in touch with Polis Paralela](/contact/) to discuss your business needs.
 
 

@@ -1,8 +1,8 @@
 ---
-title: "What Tomango thinks about Christmas"
+title: "What Polis Paralela thinks about Christmas"
 author: "tom"
 date: 2016-12-20 09:58:34
-description: Which Tomango employee starts Christmas in June? What exactly is candied peel? Who's the best at Monopoly? Answers to some of these questions are right here!
+description: Which Polis Paralela employee starts Christmas in June? What exactly is candied peel? Who's the best at Monopoly? Answers to some of these questions are right here!
 banner: images/blog/shutterstock_539456221.jpg
 bannerLarge: images/blog/shutterstock_539456221.jpg
 thinks/categories: 
@@ -11,11 +11,11 @@ thinks/categories:
 
 Jingle jingle merrily on the manger, Santa Claus is coming to Bethlehem and the three wise snowmen are riding a sleigh pulled by Rudolph the red nosed Jesus! Merry Christmas!!!
 
-Everyone has a different take on Christmas - I asked the Tomango team what their bests and worsts were about the festive season. Find out their answers below...
+Everyone has a different take on Christmas - I asked the Polis Paralela team what their bests and worsts were about the festive season. Find out their answers below...
 
 ## Favourite Christmas Song?
 
-The Tomango Spotify playlist's been filled with Christmas cheer since the 1st (including the Christmas Macarena - who knew?)...but what's everyone's highlight?
+The Polis Paralela Spotify playlist's been filled with Christmas cheer since the 1st (including the Christmas Macarena - who knew?)...but what's everyone's highlight?
 
 Nikki: "[Mariah Carey's 'All I Want for Christmas is You.](https://www.youtube.com/watch?v=yXQViqx6GMY)"
 
@@ -162,6 +162,6 @@ Tom: "That my undefeated Monopoly run that stretches back to 2012 remains intact
 
 ---
 
-Merry Christmas from all at Tomango!
+Merry Christmas from all at Polis Paralela!
 
 

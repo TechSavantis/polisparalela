@@ -1,7 +1,7 @@
 ---
 title: What we do
-seo_title: "What We Do | Our Approach to Strategy, Brand, Web Design & Marketing | Tomango"
-seo_description: Tomango is a brand identity, website design and digital marketing company in Sussex delivering sustained results.
+seo_title: "What We Do | Our Approach to Strategy, Brand, Web Design & Marketing | Polis Paralela"
+seo_description: Polis Paralela is a brand identity, website design and digital marketing company in Sussex delivering sustained results.
 ---
 
 **We help ambitious businesses grow by getting more of the customers they want.**

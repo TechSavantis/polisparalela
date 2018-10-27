@@ -13,7 +13,7 @@ Here's some hard evidence that email marketing works and can bring you a signifi
 
 A few weeks ago I spent about 20 minutes composing and sending our monthly email out to our clients. This simple bit of marketing immediately generated *£4,040 of sales*.  Let me tell you how I did it...
 
-Every month I write a couple of blog posts for the Tomango website, usually about a particular area of our business that I think might be of interest to either our clients or prospective customers looking for a [brand](/creates/brand/) and web agency like ours.  It's a perfect way of demonstrating our expertise and engaging our audience.
+Every month I write a couple of blog posts for the Polis Paralela website, usually about a particular area of our business that I think might be of interest to either our clients or prospective customers looking for a [brand](/creates/brand/) and web agency like ours.  It's a perfect way of demonstrating our expertise and engaging our audience.
 
 > Email marketing is extremely cost-effective and delivers outstanding ROI
 

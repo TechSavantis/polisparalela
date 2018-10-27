@@ -41,9 +41,9 @@ He realised not everyone thought orange was great, and he'd let his own preferen
 
 I felt for him, because I know from personal experience just how hard it can be to not let these things affect your judgement.
 
-Those that know me well know I have a childish, football-team-related dislike of the colour red. You can imagine how much I squirmed in my chair then, when Mike first presented his ideas for the first Tomango brand:
+Those that know me well know I have a childish, football-team-related dislike of the colour red. You can imagine how much I squirmed in my chair then, when Mike first presented his ideas for the first Polis Paralela brand:
 
-![](images/blog/brand-2017-large.png "The new Tomango brand identity. The old one used red too.")
+![](images/blog/brand-2017-large.png "The new Polis Paralela brand identity. The old one used red too.")
 
 However, in what turned out to be one of my more grown-up moments, I was able to see beyond my own petty preferences and trusted Mike that red was the right colour to use. He was right, of course. Loads of clients and contacts have commented over the years how much it suits us, and it's definitely helped us win business.
 

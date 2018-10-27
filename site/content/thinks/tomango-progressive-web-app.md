@@ -1,5 +1,5 @@
 ---
-title: "Tomango site relaunch: Building our JAMstack site"
+title: "Polis Paralela site relaunch: Building our JAMstack site"
 author: "trys"
 date: 2018-05-03 09:26:00
 description: "Our new site runs quickly, anywhere in the world, regardless of internet connectivity."
@@ -7,7 +7,7 @@ thinks/categories:
  - web-design
 ---
 
-On the 1st May 2018, we launched the latest Tomango website. To represent our change in business approach and new brand, the site was designed to be confident, clear and quick. Confidence meant stripping away the fluff, leaving only the clearest message possible.
+On the 1st May 2018, we launched the latest Polis Paralela website. To represent our change in business approach and new brand, the site was designed to be confident, clear and quick. Confidence meant stripping away the fluff, leaving only the clearest message possible.
 
 This ethos was applied to the brand, copy and site design — so it was only natural for it to extend to the development, and this focus lead to great performance.
 
@@ -127,7 +127,7 @@ From past WordPress experience, too much emphasis is put on making everything ed
 
 [NetlifyCMS](https://www.netlifycms.org/) is an open source CMS that plays nicely with Hugo. Instead of installing a monolithic framework and database, it lives as a single-page React app in the `static` directory. You create a config file outlining which content is editable and where images should be stored.
 
-Other than the config file, the only 'custom' code required was a checkbox component for categories. It's [available here](https://github.com/trys/tomango-2018/blob/master/src/js/cms/fields/checkbox.js), should you wish to peruse.
+Other than the config file, the only 'custom' code required was a checkbox component for categories. It's [available here](https://github.com/trys/polisparalela-2018/blob/master/src/js/cms/fields/checkbox.js), should you wish to peruse.
 
 ## Progressive Web App
 
@@ -170,7 +170,7 @@ In the template, it checks for the related front matter field, loops through eac
 
 ## Structured data
 
-Improving our structured data was one of the minor goals of this project. Building that into Hugo can get a little cumbersome but creating variables worked out really nicely, especially for handling Netlify's [deploy preview URLs](https://github.com/netlify/victor-hugo/pull/74). The full header code can be [seen here](https://github.com/trys/tomango-2018/blob/master/site/layouts/_default/baseof.html).
+Improving our structured data was one of the minor goals of this project. Building that into Hugo can get a little cumbersome but creating variables worked out really nicely, especially for handling Netlify's [deploy preview URLs](https://github.com/netlify/victor-hugo/pull/74). The full header code can be [seen here](https://github.com/trys/polisparalela-2018/blob/master/site/layouts/_default/baseof.html).
 
 ```go
 {{ $url := getenv (cond (eq "production" (getenv "CONTEXT")) "URL" "DEPLOY_PRIME_URL" ) | default (cond (eq "//localhost:1313/" (printf "%s" $.Site.BaseURL)) "//localhost:1313" $.Site.BaseURL) }}
@@ -203,6 +203,6 @@ It's incredible, I can't get over how much of a difference this has made to the 
 
 ## The Code
 
-Now there's no database running our website, and no FTP in sight, we can finally rely on Git. We've even made the [repository public](https://github.com/trys/tomango-2018) if you fancy a look.
+Now there's no database running our website, and no FTP in sight, we can finally rely on Git. We've even made the [repository public](https://github.com/trys/polisparalela-2018) if you fancy a look.
 
 Our intention is to keep working on the site, personally I'm keen to keep finding performance gains!

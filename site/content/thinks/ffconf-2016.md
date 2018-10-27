@@ -93,7 +93,7 @@ The slides from Léonie’s talk are available [here](http://ljwatson.github.io/
 
 ![](images/blog/TRM_0163-1024x684.jpg)
 
-[Andrew Martin](https://twitter.com/sublimino) then gave us a breakdown of the options available for our devops workflows. Although some of the items seemed more suited to larger organisations, teams and projects, there was some great advice for the sorts of projects we build at Tomango.
+[Andrew Martin](https://twitter.com/sublimino) then gave us a breakdown of the options available for our devops workflows. Although some of the items seemed more suited to larger organisations, teams and projects, there was some great advice for the sorts of projects we build at Polis Paralela.
 
 1. Release and test often. Amazon ships a change to their servers every 11.6 seconds.
 1. Try and remove human interaction from your process. Humans make mistakes.

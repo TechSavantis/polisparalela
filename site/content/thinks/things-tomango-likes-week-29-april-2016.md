@@ -1,5 +1,5 @@
 ---
-title: "Things Tomango likes this week - 29 April 2016"
+title: "Things Polis Paralela likes this week - 29 April 2016"
 author: "tom"
 date: 2016-04-29 15:37:48
 description: The best things from the past 7 days in Brand, Web, and Marketing. This week – an update to a truly iconic brand design, and Twitter goes mental for the 5th incarnation of the infamous 'Ed Balls Day'.
@@ -7,7 +7,7 @@ thinks/categories:
  - web-design
 ---
 
-After starting strongly a [fortnight ago](/thinks/things-tomango-likes-week-15-april-2016/), this supposedly weekly round-up blog had a week off last Friday as I was attending the awesome [Brighton SEO](http://www.brightonseo.com/) conference. You can read about a lot of the bits I learned on Local SEO [here](/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
+After starting strongly a [fortnight ago](/thinks/things-polisparalela-likes-week-15-april-2016/), this supposedly weekly round-up blog had a week off last Friday as I was attending the awesome [Brighton SEO](http://www.brightonseo.com/) conference. You can read about a lot of the bits I learned on Local SEO [here](/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
 
 Anyway, here's a quick blast through the week and some of the more interesting things we've noticed this week in the worlds of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/online-marketing/).
 

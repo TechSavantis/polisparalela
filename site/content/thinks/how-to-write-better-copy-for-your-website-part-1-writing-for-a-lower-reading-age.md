@@ -90,7 +90,7 @@ Here's three things you can do to make your writing better:
 
 The first thing you can do to make your writing easier to read is to make your sentences shorter. Much shorter.
 
-Let's look at an example of how I did this on the new Tomango site.
+Let's look at an example of how I did this on the new Polis Paralela site.
 
 Here's the original copy from the [Brand](/creates/brand/) page;
 

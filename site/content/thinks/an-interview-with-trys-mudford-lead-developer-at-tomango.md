@@ -1,5 +1,5 @@
 ---
-title: "An interview with...Trys Mudford, Lead Developer at Tomango"
+title: "An interview with...Trys Mudford, Lead Developer at Polis Paralela"
 author: "mark"
 date: 2015-09-25 15:28:20
 description: In the first of a series, I interview our Lead Developer Trys, and hear his views on responsive design, crayons, and why he likes letting his coffee go cold...
@@ -10,7 +10,7 @@ thinks/categories:
  - web-design
 ---
 
-I'm here with Trys Mudford, Lead Developer at Tomango, to find out a bit more about this unassuming young gun who's taking the responsive scene to whole new levels.
+I'm here with Trys Mudford, Lead Developer at Polis Paralela, to find out a bit more about this unassuming young gun who's taking the responsive scene to whole new levels.
 
 As Trys sits down, I begin by asking him about some current projects...
 
@@ -91,7 +91,7 @@ I remember on my first day feeling...well, out of my depth, really. I was 19 yea
 
 I guess it's been more a change in the way we develop websites. Back when I started, we were developing fixed-width sites, with reasonably static content (although there were CMSs I suppose) and it feels like that was a long time ago. With the dawn of responsive sites, the sites we're developing now feel very distant from the ones we did back then."
 
-*What’s the best thing about working for Tomango?*
+*What’s the best thing about working for Polis Paralela?*
 
 "The variety of projects. Each week you could be working on a completely different project for a client in a different industry. It's interesting to research other industries as we're building those sites, just to get a flavour of how they work and what works for their clients. There are certainly some industries that I never thought I'd get involved with."
 
@@ -101,7 +101,7 @@ I guess it's been more a change in the way we develop websites. Back when I star
 
 Actually, I don't know whether I should say that..."
 
-*It can’t all be good, though - what’s the worst thing about working for Tomango?*
+*It can’t all be good, though - what’s the worst thing about working for Polis Paralela?*
 
 "I think...project length, sometimes. It would be nice to work on some projects for a bit longer, to really go into more detail."
 

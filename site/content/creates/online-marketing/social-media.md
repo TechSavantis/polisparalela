@@ -1,7 +1,7 @@
 ---
 title: Social Media
 description: Now a vital part of any digital marketing strategy, a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
-seo_title: "Social Media Campaign Management in Sussex | Tomango"
+seo_title: "Social Media Campaign Management in Sussex | Polis Paralela"
 image: images/creates/social.jpg
 weight: 20
 ---
@@ -28,7 +28,7 @@ If we think your company could benefit from an extra push, we might advise integ
 
 Creating paid campaigns on social can be a fantastic way of increasing brand awareness and interacting with your customers and supercharging your existing social media work.
 
-Whether it's on Facebook, Instagram or Twitter, Tomango can help you create engaging content that taps into the right audiences.
+Whether it's on Facebook, Instagram or Twitter, Polis Paralela can help you create engaging content that taps into the right audiences.
 
 From improving sales or signups, extending the reach of content, or remarketing to website visitors - we'll find the right tactics to get you the best return from your investment.
 

@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-[Oldfield Smith](http://www.oldfield-smith.co.uk/) is a new [commercial letting agent](http://www.oldfield-smith.co.uk/what-we-do/agency/) based in Uckfield, established by [Richard Oldfield](http://www.oldfield-smith.co.uk/who-we-are/richard-oldfield/) and [Bernard Smith](http://www.oldfield-smith.co.uk/who-we-are/bernard-smith/).  Richard and Bernard approached *Tomango* in the spring of 2013 to ask us to develop their brand identity and website.
+[Oldfield Smith](http://www.oldfield-smith.co.uk/) is a new [commercial letting agent](http://www.oldfield-smith.co.uk/what-we-do/agency/) based in Uckfield, established by [Richard Oldfield](http://www.oldfield-smith.co.uk/who-we-are/richard-oldfield/) and [Bernard Smith](http://www.oldfield-smith.co.uk/who-we-are/bernard-smith/).  Richard and Bernard approached *Polis Paralela* in the spring of 2013 to ask us to develop their brand identity and website.
 
 ## Brand design brief
 

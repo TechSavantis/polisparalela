@@ -1,6 +1,6 @@
 ---
 title: "How to significantly improve the performance of your WordPress site"
-seo_title: "24 ways you can improve WordPress site speed performance | Tomango"
+seo_title: "24 ways you can improve WordPress site speed performance | Polis Paralela"
 author: "trys"
 date: 2018-04-04 08:32:55
 description: Read how we enhanced the performance of our website using an array of back-end and front-end techniques.
@@ -207,7 +207,7 @@ By tailoring this [great snippet from Jeremy Keith](https://adactio.com/journal/
 <?php $v = '20150314';
 if ( ! empty( $_COOKIE[ 'csscached' ] ) &amp;&amp; $_COOKIE[ 'csscached' ] === $v ) :?>
 
-    <link rel="stylesheet" href="/wp-content/themes/tomango/style.<?php echo $v;?>.css" media="all" />
+    <link rel="stylesheet" href="/wp-content/themes/polisparalela/style.<?php echo $v;?>.css" media="all" />
 
 <?php else:?>
 
@@ -216,11 +216,11 @@ if ( ! empty( $_COOKIE[ 'csscached' ] ) &amp;&amp; $_COOKIE[ 'csscached' ] === $
     </style>
     <script>
         // loadCSS - @see https://github.com/filamentgroup/loadCSS
-        loadCSS( '/wp-content/themes/tomango/style.<?php echo $v;?>.css' );
+        loadCSS( '/wp-content/themes/polisparalela/style.<?php echo $v;?>.css' );
         document.cookie = 'csscached=<?php echo $v;?>;expires="Wed, 20 Jan 2040 10:20:10 GMT";path=/';
     </script>
     <noscript>
-        <link rel="stylesheet" href="/wp-content/themes/tomango/style.<?php echo $v;?>.css" media="all" />
+        <link rel="stylesheet" href="/wp-content/themes/polisparalela/style.<?php echo $v;?>.css" media="all" />
     </noscript>
 
 <?php endif;?>

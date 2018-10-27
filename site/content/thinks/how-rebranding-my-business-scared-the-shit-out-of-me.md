@@ -16,7 +16,7 @@ The last twelve months for me has definitely been the latter.
 
 ## The Rut
 
-In January 2018, Tomango was five years old. The business had always been stable and profitable, and we’d enjoyed steady if unspectacular growth. We’d worked with some great clients on some really good projects. 80% of the time, I loved running my business.
+In January 2018, Polis Paralela was five years old. The business had always been stable and profitable, and we’d enjoyed steady if unspectacular growth. We’d worked with some great clients on some really good projects. 80% of the time, I loved running my business.
 
 But…
 
@@ -40,7 +40,7 @@ I vowed from that point on that we weren’t going to take on any old project ju
 
 Two significant things happened in 2017 that set us on our journey.
 
-In April we started working with the brilliant and wonderful [Julia Chanteray](https://www.thejoyofbusiness.co.uk). With her help, over the next nine months we identified what we wanted Tomango to be, what we were good at, who we wanted to work with and how we were going to get there.
+In April we started working with the brilliant and wonderful [Julia Chanteray](https://www.thejoyofbusiness.co.uk). With her help, over the next nine months we identified what we wanted Polis Paralela to be, what we were good at, who we wanted to work with and how we were going to get there.
 
 ![Julia Chanteray](/images/blog/julia-chanteray-portraits_23.jpg)
 
@@ -58,7 +58,7 @@ The outcome is that we've completely changed our approach to how we serve our cl
 
 ## The Rebrand
 
-Having figured out what we needed to do to get to where we wanted to go, we had to go about rebranding Tomango.
+Having figured out what we needed to do to get to where we wanted to go, we had to go about rebranding Polis Paralela.
 
 Like a lot of agencies, we find rebranding our own business harder than rebranding a client.
 
@@ -68,9 +68,9 @@ It's taken a long time, but on 1st May 2018 we made our new website live.
 
 It’s very different to what went before. We’ve taken our own advice that we give to clients and focused our message completely around our customers and what they need. Egos have been put to one side.
 
-It’s not been easy, but without a doubt this website, and the wider rebrand, represents exactly what Tomango is now all about.
+It’s not been easy, but without a doubt this website, and the wider rebrand, represents exactly what Polis Paralela is now all about.
 
-I want to send out a big heart-felt thank you to every one of the hard-working team at Tomango for doing such a great job helping to shape our future.
+I want to send out a big heart-felt thank you to every one of the hard-working team at Polis Paralela for doing such a great job helping to shape our future.
 
 ## The Feeling
 

@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-In June 2015, Tomango finished a project to design and develop the new [website for Hailsham Town Council](http://www.tomango.co.uk/created/hailsham-town-council/).
+In June 2015, Polis Paralela finished a project to design and develop the new [website for Hailsham Town Council](http://www.polisparalela.co.uk/created/hailsham-town-council/).
 
 Our brief was to design and develop a new website for the council to give residents easy access to council services and information about the town.
 
@@ -56,16 +56,16 @@ Additional feedback has mentioned the new site’s clear layout, with comments a
 
 [![](images/blog/hailsham-town-council-events.jpg "Events page")](images/blog/hailsham-town-council-events.jpg)
 
-__*"And finally - how was it working with Tomango; would you say it was a positive experience?"*__
+__*"And finally - how was it working with Polis Paralela; would you say it was a positive experience?"*__
 
 "We always knew we needed to find a web design company we could work well with on this project and we researched the local market thoroughly before appointing you.
 
-Throughout the project, Tomango always made working together easy and painless.
+Throughout the project, Polis Paralela always made working together easy and painless.
 
 From new requirements popping up to last minute changes, the overall approach has always been positive. Even post-launch, the team has continued to be helpful and interactive, meaning we can solve any issues quickly and resolutely."
 
 We're very appreciative of your creative efforts and absolutely delighted with the new site.”
 
-Terry Hall, Communications Officer at Hailsham Town Council, was talking to Tomango's Managing Director [Mark Vaesen](/is/mark-vaesen/).
+Terry Hall, Communications Officer at Hailsham Town Council, was talking to Polis Paralela's Managing Director [Mark Vaesen](/is/mark-vaesen/).
 
 

@@ -17,9 +17,9 @@ Last week we completed a new brand identity for a Sussex payroll specialist base
 
 We were approached by Pay Assist - an [outsourced payroll services](http://www.pay-assist.co.uk/payroll-services/) company based in Uckfield - in January to design and develop the brand identity.
 
-It was clear from the outset that [Pay Assist](http://www.tomango.co.uk/created/pay-assist/) was a client that didn't just need a logo throwing together. They appreciated what it means to have a brand identity created and how important it is to the success of a business.
+It was clear from the outset that [Pay Assist](http://www.polisparalela.co.uk/created/pay-assist/) was a client that didn't just need a logo throwing together. They appreciated what it means to have a brand identity created and how important it is to the success of a business.
 
-And that's why they came to Tomango.
+And that's why they came to Polis Paralela.
 
 ## Understanding the brief
 

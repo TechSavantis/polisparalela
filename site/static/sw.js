@@ -6,7 +6,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
 
 (function() {
   const version = 'v4';
-  const cacheName = version + '::tomango-2018:';
+  const cacheName = version + '::polisparalela-2018:';
 
   const staticCacheName = cacheName + 'static';
   const pagesCacheName = cacheName + 'pages';
@@ -89,7 +89,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
     const request = event.request;
     const url = new URL(request.url);
 
-    if (url.href.indexOf('https://www.tomango.co.uk') !== 0) {
+    if (url.href.indexOf('https://www.polisparalela.co.uk') !== 0) {
       return;
     }
 

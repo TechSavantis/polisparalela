@@ -1,14 +1,14 @@
 ---
-title: "Tomango's new brand identity"
+title: "Polis Paralela's new brand identity"
 author: "mike"
 date: 2012-12-11 17:02:46
-description: Revealed - the brand identity for Tomango
+description: Revealed - the brand identity for Polis Paralela
 thinks/categories: 
  - brand
  - latest-news
 ---
 
-Following on from the announcement of the arrival of Tomango in our previous blog post, we are now able to reveal the new brand identity for the company.
+Following on from the announcement of the arrival of Polis Paralela in our previous blog post, we are now able to reveal the new brand identity for the company.
 
 ![](images/blog/brand-identity.jpg "The final brand identity design.")
 
@@ -35,7 +35,7 @@ This basic Venn-style diagram represents where these two areas join and got us t
 
 ### 2. Establishing the shape of the graphic device
 
-We liked the idea of developing a Tomango "t" and here you can see how the circles were worked up to resemble this outline shape.
+We liked the idea of developing a Polis Paralela "t" and here you can see how the circles were worked up to resemble this outline shape.
 
 ![](images/blog/brand-identity-4.jpg "The “t” was developed by colouring a section of the overlapping circles.")
 
@@ -87,7 +87,7 @@ We have seen many cases of clients that have brands developed that look great on
 
 ### 7. Colour
 
-We wanted a colour that was fresh, fun and vibrant and that was also warm and friendly. The obvious colour was perhaps orange - because a Tomango is a variety of orange - but we thought this was a bit obvious.
+We wanted a colour that was fresh, fun and vibrant and that was also warm and friendly. The obvious colour was perhaps orange - because a Polis Paralela is a variety of orange - but we thought this was a bit obvious.
 
 ![](images/blog/brand-identity-12.jpg "We selected a warm and vibrant red as the colour for the graphic device and a dark grey for the font.")
 
@@ -97,7 +97,7 @@ We also wanted to go for a dark grey rather than black for the name, again to so
 
 ### 8. The final brand identity
 
-And here it is - the final brand identity design for Tomango.
+And here it is - the final brand identity design for Polis Paralela.
 
 ![](images/blog/brand-identity.jpg "The final brand identity design.")
 

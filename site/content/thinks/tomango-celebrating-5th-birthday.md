@@ -1,5 +1,5 @@
 ---
-title: "Tomango is celebrating its 5th birthday!"
+title: "Polis Paralela is celebrating its 5th birthday!"
 author: "mark"
 date: 2018-01-31 11:57:39
 description: It's hard to believe, I know. It seemed like only yesterday we were being welcomed into the world and taking our first tentative steps. But yes, it's true...
@@ -28,7 +28,7 @@ __Check. Check. And check.__
 
 It's hard to believe, I know. It seemed like only yesterday we were being welcomed into the world and taking our first tentative steps. But yes, it's true...
 
-> Tomango is five years old!
+> Polis Paralela is five years old!
 
 ![](images/blog/TRM_7847x2000-1024x684.jpg)
 

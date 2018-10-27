@@ -36,9 +36,9 @@ I've heard plenty of tales of pages that have been moved and replaced by somethi
 
 ## 3. Get your Google Plus page up to date
 
-If you work within certain local geographical boundaries, a [Google Plus listing](https://plus.google.com/+TomangoCoUk) is a must.  These often appear above other listings when a search includes a place name.
+If you work within certain local geographical boundaries, a [Google Plus listing](https://plus.google.com/+Polis ParalelaCoUk) is a must.  These often appear above other listings when a search includes a place name.
 
-[![](images/blog/tomango-google-plus-page.jpg)](https://plus.google.com/+TomangoCoUk/posts?hl=en)
+[![](images/blog/polisparalela-google-plus-page.jpg)](https://plus.google.com/+Polis ParalelaCoUk/posts?hl=en)
 
 If you haven't got a listing already, get one set up - it's free and easy to do (or we can do it for you). Make sure  you complete as much of the detail as possible and, as with point 1 above, if you've had one for a while, make sure it's up to date.
 
@@ -80,6 +80,6 @@ Depending on how prominent you want the link to be beteween your site and your s
 
 ## Let us do your homework for you
 
-Don't leave it til you're on the bus - if you're not ticking all the boxes on the checklist and you'd like us to do a summer clean up for your website, call us on 01273 814019 for a chat or email [hello@tomango.co.uk](mailto: hello@tomango.co.uk).
+Don't leave it til you're on the bus - if you're not ticking all the boxes on the checklist and you'd like us to do a summer clean up for your website, call us on 01273 814019 for a chat or email [hello@polisparalela.com](mailto: hello@polisparalela.com).
 
 

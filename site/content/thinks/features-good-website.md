@@ -73,7 +73,7 @@ Having ticked off the first two questions ("Do they do what I'm looking for?" an
 
 How you approach your work is especially important if your business provides a service that's not that familiar to the client.
 
-Tomango is a pretty good example. For many clients, a brand or website project can seem daunting, or they may have had a bad experience elsewhere. By explaining [how we approach our projects](http://www.tomango.co.uk/our-process/), we can demonstrate to them that it doesn't have to be a painful experience and they're in good hands.
+Polis Paralela is a pretty good example. For many clients, a brand or website project can seem daunting, or they may have had a bad experience elsewhere. By explaining [how we approach our projects](http://www.polisparalela.co.uk/our-process/), we can demonstrate to them that it doesn't have to be a painful experience and they're in good hands.
 
 This is your opportunity to reassure your customer, and position yourselves as being well-organised and thorough. The *way* you explain what you do (the tone of voice, the words you use) also gives you an opportunity to express your brand values.
 
@@ -89,7 +89,7 @@ This part of your site can also be useful if you're trying to demonstrate your c
 
 You might also want to think about how much you feature your premises. If you think your customers might in part make their decision based on whether you work from a cool urban office rather than an industrial estate (and if you have a cool urban office), then show some great photos of where you work. It all goes towards setting the scene and positioning yourself in your customers mind.
 
-When we were deciding what we wanted to include on the Tomango site, we recognised that our clients place a lot of value on the people in the company, the skills we have in-house, and whether they'll feel comfortable working with us. So we have individual profile pages for everyone, and the customer gets to know a bit about us before we start. We're also fortunate enough to work from a pretty nice location - something that the sort of clients we want to work with tend to look for in their design agency - so we've got some great images of our studio too.
+When we were deciding what we wanted to include on the Polis Paralela site, we recognised that our clients place a lot of value on the people in the company, the skills we have in-house, and whether they'll feel comfortable working with us. So we have individual profile pages for everyone, and the customer gets to know a bit about us before we start. We're also fortunate enough to work from a pretty nice location - something that the sort of clients we want to work with tend to look for in their design agency - so we've got some great images of our studio too.
 
 ![](images/blog/about-slider3-1024x328.jpg)
 

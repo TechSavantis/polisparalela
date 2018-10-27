@@ -10,9 +10,9 @@ thinks/categories:
  - web-design
 ---
 
-With the Tomango summer party just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
+With the Polis Paralela summer party just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
 
-Before we merged to become *Tomango*, both Blue Planet and Jupiter Colour were formed as [website design](/creates/web/) companies, but now we're about so much more than that.  Our "vision" for Tomango was to be the best [brand identity design](/creates/brand/), [website design](/creates/web/) and [online marketing company](/creates/online-marketing/) in Sussex.
+Before we merged to become *Polis Paralela*, both Blue Planet and Jupiter Colour were formed as [website design](/creates/web/) companies, but now we're about so much more than that.  Our "vision" for Polis Paralela was to be the best [brand identity design](/creates/brand/), [website design](/creates/web/) and [online marketing company](/creates/online-marketing/) in Sussex.
 
 ## Brand identity
 
@@ -42,7 +42,7 @@ When we met the guys at Geneva the new brand just had a name – there was no br
 Our brief was to create a new brand identity for the business, then design and roll out business stationery and a new website to fit.
 
 {{< quote
-	body="From the initial email that was sent to *Tomango* as a brief tentative outline of what we were looking to achieve to the launching of our brand new site in February, we have had an exceptionally positive experience. The team at Tomango has been a pleasure to work with and we have all learnt so much. We would have no hesitation in recommending their services."
+	body="From the initial email that was sent to *Polis Paralela* as a brief tentative outline of what we were looking to achieve to the launching of our brand new site in February, we have had an exceptionally positive experience. The team at Polis Paralela has been a pleasure to work with and we have all learnt so much. We would have no hesitation in recommending their services."
 	citation="Wendy, Sussex Letting Shop"
 >}}
 
@@ -76,7 +76,7 @@ The blog element is vital to the marketing of the website but to continue the hi
 
 ## Online marketing
 
-Since *Tomango* started trading in January, the [online marketing](/creates/online-marketing/) part of our business has grown quite considerably.  Our expertise has enabled us to deliver sustainable and significant results for our clients and this has led to referrals as word has spread.  Here are a couple of good examples of work we've undertaken recently:
+Since *Polis Paralela* started trading in January, the [online marketing](/creates/online-marketing/) part of our business has grown quite considerably.  Our expertise has enabled us to deliver sustainable and significant results for our clients and this has led to referrals as word has spread.  Here are a couple of good examples of work we've undertaken recently:
 
 ### Authentic Reclamation
 

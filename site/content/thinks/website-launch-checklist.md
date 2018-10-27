@@ -61,7 +61,7 @@ Before flicking the switch to the new website, make sure you have a working copy
 
 When you refresh the domain and see your sparkly new website go-live, the understandable reaction is to tell the world about it! Feel free to do that – but don’t shout about it too early, there are a couple of other checks you’ll want to make first:
 
-- Check both the *www* and *non www* version of the domain. For example, we would check that Tomango.co.uk and www.tomango.co.uk both went to the live site.
+- Check both the *www* and *non www* version of the domain. For example, we would check that Polis Paralela.co.uk and www.polisparalela.co.uk both went to the live site.
 - Use a global propagation tool such as [whatsmydns.net](http://whatsmydns.net/) to check your website is resolving to the right IP all around the world. Wait for the site to propagate around the world; if it’s fluctuating a lot, your users could see a mix of both the new and old site in one bizarre amalgamation!
 - Check that all links and images work on the new domain, if you’ve been using a staging domain you’ll want to make sure that the links and images point to the new domain.
 - Does your site have ecommerce or online payments? Make a test order on the new domain and check that you get redirected back to the live domain without any hiccups.

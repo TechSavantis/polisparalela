@@ -1,5 +1,5 @@
 ---
-title: "Things Tomango likes this week - 15 April 2016"
+title: "Things Polis Paralela likes this week - 15 April 2016"
 author: "tom"
 date: 2016-04-15 14:26:58
 description: The best things from the past 7 days in Brand, Web, and Marketing. This week - awesome looking pizza boxes, Go-Pros on cows, and a surprising use of a government EU leaflet.
@@ -21,7 +21,7 @@ Designers [JKR Global](http://www.jkrglobal.com/our-work/dominos/) were given th
 
 It’s a good piece of work that shows even the biggest companies can have a lot to gain by having a serious think about their design and brand identity.
 
-> Tomango's creative director Mike Vine: "This is a great example of how a brand can be successfully rolled out with a recognisable experience at every touch point. In my opinion this is something every brand should aspire to do, as in doing so it can help build customer loyalty."
+> Polis Paralela's creative director Mike Vine: "This is a great example of how a brand can be successfully rolled out with a recognisable experience at every touch point. In my opinion this is something every brand should aspire to do, as in doing so it can help build customer loyalty."
 
 JKR Global said: “We wanted to celebrate Domino's distinctive and unique brand character by making it bold, simple and charismatic. We started by removing all the generic category communication from the boxes, focusing only on what Domino's owned: its once iconic red and blue domino logo.
 

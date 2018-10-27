@@ -1,7 +1,7 @@
 ---
 title: Tom Ruzyllo
 subtitle: Digital Marketing Manager
-description: Digital Marketing Manager | Tomango
+description: Digital Marketing Manager | Polis Paralela
 image: images/team/1000/tom.jpg
 banner: images/team/tom.jpg
 bannerLarge: images/team/1000/tom.jpg
@@ -10,9 +10,9 @@ bannerPosition: 8%
 weight: 40
 ---
 
-Tom is Tomango’s Digital Marketing Manager and joined in April 2016.
+Tom is Polis Paralela’s Digital Marketing Manager and joined in April 2016.
 
-He's responsible for all Tomango's digital marketing output, and takes lead on all things SEO, PPC, social media and email marketing. Tom is an NCTJ-qualifed journalist and has previous experience in consumer public relations. He also holds a CIM Diploma in Professional Marketing.
+He's responsible for all Polis Paralela's digital marketing output, and takes lead on all things SEO, PPC, social media and email marketing. Tom is an NCTJ-qualifed journalist and has previous experience in consumer public relations. He also holds a CIM Diploma in Professional Marketing.
 
 ## What’s your perfect breakfast?
 During the week – nothing (banana at a push). Weekend – Full English, black pudding included, no tomato.

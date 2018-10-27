@@ -20,7 +20,7 @@ Then we’ll develop your SEO strategy that’ll help increase your online searc
 ## Keyword Research
 Understanding what your target customers search for is key to your SEO strategy.
 
-We’ll take an in-depth look at your current search rankings and conduct competitor analysis to provide a robust list of keywords that Tomango will aim to improve your site’s position for.
+We’ll take an in-depth look at your current search rankings and conduct competitor analysis to provide a robust list of keywords that Polis Paralela will aim to improve your site’s position for.
 
 Then we’ll create great content, fully optimised for search, that targets these keywords.
 

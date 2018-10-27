@@ -2,7 +2,7 @@
 title: How to create a website design brief - download our template
 date: '2016-04-27T04:57:00+01:00'
 description: >-
-  Tomango’s comprehensive guide on how to create a website design brief, with a
+  Polis Paralela’s comprehensive guide on how to create a website design brief, with a
   free template to download and edit.
 image: /images/blog/about-slider4.jpg
 banner: images/blog/about-slider4.jpg
@@ -25,13 +25,13 @@ So I just saved you several hours work ;o)
 
 We add value right from day one - from the very first conversation we have with you. You need us to help you create your brief, based on what you want to achieve from the project. Instead of deliberating about what you need and slaving away writing a long document, you're better off getting in touch _now_ so we can chat about your project in a bit more detail.
 
-Call me on 01273 814019, or [contact us](https://www.tomango.co.uk/contact/) through the website, so we can start helping you right away.
+Call me on 01273 814019, or [contact us](https://www.polisparalela.co.uk/contact/) through the website, so we can start helping you right away.
 
 I thought about deleting this post entirely, but I know people still find it useful when they want to approach their website project the old-fashioned way.
 
 So if you've been asked to put together a brief for your company's new website, and there's no way out of it, go ahead - knock yourself out, and feel free to use this post and the download to help you out.
 
-But if you want to do things a better way, get the best results from your project and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](/contact/) or drop us an [email](mailto:hello@tomango.co.uk) and let's talk.
+But if you want to do things a better way, get the best results from your project and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](/contact/) or drop us an [email](mailto:hello@polisparalela.com) and let's talk.
 
 _Mark Vaesen_
 {{%/ update %}}
@@ -269,7 +269,7 @@ It's a good idea to have worked out who in your organisation needs to be involve
 
 Finish your website design brief with a short summary of what you want to get back from the design agency.
 
-At Tomango, we usually provide a full written proposal, outlining our intended approach from a creative and technical point of view, the costs (for both the initial website build and any ongoing fees), timescales and any assumptions we've made. Remember to include:
+At Polis Paralela, we usually provide a full written proposal, outlining our intended approach from a creative and technical point of view, the costs (for both the initial website build and any ongoing fees), timescales and any assumptions we've made. Remember to include:
 
 1. What you want from the agency (proposal, tender, outline quote, examples etc.) and when you want it
 2. Who they should send it to
@@ -281,4 +281,4 @@ At Tomango, we usually provide a full written proposal, outlining our intended a
 
 Save time creating your website design brief by downloading our template. Our example's based on a fictional company that needs a brochure website, so some sections might not be relevant to your project, but the format's the same and it should save you a lot of thinking time.
 
-Good luck with your website design brief, and don't forget to include Tomango on your list of agencies to quote for your project ;o)
+Good luck with your website design brief, and don't forget to include Polis Paralela on your list of agencies to quote for your project ;o)

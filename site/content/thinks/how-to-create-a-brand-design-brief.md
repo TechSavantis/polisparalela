@@ -12,7 +12,7 @@ thinks/categories:
 author: mark
 ---
 
-It's well known that having a strong [brand identity](https://www.tomango.co.uk/creates/brand/) can make a massive difference to any business.
+It's well known that having a strong [brand identity](https://www.polisparalela.co.uk/creates/brand/) can make a massive difference to any business.
 
 Having the right brand identity helps you:
 
@@ -21,7 +21,7 @@ Having the right brand identity helps you:
 3. Charge the right price for what you sell
 4. Stand apart from your competitors
 
-[Read about how Agon Systems tripled its turnover in three years to £5 million by investing in its brand identity](https://www.tomango.co.uk/created/agon-systems/).
+[Read about how Agon Systems tripled its turnover in three years to £5 million by investing in its brand identity](https://www.polisparalela.co.uk/created/agon-systems/).
 
 But before we start work on any brand identity project, we need to establish a clear design brief with the client.
 
@@ -149,4 +149,4 @@ You might have already engaged your chosen agency, in which case once you've com
 
 If you're still choosing, share the document with the agencies you're talking to - it'll help them understand the project better and be able to talk to you more clearly about budgets.
 
-And if you want to get our take on it, why not [get in touch](/contact/) - just email your brand brief to <mailto:hello@tomango.co.uk>.
+And if you want to get our take on it, why not [get in touch](/contact/) - just email your brand brief to <mailto:hello@polisparalela.com>.

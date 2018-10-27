@@ -7,11 +7,11 @@ thinks/categories:
  - latest-news
 ---
 
-Our summer party is the latest step in the process of rebranding as *Tomango*.  Since we decided to create a new company from the merger of our two previous businesses, we've had to carefully plan how to tell everyone about *Tomango* without alienating our existing customers.
+Our summer party is the latest step in the process of rebranding as *Polis Paralela*.  Since we decided to create a new company from the merger of our two previous businesses, we've had to carefully plan how to tell everyone about *Polis Paralela* without alienating our existing customers.
 
 ## How to roll out a new brand identity
 
-In case you missed it, we have already blogged about [how we created our new brand identity](/thinks/tomangos-new-brand-identity/) before we started trading in January 2013.  In this post, we talk about how we rolled out this new brand, what we needed to plan for and the things we needed to consider.
+In case you missed it, we have already blogged about [how we created our new brand identity](/thinks/polisparalelas-new-brand-identity/) before we started trading in January 2013.  In this post, we talk about how we rolled out this new brand, what we needed to plan for and the things we needed to consider.
 
 We were surprised at just how much we needed to think about; and how much time and effort needed to be put into doing it properly.   If you're considering rebranding, we hope that by sharing our experience it can make the process a little easier for you.
 

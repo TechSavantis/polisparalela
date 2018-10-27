@@ -116,9 +116,9 @@ Go on, I challenge you - try it and see the highest score you can get.
 
 You might have discovered that using the words "you" or "your" help boost your score. Research has shown that these words quickly establish a connection to your reader. This might seem obvious, but it's easy to miss.
 
-## How I re-wrote the headings on the new Tomango website
+## How I re-wrote the headings on the new Polis Paralela website
 
-Let me show you how I applied this to some of the headings on the new Tomango site.
+Let me show you how I applied this to some of the headings on the new Polis Paralela site.
 
 Here's the original sub-headline idea I had for the [Web Development](/creates/web/) page:
 

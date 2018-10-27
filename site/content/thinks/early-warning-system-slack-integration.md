@@ -15,7 +15,7 @@ To counter that, I wrote a small script to keep an eye on things for us - there'
 
 This script runs in the background and checks to see if any site hosted on our server is being picked on and if so, it'll let us know so we can block the individual causing the problem.
 
-This in itself will make a big difference to our response speed. However, we like to take things a little further at Tomango...
+This in itself will make a big difference to our response speed. However, we like to take things a little further at Polis Paralela...
 
 In the office, we use the real-time messaging service '[Slack](https://slack.com/)' to avoid the formality of emails (and increase the output of GIFs in general conversation). This seemed like the perfect time to write a small integration to not only let us know about the urgency of the situation, but to also add a bit of colour and enjoyment to the whole process - hosting can be a bit dull at the best of times!
 

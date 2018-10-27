@@ -1,4 +1,4 @@
-# Tomango 2018
+# Polis Paralela 2018
 
 First of all, install Hugo if you haven't already with: `brew install hugo`.
 

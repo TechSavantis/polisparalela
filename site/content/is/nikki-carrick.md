@@ -1,7 +1,7 @@
 ---
 title: Nikki Carrick
 subtitle: Head of Finance
-description: Head of Finance | Tomango
+description: Head of Finance | Polis Paralela
 image: images/team/1000/nikki.jpg
 banner: images/team/nikki.jpg
 bannerLarge: images/team/1000/nikki.jpg

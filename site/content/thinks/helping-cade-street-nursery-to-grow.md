@@ -13,20 +13,20 @@ thinks/categories:
 ---
 
 ## What we did
-• [Digital Marketing](https://www.tomango.co.uk/creates/online-marketing/)  
-• [Social Media](https://www.tomango.co.uk/creates/online-marketing/social-media/)  
-• [Paid Social](9https://www.tomango.co.uk/creates/online-marketing/google-adwords-ppc/)
+• [Digital Marketing](https://www.polisparalela.co.uk/creates/online-marketing/)  
+• [Social Media](https://www.polisparalela.co.uk/creates/online-marketing/social-media/)  
+• [Paid Social](9https://www.polisparalela.co.uk/creates/online-marketing/google-adwords-ppc/)
 
 ## The brief
 
 Cade Street Nursery is a family business based in Heathfield, East Sussex, and they have been growing plants and flowers there since the 1980s.
 
 {{< quote
-	body="Tomango responded to the challenge of the targets set within the project and really got behind our business. Targets were exceeded and this resulted in a good uplift in sales."
+	body="Polis Paralela responded to the challenge of the targets set within the project and really got behind our business. Targets were exceeded and this resulted in a good uplift in sales."
 	citation="Rob Honeysett, Cade Street Nursery Sales & Planning Manager"
 >}}
 
-Tomango had previously developed a [website](http://cadestreetnursery.co.uk) for them in 2014. Earlier this year their sales and planning manager Rob Honeysett got in touch asking if we could assist them with their marketing for the upcoming gardening season.
+Polis Paralela had previously developed a [website](http://cadestreetnursery.co.uk) for them in 2014. Earlier this year their sales and planning manager Rob Honeysett got in touch asking if we could assist them with their marketing for the upcoming gardening season.
 Their aim for the key trading period from March to July inclusive was to bring **double-digit percentage growth to the the number of transactions** through the plant centre compared to the same period in 2016.
 
 >Customers are still discovering us despite the business having been here for 30 years!
@@ -69,8 +69,8 @@ This includes almost 80 people that live in Heathfield (the nearest town to the 
 
 ![](images/blog/cade-street-sq1.png)
 
-“We’re really pleased with the outcome of our online marketing campaign with Tomango”, said Rob. “Targets were set for the project and they responded to the challenge. These targets were exceeded and this resulted in a good uplift in sales –  plus an increased following online which helps us to continue to communicate with our customers.”
+“We’re really pleased with the outcome of our online marketing campaign with Polis Paralela”, said Rob. “Targets were set for the project and they responded to the challenge. These targets were exceeded and this resulted in a good uplift in sales –  plus an increased following online which helps us to continue to communicate with our customers.”
 
->"Tomango really got behind our business and enabled us to dramatically improve our online presence."
+>"Polis Paralela really got behind our business and enabled us to dramatically improve our online presence."
 
 Both Rob and Debbie were very pleased with how the campaign turned out. With some exciting developments planned at the nursery, we’re all looking forward to seeing how we can help them again in the future!

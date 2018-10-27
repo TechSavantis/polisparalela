@@ -3,7 +3,7 @@ title: "Developing ‘Blue Notes’"
 author: "tom"
 date: 2018-04-30 12:50:57
 description: "With today being ‘International Jazz Day’, I thought it was the perfect chance to share some of Steve’s recent work and blogs, where he does a deep dive into what he calls a labour of love and typography."
-image: /images/blog/blue-notes-tomango.jpg
+image: /images/blog/blue-notes-polisparalela.jpg
 thinks/categories: 
  - web-design
 ---
@@ -12,7 +12,7 @@ With today being ‘International Jazz Day’, I thought it was the perfect chan
 
 In an attempt to to test his layout chops and partly to learn and explore new technologies and techniques in both HTML and CSS, he set off trying to recreate responsive versions of iconic jazz album covers!
 
-![](/images/blog/blue-notes-tomango.jpg)
+![](/images/blog/blue-notes-polisparalela.jpg)
 
 The project entitled ‘Blue Notes’, proved so successful he eventually presented his work at two events – [WordUp Brighton](https://www.meetup.com/WordUp-Brighton/) and [WordCamp London](https://2018.london.wordcamp.org/).
 

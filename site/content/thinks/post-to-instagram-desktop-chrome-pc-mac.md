@@ -1,5 +1,5 @@
 ---
-title: "How to post to Instagram from your desktop PC, laptop or Mac | Tomango"
+title: "How to post to Instagram from your desktop PC, laptop or Mac | Polis Paralela"
 author: "tom"
 date: 2018-04-11 10:55:44
 description: We were chuffed to bits when we found this out. Upload straight from Google Chrome in mere seconds with this quick and foolproof process!
@@ -22,7 +22,7 @@ I’ve actually dabbled with bits of software that mimic a mobile environment be
 - Step three – open **Chrome Developer Tools** (Ctrl+Shift+J, or Cmd+Option+J on Mac).
 - Step four – once that’s done, press Ctrl+Shift+M to go to **Mobile View**.At this stage, you should see something like in the image below.Should you wish, you can even choose which mobile device to replicate the viewport of (we’ve gone for the iPhone X).
 
-![](/images/blog/tomango-chrome-instagram-1024x718.png)
+![](/images/blog/polisparalela-chrome-instagram-1024x718.png)
 
 - Step five – **post your image!** As you can see from the screengrab, the ‘add image’ icon is right there at the bottom of the screen, just as it is on your phone or tablet.
 

@@ -2,7 +2,7 @@
 title: "#BrightonSEO hits the Brighton Centre"
 author: "tom"
 date: 2016-09-09 16:13:30
-description: Last Friday I was let out of the Tomango studio and ventured to Brighton for my second #BrightonSEO conference of the year!
+description: Last Friday I was let out of the Polis Paralela studio and ventured to Brighton for my second #BrightonSEO conference of the year!
 thinks/categories: 
  - digital-marketing
 ---

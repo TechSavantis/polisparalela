@@ -1,6 +1,6 @@
 ---
 title: About us
-seo_description: Tomango is a brand identity, website design and digital marketing company in Sussex delivering sustained results.
+seo_description: Polis Paralela is a brand identity, website design and digital marketing company in Sussex delivering sustained results.
 ---
 
 ## Who we are

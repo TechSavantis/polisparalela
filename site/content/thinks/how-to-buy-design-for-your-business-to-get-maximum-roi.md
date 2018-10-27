@@ -112,7 +112,7 @@ We ask you lots of questions about what you want the future to look like, and ge
 
 This first part needs to involve all the key decision-makers and is run as a half-day workshop.
 
-In **Part 2**, we take away what we’ve learnt in the workshop and, as a team, have a second session at Tomango HQ. We explore what’s needed to get you from where you are now to where you want to be.
+In **Part 2**, we take away what we’ve learnt in the workshop and, as a team, have a second session at Polis Paralela HQ. We explore what’s needed to get you from where you are now to where you want to be.
 
 This enables us to open up the conversation and think about how to get the best return on your investment.
 

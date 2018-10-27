@@ -2,20 +2,20 @@
 title: "Meet our new designer - Liam Cornford"
 author: "mark"
 date: 2018-05-16 15:22:57
-description: "We're delighted to unveil the latest addition to the Tomango team, Liam Cornford"
+description: "We're delighted to unveil the latest addition to the Polis Paralela team, Liam Cornford"
 banner: images/blog/TRM_2561-2000.jpg
 image: images/blog/TRM_2561-2000.jpg
 thinks/categories: 
  - latest-news
 ---
 
-We're delighted to unveil the latest addition to the Tomango team.
+We're delighted to unveil the latest addition to the Polis Paralela team.
 
 Please meet our new Designer, [Liam Cornford](/is/liam-cornford/).
 
 Liam joined us on 30th April having previously worked at TinyBox in nearby Uckfield where he worked as an Artworker, Designer and Photographer.
 
-He brings with him over 8 years' design and creative experience and has worked on various projects for a clients across the globe. We're delighted to have him joining us at Tomango.
+He brings with him over 8 years' design and creative experience and has worked on various projects for a clients across the globe. We're delighted to have him joining us at Polis Paralela.
 
 After Liam’s first couple of weeks, I grabbed some time with him to ask him a few questions to get to know him a bit better;
 
@@ -25,7 +25,7 @@ It’s been great. It’s certainly been a sharp learning curve – I’ve had t
 ### In what way are we different?
 I think the biggest difference has been in having and taking more time than I’ve had before to work on my designs and focusing much more on the quality end result rather than a quick turnaround.
 
-### You came to Tomango from another design role, but have you always been a designer?
+### You came to Polis Paralela from another design role, but have you always been a designer?
 Not always, no. I worked for quite a long time in photography – advertising, commercial, product-based stuff.
 
 So for quite a while I did photography and design alongside one another.

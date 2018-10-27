@@ -165,7 +165,7 @@ Once you've decided which web agencies you want to talk to, pick up the phone or
 
 > Dear Tony,
 
-I'm the owner of an architect practice in Brighton and we'd like to talk to Tomango about rebranding our business and developing a new website.
+I'm the owner of an architect practice in Brighton and we'd like to talk to Polis Paralela about rebranding our business and developing a new website.
 
 Is this something you’d be interested in?
 

@@ -38,15 +38,15 @@ You can't change this (unless you move premises!), but you can still be found on
 
 Get your [Google My Business](https://www.google.com/business/) (GMB) listing sorted - that’s the thing that shows up on the right hand side when your business name is typed in. Without this you won't appear in the 3-pack results, even if you're the closest business to the search source.
 
-Take at look at Tomango's listing below as an example; using GMB you can show your business address, logo, geographic location, opening hours, contact information, and website link – all in one nice call-out box.
+Take at look at Polis Paralela's listing below as an example; using GMB you can show your business address, logo, geographic location, opening hours, contact information, and website link – all in one nice call-out box.
 
-![](images/blog/Tomango-Google-Business-box-1.png "The Google My Business listing shows useful company information in one handy location")
+![](images/blog/Polis Paralela-Google-Business-box-1.png "The Google My Business listing shows useful company information in one handy location")
 
 Looks pretty good! To ensure your business has this done right, head to the Google My Business [setup page](https://www.google.com/business/) and take it from there.
 
 As an aside - make sure that your name, address, and phone number (NAP) for your business is consistent *across the internet. *Whether it be in this listing, on the footer of your website, on Yelp or anywhere else - getting your NAP consistent is imperative. If there are two differing versions, Google can split your SEO goodness between them - to the detriment of your ranking.
 
-*But hang on - that box for Tomango also contains reviews...how do I get those?*
+*But hang on - that box for Polis Paralela also contains reviews...how do I get those?*
 
 Once your GMB listing is set up, customers and clients have the ability to leave their reviews. If you're starting fresh it doesn't hurt to ask existing clients to leave feedback to get you going - so long as you're sure they'll be positive!
 
@@ -82,7 +82,7 @@ However, this is just the start! These are just a few of approximately 200 facto
 
 *I haven't got time for all this! Can't I get someone to do it for me?*
 
-Funny you should say that! Tomango provides local SEO for many of its clients, and can help you do all the above and more.
+Funny you should say that! Polis Paralela provides local SEO for many of its clients, and can help you do all the above and more.
 
 Find out more about our [online marketing](/creates/online-marketing/) services to see how we can help your business, then [get in touch](/contact/) to get started.
 
